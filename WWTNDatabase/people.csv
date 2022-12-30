@@ -1,0 +1,3528 @@
+"pid","title","forename","surname","suffix","note","distinguish"
+ "2","Hon","William","Stafford-Howard","2nd earl of Stafford",NULL,NULL
+ "3","Mr",NULL,"Gage",NULL,NULL,NULL
+ "5","Fr","Edward","Thwing",NULL,"martyr",NULL
+ "7","(great)","Philip","Howard","Earl of Arundel",NULL,NULL
+ "8","(great)","William","Howard","Viscount Stafford",NULL,NULL
+ "9","(half) Rev","John","Tremaine alias Cottam","SJ",NULL,NULL
+ "10","Abbe","Jenico","Preston","canon",NULL,NULL
+ "12",NULL,"Richard","Neale","Archbishop of York","Protestant",NULL
+ "13","Baron",NULL,"Duijnes, van der",NULL,NULL,NULL
+ "14","Bishop","Bonaventure","Gifford","of the London district","Cath",NULL
+ "15","Bishop","Charles","Walmesley","OSB",NULL,NULL
+ "16","Bishop","Francis","Petre",NULL,NULL,NULL
+ "17","Bishop","George","Witham",NULL,NULL,NULL
+ "18","Bishop","James Robert","Talbot","of the London district",NULL,NULL
+ "19","Bishop","James","Smith",NULL,NULL,NULL
+ "20","Bishop","James","Talbot",NULL,NULL,NULL
+ "21","Bishop","John Joseph","Hornyold","DD",NULL,NULL
+ "22","Bishop","John Joseph","Hornyold","DD",NULL,NULL
+ "23","Bishop","John Talbot","Stonor","of the London district",NULL,NULL
+ "24","Bishop","John","Douglass","of the London district",NULL,NULL
+ "25","Bishop","Richard","Smith",NULL,"Bishop of Chalcedon",NULL
+ "26","Bishop","Thomas Joseph","Talbot",NULL,NULL,NULL
+ "27","Bishop","William","Maire","coadjutor",NULL,NULL
+ "29","Captain",NULL,"Nicols",NULL,NULL,NULL
+ "30","Captain",NULL,"Ogelve",NULL,NULL,NULL
+ "31","Captain","Thomas","Parker",NULL,"East India Company",NULL
+ "32","Cardinal","Philip","Howard","OP",NULL,NULL
+ "33","Cardinal","William","Allen",NULL,NULL,NULL
+ "34","Col",NULL,"Dallison",NULL,NULL,NULL
+ "35","Col",NULL,"Dyve",NULL,"Prot",NULL
+ "36","Col","Thomas","Morgan",NULL,NULL,NULL
+ "37","Colonel","Bernard","Howard",NULL,NULL,NULL
+ "39","Colonel","Thomas","Howard ",NULL,NULL,NULL
+ "42","Colonel","Thomas","Nelson",NULL,NULL,NULL
+ "43","Dame","Jane Catherine","Shea",NULL,NULL,NULL
+ "44","Dame","Mary","Archer",NULL,NULL,NULL
+ "46","Dom","Alexius Peter","Caryll","OSB",NULL,NULL
+ "47","Dom","Edward","Sheldon","OSB",NULL,NULL
+ "48","Dom","Gregory","Hesketh","OSB",NULL,NULL
+ "49","Dom","J L","Hadley","OSB",NULL,NULL
+ "50","Dom","John Cuthbert","Simpson","OSB",NULL,NULL
+ "51","Dom","John Placidus ","Gascoigne","OSB","Abbot of Lambspring",NULL
+ "52","Dom","Joseph Cuthbert","Wilks","OSB",NULL,NULL
+ "54","Dom","Lawrence","Anderton","OSB",NULL,NULL
+ "55","Dom","Peter Richard","Walmesley","OSB",NULL,NULL
+ "56","Dom","Richard Benedict","Simpson","OSB",NULL,NULL
+ "57","Dom","Roger Anselm","Collingwood","OSB",NULL,NULL
+ "58","Dr [Physic]","John","Barefoot",NULL,NULL,NULL
+ "59","Dr","Charles","Howard","DD",NULL,NULL
+ "61","Dr","George","Lutener",NULL,NULL,NULL
+ "62","Dr","John","Clement",NULL,"Cath",NULL
+ "63","Dr","Philip","Short",NULL,NULL,NULL
+ "64","Dr","Thomas","Witham","DD",NULL,NULL
+ "65","Father","Henry","Edgeworth",NULL,NULL,NULL
+ "66","Fr","Alexander","Keynes","SJ",NULL,NULL
+ "67","Fr","Andrew","Gifford","alias Jonathan Cole","Cath",NULL
+ "68","Fr","Andrew","Knightley","Archdeacon of the Old Chapter",NULL,NULL
+ "69","Fr","Augustine","Gifford",NULL,"Cath",NULL
+ "70","Fr","Bruno","Anderton",NULL,NULL,NULL
+ "71","Fr","Charles","Waldegrave",NULL,NULL,NULL
+ "72","Fr","Christopher","Anderton","SJ","Rector, Rome",NULL
+ "73","Fr","Christopher","Witham",NULL,NULL,NULL
+ "74","Fr","Edmund ","Thorold","SJ",NULL,NULL
+ "75","Fr","Edmund","Bedingfield","canon",NULL,NULL
+ "77","Fr","Edmund","Bedingfield","canon",NULL,NULL
+ "80","Fr","Francis","Green","SJ",NULL,NULL
+ "81","Fr","Francis","Ingleby",NULL,"martyr",NULL
+ "82","Fr","George","Busby (Brown)","SJ",NULL,NULL
+ "83","Fr","Henry [Placid]","Cary","OSB",NULL,NULL
+ "84","Fr","Henry","Hamerton","SJ",NULL,NULL
+ "85","Fr","Henry","More",NULL,NULL,NULL
+ "86","Fr","James","Betts","O.Cart",NULL,NULL
+ "87","Fr","James","Bullstrode",NULL,NULL,NULL
+ "88","Fr","John","Busby (Brown)","SJ",NULL,NULL
+ "89","Fr","John","Busby",NULL,NULL,NULL
+ "90","Fr","John","Colleton",NULL,NULL,NULL
+ "91","Fr","John","Plessington",NULL,NULL,NULL
+ "92","Fr","John","Southcote",NULL,NULL,NULL
+ "93","Fr","John","Warner","SJ",NULL,NULL
+ "94","Fr","Joseph Cuthbert","Wilks","OSB",NULL,NULL
+ "95","Fr","Joseph","Barrow","SJ",NULL,NULL
+ "96","Fr","Lawrence","Breers",NULL,NULL,NULL
+ "97","Fr","Richard Barton Vere","Bradshaigh","SJ",NULL,NULL
+ "98","Fr","Richard","Barrow","SJ",NULL,NULL
+ "99","Fr","Robert","Witham",NULL,NULL,NULL
+ "100","Fr","Talbot","Coleman","OFM",NULL,NULL
+ "101","Fr","Thomas","Collingwood","SJ",NULL,NULL
+ "102","Fr","Thomas","More",NULL,NULL,NULL
+ "103","Fr","Thomas","Studert",NULL,NULL,NULL
+ "104","Fr","Thomas","Thwing",NULL,"martyr",NULL
+ "106","Fr","Thomas","Witham",NULL,NULL,NULL
+ "107","Fr","Thomas","Worthington","OP",NULL,NULL
+ "108","Fr","William","Fowler","OP",NULL,NULL
+ "110","Hon Lady","Ann","Lee",NULL,NULL,NULL
+ "111","Hon","Anne","Roper",NULL,NULL,NULL
+ "112","Hon","Anne","Russell",NULL,NULL,NULL
+ "113","Hon","Barbara","Aston",NULL,NULL,NULL
+ "116","Hon","Catherine","Petre",NULL,NULL,NULL
+ "117","Hon","Charles","Stourton",NULL,NULL,NULL
+ "118","Hon","Charles","Talbot","Esq",NULL,NULL
+ "119","Hon","Elizabeth","Petre",NULL,NULL,NULL
+ "120","Hon","Frances","Dormer",NULL,NULL,NULL
+ "121","Hon","Francis","Talbot",NULL,NULL,NULL
+ "122","Hon","John Paul","Stafford-Howard",NULL,NULL,NULL
+ "123","Hon","Mary","Fitzwilliam",NULL,NULL,NULL
+ "126","Judge","Henry","Blanchard","Esq",NULL,NULL
+ "127","King","Charles II","Stuart",NULL,NULL,NULL
+ "128","King","James II","Stuart",NULL,NULL,NULL
+ "130","Lady","Alethea","Fairfax",NULL,NULL,NULL
+ "131","Lady","Alethea","Sandys",NULL,"Cath",NULL
+ "132","Lady","Ann ","Somerset",NULL,"Catholic convert",NULL
+ "133","Lady","Anne","Compton",NULL,NULL,NULL
+ "134","Lady","Anne","Gage",NULL,NULL,NULL
+ "135","Lady","Anne","Gurdin",NULL,NULL,NULL
+ "137","Lady","Arabella","Churchill",NULL,NULL,NULL
+ "138","Lady","Barbara","Villiers","duchess of Cleveland",NULL,NULL
+ "141","Lady","Barbara","Webb",NULL,NULL,NULL
+ "143","Lady","Catherine","Petre",NULL,NULL,NULL
+ "145","Lady","Elizabeth","Carryll",NULL,NULL,NULL
+ "147","Lady","Elizabeth","Parke",NULL,NULL,NULL
+ "148","Lady","Elizabeth","Somerset",NULL,NULL,NULL
+ "149","Lady","Elizabeth","Touchet","baroness Audley",NULL,NULL
+ "150","Lady","Frances ","Mordaunt",NULL,NULL,NULL
+ "151","Lady","Frances","Arundell",NULL,NULL,NULL
+ "152","Lady","Jane","Beaumont",NULL,NULL,NULL
+ "153","Lady","Mary","Draycott",NULL,NULL,NULL
+ "154","Lady","Mary","Lovell",NULL,NULL,NULL
+ "155","Lady","Mary","Molyneux",NULL,NULL,NULL
+ "156","Lady","Mary","Petre",NULL,NULL,NULL
+ "158","Lady","Mary","Sackville",NULL,NULL,NULL
+ "159","Lady","Mary","Weston",NULL,NULL,NULL
+ "160","Lady",NULL,"Aston",NULL,NULL,NULL
+ "161","Lady",NULL,"Kilmarnock",NULL,NULL,NULL
+ "162","Lady",NULL,"Margaret",NULL,NULL,NULL
+ "163","Lady","Olivia","Smythe",NULL,NULL,NULL
+ "164","Lady","Theresa","Herbert",NULL,NULL,NULL
+ "165","Lady","Thomasine","Barnewall",NULL,NULL,NULL
+ "166","Lady","Ursula","Tyrwhitt",NULL,NULL,NULL
+ "167","Lieut. Col","William","Houghton",NULL,NULL,NULL
+ "169","Lord ","Anthony","Preston ","9th viscount Gormanston",NULL,NULL
+ "170","Lord ","Roger","Palmer","earl of Castlemaine",NULL,NULL
+ "172","Lord","Archibald","Campbell","7th earl of Argyll","convert",NULL
+ "173","Lord","Charles Florentine","Salm-Salm","Count of Salm etc",NULL,NULL
+ "174","Lord","Christopher","Roper","2nd baron Teynham",NULL,NULL
+ "175","Lord","Henry","Browne","5th viscount Montagu",NULL,NULL
+ "177","Lord","Henry","Howard","earl Arundel, 6th duke Norfolk",NULL,NULL
+ "178","Lord","Henry","Roper","10th Lord Teynham",NULL,NULL
+ "179","Lord","Hugh","Clifford","4th baron",NULL,NULL
+ "180","Lord","Hugo","Clifford","2nd lord",NULL,NULL
+ "181","Lord","Jenico","Preston ","10th viscount Gormanston",NULL,NULL
+ "182","Lord","John","Caryll","2nd baron Durford in Jacobite peerage",NULL,NULL
+ "183","Lord","John","Chanceller","Lord of Chalk",NULL,NULL
+ "184","Lord","John","Constable","2nd viscount Dunbar","Cath",NULL
+ "185","Lord","John","Roper","1st baron Teynham",NULL,NULL
+ "186","Lord","John","Roper","3rd baron Teynham",NULL,NULL
+ "187","Lord","Matthew","van Cannat de Hamale",NULL,NULL,NULL
+ "188","Lord","Thomas","Percy","7th earl of Northd",NULL,NULL
+ "190","Lord","William","Herbert","1st earl/duke of Powis",NULL,NULL
+ "192","M","Nicolas","de Plenevaux",NULL,NULL,NULL
+ "193","M",NULL,"Melchior","Baron de Rouveroit",NULL,NULL
+ "194","Madam",NULL,"Thirsault",NULL,NULL,NULL
+ "195","Major","John","Legge",NULL,NULL,NULL
+ "196","Marquis","Ulick","Burke","Clanricarde",NULL,NULL
+ "197","Mme","Elizabeth","Weston",NULL,NULL,NULL
+ "198","Mme","Marie Addrian","Tenremonde",NULL,NULL,NULL
+ "199","Mme",NULL,"de Vicq",NULL,NULL,NULL
+ "200","Mme","Phoebe","Palmer",NULL,NULL,NULL
+ "201","Monsr","John","Gelthoff",NULL,NULL,NULL
+ "202","Monsr",NULL,"Van Telin",NULL,NULL,NULL
+ "203","Mr ","William","Sykes",NULL,NULL,NULL
+ "204","Mr","Andrew","Vanbuel",NULL,NULL,NULL
+ "205","Mr","Anthony","Craggs",NULL,"prot",NULL
+ "206","Mr","Antony","Hyde",NULL,NULL,NULL
+ "207","Mr","Antony","Tateman",NULL,NULL,NULL
+ "208","Mr","Antony","Turberville",NULL,NULL,NULL
+ "210","Mr","Bartholomew","Rice",NULL,NULL,NULL
+ "211","Mr","Benedict","Hall",NULL,NULL,NULL
+ "212","Mr","Bernard","Howard",NULL,NULL,NULL
+ "213","Mr","Bod'haine","d'Harlebecque",NULL,NULL,NULL
+ "214","Mr","Charles","Butler",NULL,NULL,NULL
+ "215","Mr","Charles","Mullins",NULL,NULL,NULL
+ "216","Mr","Christopher","Chilton",NULL,NULL,NULL
+ "217","Mr","Christopher","Hewick",NULL,NULL,NULL
+ "218","Mr","Christopher","Hill",NULL,NULL,NULL
+ "219","Mr","Cicill","Speare",NULL,NULL,NULL
+ "220","Mr","Cornelius","Burnham",NULL,NULL,NULL
+ "221","Mr","David","Ingleby",NULL,NULL,NULL
+ "222","Mr","Dominick","Trant",NULL,NULL,NULL
+ "223","Mr","Dudley","Dougherty",NULL,NULL,NULL
+ "224","Mr","Edward","Chapman",NULL,NULL,NULL
+ "226","Mr","Edward","Hague",NULL,NULL,NULL
+ "227","Mr","Edward","Martin",NULL,NULL,NULL
+ "228","Mr","Edward","Poulter",NULL,NULL,NULL
+ "229","Mr","Edward","Trant",NULL,NULL,NULL
+ "230","Mr","Edward","Waldegrave",NULL,NULL,NULL
+ "231","Mr","Francis","Conne",NULL,NULL,NULL
+ "232","Mr","Francis","Downes",NULL,NULL,NULL
+ "233","Mr","Francis","Hildesley",NULL,NULL,NULL
+ "234","Mr","Francis","Hyde",NULL,NULL,NULL
+ "235","Mr","Francis","Percy",NULL,NULL,NULL
+ "236","Mr","Francis","Shaw",NULL,"cath",NULL
+ "237","Mr","Gabriel","Colford",NULL,NULL,NULL
+ "238","Mr","George ","Persons",NULL,NULL,NULL
+ "239","Mr","George","Coup",NULL,NULL,NULL
+ "241","Mr","George","Mathews",NULL,NULL,NULL
+ "242","Mr","George","Meynell",NULL,NULL,NULL
+ "243","Mr","George","Sharples",NULL,NULL,NULL
+ "244","Mr","George","Smith",NULL,NULL,NULL
+ "246","Mr","Gilbert","Byron",NULL,NULL,NULL
+ "248","Mr","Guido","Vrancx",NULL,NULL,NULL
+ "249","Mr","Henry","Burlace",NULL,NULL,NULL
+ "250","Mr","Henry","Crisp",NULL,NULL,NULL
+ "253","Mr","Henry","Dennet",NULL,"Protestant",NULL
+ "255","Mr","Henry","Houthem",NULL,NULL,NULL
+ "256","Mr","Henry","Knight",NULL,NULL,NULL
+ "257","Mr","Henry","Marshall",NULL,NULL,NULL
+ "258","Mr","Henry","Perrin",NULL,NULL,NULL
+ "259","Mr","Henry","Powell",NULL,NULL,NULL
+ "260","Mr","Henry","Swift",NULL,NULL,NULL
+ "261","Mr","Henry","Thimelby",NULL,NULL,NULL
+ "262","Mr","Isidore","Lynch",NULL,NULL,NULL
+ "263","Mr","James","Ayray",NULL,NULL,NULL
+ "264","Mr","James","Bell",NULL,NULL,NULL
+ "265","Mr","James","Calvert","gent",NULL,NULL
+ "266","Mr","James","Fuller ",NULL,NULL,NULL
+ "267","Mr","James","Goodlad",NULL,NULL,NULL
+ "268","Mr","James","Howse",NULL,NULL,NULL
+ "269","Mr","James","Laurenson",NULL,NULL,NULL
+ "270","Mr","James","Nicholas",NULL,NULL,NULL
+ "271","Mr","James","Stevenson",NULL,NULL,NULL
+ "272","Mr","James","Udall",NULL,NULL,NULL
+ "273","Mr","James","Withenbury",NULL,NULL,NULL
+ "274","Mr","Jerome ","Hawley",NULL,NULL,NULL
+ "275","Mr","Jhon","Goodyeare",NULL,NULL,NULL
+ "277","Mr","John Baptist","Sonnius",NULL,NULL,NULL
+ "278","Mr","John Joseph","Binstans",NULL,NULL,NULL
+ "279","Mr","John Joseph","Collins",NULL,NULL,NULL
+ "280","Mr","John Vincent","Gandolfy",NULL,NULL,NULL
+ "281","Mr","John","Aston",NULL,NULL,NULL
+ "282","Mr","John","Aston",NULL,NULL,NULL
+ "283","Mr","John","Berington",NULL,NULL,NULL
+ "284","Mr","John","Billinge",NULL,NULL,NULL
+ "285","Mr","John","Brionne",NULL,NULL,NULL
+ "286","Mr","John","Collinges",NULL,NULL,NULL
+ "287","Mr","John","Collins",NULL,NULL,NULL
+ "288","Mr","John","Constable",NULL,NULL,NULL
+ "289","Mr","John","Croft",NULL,NULL,NULL
+ "290","Mr","John","Daniell",NULL,NULL,NULL
+ "291","Mr","John","Deacon",NULL,NULL,NULL
+ "292","Mr","John","Dible",NULL,NULL,NULL
+ "293","Mr","John","Douglass",NULL,NULL,NULL
+ "294","Mr","John","Downs",NULL,NULL,NULL
+ "295","Mr","John","Dufrene",NULL,NULL,NULL
+ "296","Mr","John","Grant",NULL,NULL,NULL
+ "298","Mr","John","Harris",NULL,NULL,NULL
+ "299","Mr","John","Jessop",NULL,"Cath",NULL
+ "302","Mr","John","Liverloz",NULL,NULL,NULL
+ "303","Mr","John","Reade",NULL,NULL,NULL
+ "304","Mr","John","Shelley",NULL,NULL,NULL
+ "305","Mr","John","Skilton",NULL,NULL,NULL
+ "306","Mr","John","Smith",NULL,NULL,NULL
+ "307","Mr","John","Southwell",NULL,NULL,NULL
+ "308","Mr","John","Stafford",NULL,NULL,NULL
+ "309","Mr","John","Stanford",NULL,NULL,NULL
+ "310","Mr","John","Talbot",NULL,NULL,NULL
+ "311","Mr","John","Tarleton",NULL,NULL,NULL
+ "312","Mr","John","Thompson",NULL,NULL,NULL
+ "314","Mr","John","Tourner",NULL,NULL,NULL
+ "315","Mr","John","Vekemans",NULL,NULL,NULL
+ "316","Mr","John","Windon",NULL,NULL,NULL
+ "317","Mr","John","Young",NULL,NULL,NULL
+ "318","Mr","Joseph Milburn","Semmes",NULL,NULL,NULL
+ "319","Mr","Joseph","Berington",NULL,NULL,NULL
+ "320","Mr","Joseph","Duffield",NULL,NULL,NULL
+ "321","Mr","Joseph","Harvey",NULL,NULL,NULL
+ "322","Mr","Joseph","Richardson",NULL,NULL,NULL
+ "323","Mr","Lancelot","Butler",NULL,NULL,NULL
+ "325","Mr","Matthew","Bedingfield",NULL,NULL,NULL
+ "326","Mr","Matthew","Burnett",NULL,NULL,NULL
+ "327","Mr","Matthew","Cuffaude",NULL,NULL,NULL
+ "328","Mr","Miles","Blount",NULL,NULL,NULL
+ "329","Mr","Miles","Lockard",NULL,NULL,NULL
+ "330","Mr","Moses","Mendas",NULL,"Jewish",NULL
+ "331","Mr","N","Morgan",NULL,NULL,NULL
+ "332","Mr","Nathaniel","Green",NULL,NULL,NULL
+ "334","Mr","Nicholas","Jackson",NULL,NULL,NULL
+ "335","Mr",NULL,"Bedingfield",NULL,NULL,NULL
+ "337","Mr",NULL,"Locker",NULL,NULL,NULL
+ "338","Mr",NULL,"Pulleyn",NULL,NULL,NULL
+ "339","Mr",NULL,"Sharp",NULL,NULL,NULL
+ "340","Mr",NULL,"Walton",NULL,NULL,NULL
+ "341","Mr","Oliver","Burke",NULL,NULL,NULL
+ "342","Mr","Peeter","de Belligny",NULL,NULL,NULL
+ "343","Mr","Pell","Stutter",NULL,NULL,NULL
+ "344","Mr","Peter","Corcoran",NULL,NULL,NULL
+ "345","Mr","Peter","Philips",NULL,NULL,NULL
+ "346","Mr","Philip","Dolman",NULL,NULL,NULL
+ "347","Mr","Philippe ","Thielemans",NULL,NULL,NULL
+ "348","Mr","Phillipp","Le Vrai",NULL,NULL,NULL
+ "349","Mr","Ralph","Errington",NULL,NULL,NULL
+ "350","Mr","Reginald","Bell",NULL,NULL,NULL
+ "351","Mr","Richard","Billings",NULL,NULL,NULL
+ "352","Mr","Richard","Fletcher",NULL,NULL,NULL
+ "354","Mr","Richard","Parr",NULL,NULL,NULL
+ "355","Mr","Richard","Price",NULL,NULL,NULL
+ "356","Mr","Richard","Revell",NULL,NULL,NULL
+ "357","Mr","Richard","Simpson",NULL,NULL,NULL
+ "358","Mr","Richard","Street",NULL,NULL,NULL
+ "359","Mr","Richard","Talbot",NULL,NULL,NULL
+ "360","Mr","Richard","Tristram",NULL,NULL,NULL
+ "361","Mr","Richard","Yorke",NULL,NULL,NULL
+ "362","Mr","Robert","Barker",NULL,NULL,NULL
+ "363","Mr","Robert","Blyth",NULL,NULL,NULL
+ "364","Mr","Robert","Brooke",NULL,"conv",NULL
+ "365","Mr","Robert","Browne",NULL,NULL,NULL
+ "366","Mr","Robert","Errington",NULL,"Cath",NULL
+ "367","Mr","Robert","Floyd",NULL,NULL,NULL
+ "368","Mr","Robert","Gage",NULL,NULL,NULL
+ "370","Mr","Robert","Howard",NULL,"prot",NULL
+ "371","Mr","Robert","Marshall",NULL,NULL,NULL
+ "372","Mr","Robert","Molyneux",NULL,NULL,NULL
+ "373","Mr","Robert","Moss",NULL,NULL,NULL
+ "374","Mr","Robert","Nettleton",NULL,NULL,NULL
+ "375","Mr","Robert","Rigby",NULL,NULL,NULL
+ "376","Mr","Roger","Garnons",NULL,NULL,NULL
+ "377","Mr","Steven","Gallaway",NULL,NULL,NULL
+ "378","Mr","Thomas","Acton",NULL,NULL,NULL
+ "379","Mr","Thomas","Adomson",NULL,NULL,NULL
+ "380","Mr","Thomas","Baccus",NULL,NULL,NULL
+ "382","Mr","Thomas","Champney",NULL,NULL,NULL
+ "383","Mr","Thomas","Downes",NULL,NULL,NULL
+ "384","Mr","Thomas","Eure",NULL,NULL,NULL
+ "385","Mr","Thomas","Eyre",NULL,NULL,NULL
+ "386","Mr","Thomas","Fisher",NULL,NULL,NULL
+ "387","Mr","Thomas","Fitzherbert",NULL,NULL,NULL
+ "388","Mr","Thomas","Goodyeare",NULL,NULL,NULL
+ "389","Mr","Thomas","Hickx",NULL,NULL,NULL
+ "390","Mr","Thomas","Hill",NULL,NULL,NULL
+ "391","Mr","Thomas","Keregan",NULL,NULL,NULL
+ "392","Mr","Thomas","Lanning",NULL,NULL,NULL
+ "393","Mr","Thomas","Leveson",NULL,NULL,NULL
+ "394","Mr","Thomas","Myles",NULL,NULL,NULL
+ "395","Mr","Thomas","Nandyke",NULL,NULL,NULL
+ "396","Mr","Thomas","Nelson",NULL,NULL,NULL
+ "397","Mr","Thomas","Ogilvie",NULL,NULL,NULL
+ "398","Mr","Thomas","Osmund ",NULL,NULL,NULL
+ "399","Mr","Thomas","Rayment",NULL,NULL,NULL
+ "400","Mr","Thomas","Sackville",NULL,NULL,NULL
+ "401","Mr","Thomas","Smith",NULL,NULL,NULL
+ "402","Mr","Thomas","Smith",NULL,NULL,NULL
+ "403","Mr","Thomas","Stapleton",NULL,NULL,NULL
+ "404","Mr","Thomas","Stock",NULL,NULL,NULL
+ "405","Mr","Thomas","Tancred",NULL,NULL,NULL
+ "406","Mr","Vincent","Eyre",NULL,NULL,NULL
+ "407","Mr","Walter","Bayley",NULL,NULL,NULL
+ "408","Mr","Will","Preston",NULL,NULL,NULL
+ "409","Mr","William","Archdeacon",NULL,NULL,NULL
+ "410","Mr","William","Burlace",NULL,NULL,NULL
+ "411","Mr","William","Chamberlaine",NULL,NULL,NULL
+ "413","Mr","William","Dennett",NULL,NULL,NULL
+ "414","Mr","William","Evens",NULL,NULL,NULL
+ "415","Mr","William","Guilliams",NULL,NULL,NULL
+ "416","Mr","William","Hagan",NULL,NULL,NULL
+ "417","Mr","William","Hardwick",NULL,NULL,NULL
+ "419","Mr","William","Hildestly",NULL,NULL,NULL
+ "421","Mr","William","Rishton",NULL,NULL,NULL
+ "422","Mr","William","Soloman","JP",NULL,NULL
+ "423","Mr","William","Trant",NULL,NULL,NULL
+ "424","Mr","William","Wilkinson",NULL,NULL,NULL
+ "425","Mr","William","Willis",NULL,NULL,NULL
+ "426","Mr","William","Woolgar",NULL,NULL,NULL
+ "427","Mr","William","d'Alengenne",NULL,NULL,NULL
+ "428","Mrs","Ann","Holman",NULL,NULL,NULL
+ "429","Mrs","Ann","Tucker",NULL,NULL,NULL
+ "430","Mrs","Anne","Howard",NULL,NULL,NULL
+ "431","Mrs","Anne","Sturley",NULL,NULL,NULL
+ "432","Mrs","Anne","Westbrook",NULL,NULL,NULL
+ "433","Mrs","Catherine","Thorold",NULL,NULL,NULL
+ "434","Mrs","Elizabeth","Browne",NULL,NULL,NULL
+ "435","Mrs","Elizabeth","Chalk",NULL,NULL,NULL
+ "436","Mrs","Elizabeth","Darrell",NULL,NULL,NULL
+ "437","Mrs","Elizabeth","Lucas",NULL,NULL,NULL
+ "438","Mrs","Frances","Hales",NULL,NULL,NULL
+ "439","Mrs","Isabella","Nicolson",NULL,NULL,NULL
+ "440","Mrs","Jane","Forburs",NULL,NULL,NULL
+ "441","Mrs","Mary","Edmonds",NULL,NULL,NULL
+ "442","Mrs","Mary","Finch",NULL,NULL,NULL
+ "443","Mrs","Mary","Stourton",NULL,NULL,NULL
+ "444","Mrs","Mary","Witham",NULL,NULL,NULL
+ "445","Mrs","Mary","Withington",NULL,NULL,NULL
+ "446","Mrs",NULL,"Dias",NULL,NULL,NULL
+ "447",NULL,"Michael","Blount","Esq ",NULL,NULL
+ "448",NULL,"Adelaide","D'Arbeashire",NULL,NULL,NULL
+ "449",NULL,"Adriaan","Poorter",NULL,NULL,NULL
+ "450",NULL,"Adrian","Clabou",NULL,NULL,NULL
+ "451",NULL,"Agatha","Berington",NULL,NULL,NULL
+ "453",NULL,"Agnes","Fidler",NULL,NULL,NULL
+ "454",NULL,"Agnes","Flawley",NULL,NULL,NULL
+ "455",NULL,"Agnes","Fleming",NULL,NULL,NULL
+ "456",NULL,"Agnes","Hildesley",NULL,NULL,NULL
+ "457",NULL,"Agnes","Martins",NULL,NULL,NULL
+ "458",NULL,"Agnes","Robinson",NULL,NULL,NULL
+ "459",NULL,"Agnes","Whitbread",NULL,NULL,NULL
+ "460",NULL,"Agnes","Wilford",NULL,"Cath",NULL
+ "461",NULL,"Ailse","Taylor",NULL,NULL,NULL
+ "462",NULL,"Alathea","Elston",NULL,NULL,NULL
+ "463",NULL,"Alathea","Fairfax",NULL,NULL,NULL
+ "464",NULL,"Alathea","Smith",NULL,"Cath",NULL
+ "466",NULL,"Alban","Draycott","esq",NULL,NULL
+ "467",NULL,"Albert","Sergijs",NULL,NULL,NULL
+ "468",NULL,"Albert","Silvertop",NULL,NULL,NULL
+ "470",NULL,"Aldegunda","Hertoghs",NULL,NULL,NULL
+ "471",NULL,"Alexander","Keynes",NULL,NULL,NULL
+ "472",NULL,"Alexander","Whittaker",NULL,NULL,NULL
+ "473",NULL,"Alexander","Worswick",NULL,NULL,NULL
+ "474",NULL,"Alice","Braithwaite",NULL,NULL,NULL
+ "475",NULL,"Alice","Burle",NULL,NULL,NULL
+ "476",NULL,"Alice","Jackson",NULL,NULL,NULL
+ "477",NULL,"Alice","Jay",NULL,NULL,NULL
+ "478",NULL,"Alice","Markland?",NULL,NULL,NULL
+ "479",NULL,"Alice","Modant",NULL,NULL,NULL
+ "481",NULL,"Alice","Pickard",NULL,NULL,NULL
+ "482",NULL,"Alice","Rawstorne",NULL,NULL,NULL
+ "483",NULL,"Alice","Stokes",NULL,NULL,NULL
+ "484",NULL,"Alice","Wigmore",NULL,NULL,NULL
+ "485",NULL,"Alix","Blackburn",NULL,NULL,NULL
+ "486",NULL,"Allen","Horde",NULL,NULL,NULL
+ "487",NULL,"Aloisie","Weysby",NULL,NULL,NULL
+ "488",NULL,"Ambrose","Rookwood","Esq",NULL,NULL
+ "489",NULL,"Ambrose","Veydt",NULL,NULL,NULL
+ "490",NULL,"Amelea","Booth",NULL,NULL,NULL
+ "491",NULL,"Amerigo","Salvetti",NULL,"Cath",NULL
+ "493",NULL,"Amon","Kennard",NULL,NULL,NULL
+ "494",NULL,"Amos","Edmunds",NULL,NULL,NULL
+ "495",NULL,"Amy","Croock",NULL,NULL,NULL
+ "496",NULL,"Amyas","Chichester","Esq",NULL,NULL
+ "498",NULL,"Anastasia","Maire",NULL,NULL,NULL
+ "499",NULL,"Anastasia","Walsh",NULL,NULL,NULL
+ "500",NULL,"Anastatia","Smith",NULL,NULL,NULL
+ "501",NULL,"Andrew","Bendloes",NULL,NULL,NULL
+ "502",NULL,"Andrew","Cramlington",NULL,NULL,NULL
+ "503",NULL,"Andrew","Cross",NULL,NULL,NULL
+ "504",NULL,"Andrew","Gifford",NULL,NULL,NULL
+ "505",NULL,"Andrew","Pease",NULL,NULL,NULL
+ "506",NULL,"Andrew","Rantien",NULL,NULL,NULL
+ "507",NULL,"Andrew","Reynolds",NULL,NULL,NULL
+ "508",NULL,"Andrew","Rulandts",NULL,NULL,NULL
+ "509",NULL,"Andrew","Sulyard aka Sutton","SJ",NULL,NULL
+ "510",NULL,"Andrew","Van den Bogaerde ","Esq",NULL,NULL
+ "511",NULL,"Andrew","Windsor",NULL,"Cath ",NULL
+ "512",NULL,"Andries","van Kemps",NULL,NULL,NULL
+ "513",NULL,"Angel","Van Ham",NULL,NULL,NULL
+ "514",NULL,"Ann ","Ashton",NULL,NULL,NULL
+ "515",NULL,"Ann ","Blount ",NULL,NULL,NULL
+ "516",NULL,"Ann ","Bostock",NULL,NULL,NULL
+ "517",NULL,"Ann ","Nevill ",NULL,NULL,NULL
+ "520",NULL,"Ann ","Paston",NULL,NULL,NULL
+ "521",NULL,"Ann ","Shedle/ Cheadle",NULL,NULL,NULL
+ "522",NULL,"Ann Gabriel","Head",NULL,NULL,NULL
+ "523",NULL,"Ann Lucretia","Hamilton",NULL,NULL,NULL
+ "524",NULL,"Ann","Abram",NULL,NULL,NULL
+ "525",NULL,"Ann","Biddulph",NULL,NULL,NULL
+ "526",NULL,"Ann","Blundell",NULL,NULL,NULL
+ "527",NULL,"Ann","Brown",NULL,NULL,NULL
+ "528",NULL,"Ann","Burcomb",NULL,NULL,NULL
+ "529",NULL,"Ann","Child",NULL,NULL,NULL
+ "530",NULL,"Ann","Coop",NULL,NULL,NULL
+ "531",NULL,"Ann","Crossfield",NULL,NULL,NULL
+ "532",NULL,"Ann","Dukeill",NULL,NULL,NULL
+ "533",NULL,"Ann","Ewerart",NULL,NULL,NULL
+ "534",NULL,"Ann","Formby",NULL,"Cath",NULL
+ "535",NULL,"Ann","Garret",NULL,NULL,NULL
+ "536",NULL,"Ann","Gifford",NULL,NULL,NULL
+ "537",NULL,"Ann","Harrison",NULL,NULL,NULL
+ "538",NULL,"Ann","Hills",NULL,NULL,NULL
+ "539",NULL,"Ann","Holand",NULL,"Cath",NULL
+ "540",NULL,"Ann","Holt",NULL,NULL,NULL
+ "541",NULL,"Ann","Knapp",NULL,NULL,NULL
+ "543",NULL,"Ann","Martin",NULL,NULL,NULL
+ "544",NULL,"Ann","More",NULL,NULL,NULL
+ "545",NULL,"Ann","Morecraft",NULL,NULL,NULL
+ "546",NULL,"Ann","Mudd",NULL,NULL,NULL
+ "547",NULL,"Ann",NULL,NULL,NULL,NULL
+ "548",NULL,"Ann","Reeves",NULL,"Anabaptist",NULL
+ "549",NULL,"Ann","Rutherford",NULL,NULL,NULL
+ "550",NULL,"Ann","Searle?",NULL,NULL,NULL
+ "551",NULL,"Ann","Southcote",NULL,NULL,NULL
+ "552",NULL,"Ann","Springburn",NULL,NULL,NULL
+ "553",NULL,"Ann","Stamp",NULL,NULL,NULL
+ "555",NULL,"Ann","Tancred",NULL,NULL,NULL
+ "556",NULL,"Anna ","Stonor",NULL,NULL,NULL
+ "557",NULL,"Anna Maria","Brouwer, De",NULL,NULL,NULL
+ "558",NULL,"Anna Theresia","Vercauteren",NULL,NULL,NULL
+ "559",NULL,"Anna","Aterban",NULL,NULL,NULL
+ "560",NULL,"Anna","Compton",NULL,NULL,NULL
+ "561",NULL,"Anna","Espinel",NULL,NULL,NULL
+ "562",NULL,"Anna","Every",NULL,NULL,NULL
+ "563",NULL,"Anna","Hodgson",NULL,NULL,NULL
+ "564",NULL,"Anna","Houwers",NULL,NULL,NULL
+ "566",NULL,"Anna","Morgan",NULL,NULL,NULL
+ "567",NULL,"Anna","O'Neal",NULL,NULL,NULL
+ "568",NULL,"Anna","Poulton",NULL,NULL,NULL
+ "569",NULL,"Anna","Sulyard",NULL,NULL,NULL
+ "571",NULL,"Anna","Witham",NULL,NULL,NULL
+ "572",NULL,"Anna","de Voele",NULL,NULL,NULL
+ "573",NULL,"Anne ","Bootle(r)",NULL,NULL,NULL
+ "574",NULL,"Anne ","Bradford",NULL,NULL,NULL
+ "575",NULL,"Anne ","Cousteller",NULL,NULL,NULL
+ "576",NULL,"Anne ","Crispe",NULL,NULL,NULL
+ "577",NULL,"Anne ","Daton/Dortrey",NULL,NULL,NULL
+ "578",NULL,"Anne ","Merry",NULL,NULL,NULL
+ "580",NULL,"Anne ","Neale ",NULL,NULL,NULL
+ "581",NULL,"Anne ","Reeve",NULL,NULL,NULL
+ "582",NULL,"Anne ","Welsh",NULL,NULL,NULL
+ "583",NULL,"Anne ","Williby",NULL,NULL,NULL
+ "584",NULL,"Anne Caroline","Longaix",NULL,NULL,NULL
+ "585",NULL,"Anne","Allot",NULL,NULL,NULL
+ "586",NULL,"Anne","Anderton",NULL,NULL,NULL
+ "587",NULL,"Anne","Anne",NULL,NULL,NULL
+ "588",NULL,"Anne","Ascroft",NULL,NULL,NULL
+ "590",NULL,"Anne","Aston",NULL,NULL,NULL
+ "591",NULL,"Anne","Audley",NULL,NULL,NULL
+ "592",NULL,"Anne","Aybisee",NULL,NULL,NULL
+ "593",NULL,"Anne","Bates",NULL,NULL,NULL
+ "594",NULL,"Anne","Battin",NULL,NULL,NULL
+ "595",NULL,"Anne","Belaif",NULL,NULL,NULL
+ "596",NULL,"Anne","Bettany",NULL,NULL,NULL
+ "597",NULL,"Anne","Bird",NULL,NULL,NULL
+ "598",NULL,"Anne","Bird",NULL,NULL,NULL
+ "599",NULL,"Anne","Blackburne",NULL,NULL,NULL
+ "600",NULL,"Anne","Boleyn",NULL,NULL,NULL
+ "601",NULL,"Anne","Bradshaigh",NULL,NULL,NULL
+ "602",NULL,"Anne","Brent",NULL,NULL,NULL
+ "603",NULL,"Anne","Brett",NULL,NULL,NULL
+ "604",NULL,"Anne","Brooke",NULL,NULL,NULL
+ "605",NULL,"Anne","Brookes",NULL,NULL,NULL
+ "606",NULL,"Anne","Brookesby",NULL,NULL,NULL
+ "607",NULL,"Anne","Brooksbie",NULL,NULL,NULL
+ "608",NULL,"Anne","Butler",NULL,NULL,NULL
+ "610",NULL,"Anne","Caley",NULL,NULL,NULL
+ "611",NULL,"Anne","Campbell",NULL,NULL,NULL
+ "612",NULL,"Anne","Care",NULL,NULL,NULL
+ "613",NULL,"Anne","Carew",NULL,NULL,NULL
+ "614",NULL,"Anne","Catesby",NULL,NULL,NULL
+ "615",NULL,"Anne","Causby",NULL,"prot",NULL
+ "616",NULL,"Anne","Charlton",NULL,NULL,NULL
+ "617",NULL,"Anne","Clopton",NULL,NULL,NULL
+ "618",NULL,"Anne","Colles",NULL,NULL,NULL
+ "619",NULL,"Anne","Constable",NULL,NULL,NULL
+ "620",NULL,"Anne","Coope",NULL,NULL,NULL
+ "621",NULL,"Anne","Corless",NULL,NULL,NULL
+ "622",NULL,"Anne","Cornwallis",NULL,"Cath",NULL
+ "623",NULL,"Anne","Cottam",NULL,NULL,NULL
+ "624",NULL,"Anne","Croke",NULL,NULL,NULL
+ "625",NULL,"Anne","Davenport",NULL,NULL,NULL
+ "626",NULL,"Anne","Downes",NULL,"Prot",NULL
+ "627",NULL,"Anne","Draycott",NULL,NULL,NULL
+ "628",NULL,"Anne","Duke",NULL,NULL,NULL
+ "630",NULL,"Anne","Errington",NULL,NULL,NULL
+ "631",NULL,"Anne","Formby",NULL,NULL,NULL
+ "632",NULL,"Anne","Foster",NULL,NULL,NULL
+ "633",NULL,"Anne","Fowler",NULL,NULL,NULL
+ "634",NULL,"Anne","Fox",NULL,NULL,NULL
+ "636",NULL,"Anne","Gascoigne",NULL,NULL,NULL
+ "637",NULL,"Anne","Gelde",NULL,NULL,NULL
+ "638",NULL,"Anne","Gerard",NULL,NULL,NULL
+ "639",NULL,"Anne","Giffard",NULL,NULL,NULL
+ "640",NULL,"Anne","Golding",NULL,NULL,NULL
+ "641",NULL,"Anne","Gregson",NULL,NULL,NULL
+ "644",NULL,"Anne","Haggerstone",NULL,NULL,NULL
+ "646",NULL,"Anne","Hall ",NULL,NULL,NULL
+ "647",NULL,"Anne","Hall",NULL,NULL,NULL
+ "648",NULL,"Anne","Halsall",NULL,NULL,NULL
+ "651",NULL,"Anne","Hawarden",NULL,NULL,NULL
+ "652",NULL,"Anne","Hawkins",NULL,NULL,NULL
+ "653",NULL,"Anne","Hayter",NULL,NULL,NULL
+ "654",NULL,"Anne","Helme ",NULL,NULL,NULL
+ "655",NULL,"Anne","Hesketh",NULL,NULL,NULL
+ "656",NULL,"Anne","Hesketh",NULL,NULL,NULL
+ "657",NULL,"Anne","Hipson",NULL,NULL,NULL
+ "658",NULL,"Anne","Hobson",NULL,NULL,NULL
+ "660",NULL,"Anne","Holland",NULL,NULL,NULL
+ "661",NULL,"Anne","Hothersall",NULL,NULL,NULL
+ "663",NULL,"Anne","Humble",NULL,NULL,NULL
+ "665",NULL,"Anne","Ingleby",NULL,NULL,NULL
+ "666",NULL,"Anne","Lane",NULL,"Cath",NULL
+ "667",NULL,"Anne","Loots",NULL,NULL,NULL
+ "668",NULL,"Anne","Lovell",NULL,NULL,NULL
+ "669",NULL,"Anne","Lowne",NULL,NULL,NULL
+ "670",NULL,"Anne","Maisters",NULL,NULL,NULL
+ "673",NULL,"Anne","Manners",NULL,"prot: converted",NULL
+ "674",NULL,"Anne","Mannock",NULL,NULL,NULL
+ "675",NULL,"Anne","Markham",NULL,NULL,NULL
+ "676",NULL,"Anne","Messenger",NULL,NULL,NULL
+ "677",NULL,"Anne","Metcalfe",NULL,NULL,NULL
+ "678",NULL,"Anne","Molyneux",NULL,NULL,NULL
+ "680",NULL,"Anne","Monson",NULL,NULL,NULL
+ "682",NULL,"Anne","Neville",NULL,NULL,NULL
+ "683",NULL,"Anne","Noble",NULL,NULL,NULL
+ "684",NULL,"Anne",NULL,NULL,NULL,NULL
+ "685",NULL,"Anne","Norreys",NULL,NULL,NULL
+ "686",NULL,"Anne","Ogle",NULL,NULL,NULL
+ "687",NULL,"Anne","Orrell",NULL,NULL,NULL
+ "688",NULL,"Anne","Perkins",NULL,NULL,NULL
+ "689",NULL,"Anne","Perkins",NULL,NULL,NULL
+ "690",NULL,"Anne","Pershall",NULL,NULL,NULL
+ "691",NULL,"Anne","Pettit",NULL,NULL,NULL
+ "692",NULL,"Anne","Peyton",NULL,NULL,NULL
+ "693",NULL,"Anne","Plumb",NULL,"Cath",NULL
+ "694",NULL,"Anne","Pomfrie",NULL,NULL,NULL
+ "695",NULL,"Anne","Preston",NULL,NULL,NULL
+ "696",NULL,"Anne","Preston",NULL,NULL,NULL
+ "697",NULL,"Anne","Prigion",NULL,NULL,NULL
+ "698",NULL,"Anne","Procter",NULL,NULL,NULL
+ "700",NULL,"Anne","Riddell",NULL,NULL,NULL
+ "701",NULL,"Anne","Roper",NULL,NULL,NULL
+ "702",NULL,"Anne","Sanders",NULL,NULL,NULL
+ "703",NULL,"Anne","Sanderson",NULL,NULL,NULL
+ "704",NULL,"Anne","Saunders",NULL,NULL,NULL
+ "705",NULL,"Anne","Scarisbrick",NULL,NULL,NULL
+ "706",NULL,"Anne","Sergent",NULL,NULL,NULL
+ "707",NULL,"Anne","Sheldon",NULL,NULL,NULL
+ "708",NULL,"Anne","Shinton",NULL,NULL,NULL
+ "709",NULL,"Anne","Shirburne",NULL,NULL,NULL
+ "710",NULL,"Anne","Shirley",NULL,NULL,NULL
+ "711",NULL,"Anne","Simmons",NULL,NULL,NULL
+ "712",NULL,"Anne","Smith",NULL,NULL,NULL
+ "713",NULL,"Anne","Stanford",NULL,NULL,NULL
+ "714",NULL,"Anne","Stanley",NULL,NULL,NULL
+ "715",NULL,"Anne","Stapleton",NULL,NULL,NULL
+ "716",NULL,"Anne","Story",NULL,NULL,NULL
+ "718",NULL,"Anne","Sulyard",NULL,NULL,NULL
+ "720",NULL,"Anne","Symonds",NULL,NULL,NULL
+ "721",NULL,"Anne","Talbot",NULL,NULL,NULL
+ "722",NULL,"Anne","Tasburgh",NULL,NULL,NULL
+ "723",NULL,"Anne","Thorold",NULL,NULL,NULL
+ "724",NULL,"Anne","Throckmorton",NULL,"Cath",NULL
+ "726",NULL,"Anne","Timperell/Timperle",NULL,NULL,NULL
+ "727",NULL,"Anne","Tomson",NULL,NULL,NULL
+ "728",NULL,"Anne","Torhil",NULL,NULL,NULL
+ "729","","Anne","Tufton","","",""
+ "730",NULL,"Anne","Tunstall",NULL,NULL,NULL
+ "731",NULL,"Anne","Van Dillen",NULL,NULL,NULL
+ "732",NULL,"Anne","Van Rompuy",NULL,NULL,NULL
+ "733",NULL,"Anne","Vaughan",NULL,NULL,NULL
+ "735",NULL,"Anne","Vicque",NULL,"Prot",NULL
+ "736",NULL,"Anne","Wailleceson",NULL,NULL,NULL
+ "737",NULL,"Anne","Wall",NULL,NULL,NULL
+ "738",NULL,"Anne","Webbe",NULL,"cath",NULL
+ "739",NULL,"Anne","Wesby",NULL,NULL,NULL
+ "740",NULL,"Anne","West",NULL,NULL,NULL
+ "741",NULL,"Anne","Westcote",NULL,NULL,NULL
+ "742",NULL,"Anne","Wetherby",NULL,NULL,NULL
+ "743",NULL,"Anne","Wibling",NULL,NULL,NULL
+ "744",NULL,"Anne","Willoughby",NULL,NULL,NULL
+ "745",NULL,"Anne","Winchcombe",NULL,NULL,NULL
+ "746",NULL,"Anne","Wintour",NULL,NULL,NULL
+ "747",NULL,"Anne","Witham",NULL,NULL,NULL
+ "748",NULL,"Anne","Woode",NULL,NULL,NULL
+ "749",NULL,"Anne","Wright",NULL,NULL,NULL
+ "750",NULL,"Anne","Yue",NULL,NULL,NULL
+ "752",NULL,"Anne","de Charlie",NULL,NULL,NULL
+ "753",NULL,"Anne","de Koninck",NULL,NULL,NULL
+ "754",NULL,"Annie","Bartlett",NULL,NULL,NULL
+ "755",NULL,"Annie","Sparrie",NULL,NULL,NULL
+ "756",NULL,"Anthonie","Finch",NULL,NULL,NULL
+ "757",NULL,"Anthony","Barlow","Esq",NULL,NULL
+ "758",NULL,"Anthony","Bellasyse",NULL,NULL,NULL
+ "759",NULL,"Anthony","Bruning","Esq",NULL,NULL
+ "760",NULL,"Anthony","Copley",NULL,NULL,NULL
+ "761",NULL,"Anthony","Dormer","Esq",NULL,NULL
+ "762",NULL,"Anthony","Englefield",NULL,NULL,NULL
+ "763",NULL,"Anthony","Martens",NULL,NULL,NULL
+ "764",NULL,"Anthony","Middlemore",NULL,NULL,NULL
+ "765",NULL,"Anthony","Monsey",NULL,NULL,NULL
+ "766",NULL,"Anthony","Monson",NULL,NULL,NULL
+ "767",NULL,"Anthony","Morgan","Esq","Prot",NULL
+ "768",NULL,"Anthony","Roper",NULL,NULL,NULL
+ "769",NULL,"Anthony","Skinner",NULL,NULL,NULL
+ "771",NULL,"Anthony","Smith",NULL,NULL,NULL
+ "772",NULL,"Anthony","Trevelyan",NULL,NULL,NULL
+ "773",NULL,"Anthony","Veauquet",NULL,NULL,NULL
+ "774",NULL,"Anthony","Windsor","Esq",NULL,NULL
+ "775",NULL,"Anthony","Wright","Esq",NULL,NULL
+ "776",NULL,"Antoine","Fouquet",NULL,NULL,NULL
+ "777",NULL,"Antonett","Carron",NULL,NULL,NULL
+ "778",NULL,"Antonie","Burrows","gent",NULL,NULL
+ "779",NULL,"Antony","Carrew","Esq",NULL,NULL
+ "780",NULL,"Antony","Ford",NULL,NULL,NULL
+ "781",NULL,"Antony","Monson",NULL,NULL,NULL
+ "782",NULL,"Antony","Penruddock",NULL,NULL,NULL
+ "783",NULL,"Antony","Philips",NULL,NULL,NULL
+ "784",NULL,"Apollonia","Throckmorton",NULL,NULL,NULL
+ "785",NULL,"Arnold","Colwall",NULL,NULL,NULL
+ "786",NULL,"Arnold","Knight",NULL,NULL,NULL
+ "787",NULL,"Arthur","Bream",NULL,NULL,NULL
+ "788",NULL,"Arthur","Langworth",NULL,NULL,NULL
+ "789",NULL,"Arthur","Warren","Esq",NULL,NULL
+ "790",NULL,"Audrey","Paris",NULL,NULL,NULL
+ "791",NULL,"Audrey","Timperley",NULL,NULL,NULL
+ "792",NULL,"Augustine","Armstrong",NULL,NULL,NULL
+ "793",NULL,"Augustine","Rowe",NULL,NULL,NULL
+ "794",NULL,"Augustine","Whall","gent",NULL,NULL
+ "795",NULL,"Augustus","Thwing",NULL,NULL,NULL
+ "796",NULL,"Balteser","Carrancia",NULL,NULL,NULL
+ "797",NULL,"Barbara Ann","Selby",NULL,NULL,NULL
+ "798",NULL,"Barbara","Brockholes",NULL,NULL,NULL
+ "799",NULL,"Barbara","Browne",NULL,NULL,NULL
+ "800",NULL,"Barbara","Davison",NULL,NULL,NULL
+ "801",NULL,"Barbara","Gilis",NULL,NULL,NULL
+ "802",NULL,"Barbara","Gough",NULL,NULL,NULL
+ "803",NULL,"Barbara","Ksellin",NULL,"German",NULL
+ "804",NULL,"Barbara","Michiels",NULL,NULL,NULL
+ "805",NULL,"Barbara","Moody",NULL,NULL,NULL
+ "807",NULL,"Barbara","Reind",NULL,NULL,NULL
+ "808",NULL,"Barbara","Tipping",NULL,NULL,NULL
+ "809",NULL,"Barbara","Walsingham",NULL,NULL,NULL
+ "810",NULL,"Barbara","Webb",NULL,NULL,NULL
+ "811",NULL,"Barbe","Daniel",NULL,NULL,NULL
+ "812",NULL,"Bartholomew","Fettiplace","Esq",NULL,NULL
+ "814",NULL,"Bartholomew","Kelsey",NULL,NULL,NULL
+ "815",NULL,"Bartholomew","Smith","Esq",NULL,NULL
+ "816",NULL,"Bartholomew","Smith",NULL,NULL,NULL
+ "817",NULL,"Basil","More",NULL,NULL,NULL
+ "818",NULL,"Beatrice","Brome",NULL,NULL,NULL
+ "819",NULL,"Beatrice","Tunstead",NULL,NULL,NULL
+ "820",NULL,"Bellingham","Slaughter","Esq",NULL,NULL
+ "823",NULL,"Benjamin","Tichborne","Esq",NULL,NULL
+ "824",NULL,"Bernard","Westby",NULL,NULL,NULL
+ "825",NULL,"Bertran","Bonhiver",NULL,NULL,NULL
+ "826",NULL,"Bistonius / Bestonie","Barker","Esq",NULL,NULL
+ "827",NULL,"Brian","Garnet",NULL,NULL,NULL
+ "828",NULL,"Bridget ","Haywood",NULL,NULL,NULL
+ "829",NULL,"Bridget","Biss",NULL,NULL,NULL
+ "830",NULL,"Bridget","Clifton",NULL,NULL,NULL
+ "831",NULL,"Bridget","Crosland",NULL,NULL,NULL
+ "834",NULL,"Bridget","Huddleston",NULL,NULL,NULL
+ "836",NULL,"Bridget","Lucy",NULL,NULL,NULL
+ "837",NULL,"Bridget","Mannock",NULL,NULL,NULL
+ "838",NULL,"Bridget","Morgan",NULL,"Cath",NULL
+ "840",NULL,"Bridget","O'Brien",NULL,NULL,NULL
+ "841",NULL,"Bridget","Semson",NULL,NULL,NULL
+ "842",NULL,"Bridget","Smith",NULL,NULL,NULL
+ "843",NULL,"Bridget","Tamworth",NULL,NULL,NULL
+ "844",NULL,"Bridget","Tempest",NULL,NULL,NULL
+ "845",NULL,"Bridget","Webbe",NULL,NULL,NULL
+ "846",NULL,"Bridget","Wigmore",NULL,NULL,NULL
+ "847",NULL,"Bridget","Wolfe",NULL,NULL,NULL
+ "848",NULL,"Brigitta","Morgan",NULL,NULL,NULL
+ "849",NULL,"Caryll","Hawarden",NULL,NULL,NULL
+ "850",NULL,"Catharina","Farrell",NULL,NULL,NULL
+ "851",NULL,"Catharina","Sweyrt, De",NULL,NULL,NULL
+ "852",NULL,"Catharina","Van der Borght",NULL,NULL,NULL
+ "853",NULL,"Catharine","Basset",NULL,NULL,NULL
+ "854",NULL,"Catharine","Bruges",NULL,NULL,NULL
+ "855",NULL,"Catharine","Emery",NULL,NULL,NULL
+ "856",NULL,"Catharine","Fogg",NULL,NULL,NULL
+ "857",NULL,"Catharine","Frampton",NULL,NULL,NULL
+ "858",NULL,"Catharine","Greenbury",NULL,NULL,NULL
+ "859",NULL,"Catharine","Hore",NULL,NULL,NULL
+ "860",NULL,"Catharine","Phillpot",NULL,NULL,NULL
+ "862",NULL,"Catharine","Poole",NULL,NULL,NULL
+ "863",NULL,"Catharine","Price",NULL,NULL,NULL
+ "864",NULL,"Catharine","Risdon",NULL,NULL,NULL
+ "865",NULL,"Catharine","Staford",NULL,NULL,NULL
+ "866",NULL,"Catherin","Leveson",NULL,NULL,NULL
+ "867",NULL,"Catherin","Portinton",NULL,NULL,NULL
+ "868",NULL,"Catherine Frances","Nonnius",NULL,NULL,NULL
+ "869",NULL,"Catherine","Anderton",NULL,NULL,NULL
+ "870",NULL,"Catherine","Andrews",NULL,NULL,NULL
+ "871",NULL,"Catherine","Arundell",NULL,NULL,NULL
+ "872",NULL,"Catherine","Audley",NULL,NULL,NULL
+ "873",NULL,"Catherine","Babthorpe ",NULL,NULL,NULL
+ "875",NULL,"Catherine","Bacon",NULL,NULL,NULL
+ "877",NULL,"Catherine","Canny",NULL,NULL,NULL
+ "878",NULL,"Catherine","Charleton",NULL,NULL,NULL
+ "879",NULL,"Catherine","Constable",NULL,NULL,NULL
+ "880",NULL,"Catherine","Constable",NULL,NULL,NULL
+ "881",NULL,"Catherine","Crosby",NULL,NULL,NULL
+ "883",NULL,"Catherine","Dulton",NULL,NULL,NULL
+ "884",NULL,"Catherine","Emmott",NULL,NULL,NULL
+ "885",NULL,"Catherine","Englefield",NULL,NULL,NULL
+ "886",NULL,"Catherine","Eures",NULL,NULL,NULL
+ "887",NULL,"Catherine","Fairfax",NULL,NULL,NULL
+ "888",NULL,"Catherine","Fromans",NULL,"Prot",NULL
+ "889",NULL,"Catherine","Giffard ",NULL,NULL,NULL
+ "890",NULL,"Catherine","Gilford",NULL,NULL,NULL
+ "892",NULL,"Catherine","Guildford",NULL,NULL,NULL
+ "893",NULL,"Catherine","Haesbol",NULL,NULL,NULL
+ "894",NULL,"Catherine","Hookes ",NULL,"cath",NULL
+ "895",NULL,"Catherine","Hudson",NULL,NULL,NULL
+ "896",NULL,"Catherine","Jackman",NULL,NULL,NULL
+ "897",NULL,"Catherine","Jerningham",NULL,"Cath",NULL
+ "898",NULL,"Catherine","Knowles/ Knollys",NULL,NULL,NULL
+ "899",NULL,"Catherine","Lawson",NULL,NULL,NULL
+ "900",NULL,"Catherine","Legat",NULL,NULL,NULL
+ "903",NULL,"Catherine","Palmer",NULL,NULL,NULL
+ "904",NULL,"Catherine","Palmer",NULL,NULL,NULL
+ "905",NULL,"Catherine","Palmer",NULL,NULL,NULL
+ "906",NULL,"Catherine","Pernis",NULL,NULL,NULL
+ "910",NULL,"Catherine","Powell",NULL,NULL,NULL
+ "911",NULL,"Catherine","Pruuinars",NULL,NULL,NULL
+ "912",NULL,"Catherine","Pue",NULL,NULL,NULL
+ "913",NULL,"Catherine","Roche",NULL,NULL,NULL
+ "914",NULL,"Catherine","Roper",NULL,NULL,NULL
+ "915",NULL,"Catherine","Rugely",NULL,NULL,NULL
+ "916",NULL,"Catherine","Saint George",NULL,NULL,NULL
+ "917",NULL,"Catherine","Salvin",NULL,NULL,NULL
+ "918",NULL,"Catherine","Scholteurs",NULL,NULL,NULL
+ "919",NULL,"Catherine","Scrimshaw",NULL,NULL,NULL
+ "920",NULL,"Catherine","Seaborne",NULL,NULL,NULL
+ "922",NULL,"Catherine","Shepherd",NULL,NULL,NULL
+ "923",NULL,"Catherine","Smith",NULL,NULL,NULL
+ "924",NULL,"Catherine","Southcote",NULL,NULL,NULL
+ "925",NULL,"Catherine","Stanford",NULL,NULL,NULL
+ "926",NULL,"Catherine","Stanley",NULL,NULL,NULL
+ "927",NULL,"Catherine","Tattershal",NULL,NULL,NULL
+ "928",NULL,"Catherine","Thimelby ",NULL,NULL,NULL
+ "929",NULL,"Catherine","Trappes",NULL,NULL,NULL
+ "930",NULL,"Catherine","Tyrwhitt",NULL,NULL,NULL
+ "931",NULL,"Catherine","Waldegrave",NULL,NULL,NULL
+ "932",NULL,"Catherine","Whetenhall",NULL,"boarder at convent",NULL
+ "933",NULL,"Catherine","Wigmore",NULL,NULL,NULL
+ "934",NULL,"Cecilia","Butler",NULL,NULL,NULL
+ "935",NULL,"Cecilia","Granger",NULL,NULL,NULL
+ "936",NULL,"Cecilie","Fogge",NULL,NULL,NULL
+ "937",NULL,"Cecilie","Hoggs",NULL,NULL,NULL
+ "938",NULL,"Cecily","Beaumont",NULL,NULL,NULL
+ "940",NULL,"Cecily","Compton",NULL,NULL,NULL
+ "941",NULL,"Cecily","Constable",NULL,NULL,NULL
+ "942",NULL,"Charles ","Bodenham","Esq",NULL,NULL
+ "943",NULL,"Charles","Arundell",NULL,NULL,NULL
+ "944",NULL,"Charles","Barker",NULL,NULL,NULL
+ "945",NULL,"Charles","Berington",NULL,NULL,NULL
+ "946",NULL,"Charles","Byerley ",NULL,NULL,NULL
+ "947",NULL,"Charles","Carpue",NULL,NULL,NULL
+ "948",NULL,"Charles","Cook",NULL,NULL,NULL
+ "949",NULL,"Charles","Dormer","Esq",NULL,NULL
+ "950",NULL,"Charles","Eyston","Esq",NULL,NULL
+ "951",NULL,"Charles","Howard",NULL,NULL,NULL
+ "952",NULL,"Charles","Lucy",NULL,NULL,NULL
+ "953",NULL,"Charles","O'Reilly",NULL,NULL,NULL
+ "954",NULL,"Charles","Smyth","3rd viscount Carington",NULL,NULL
+ "955",NULL,"Charles","Stonor","Esq",NULL,NULL
+ "956",NULL,"Charles","Thimbleby",NULL,NULL,NULL
+ "957",NULL,"Charles","Towneley","Esq",NULL,NULL
+ "959",NULL,"Charles","Verstickel",NULL,NULL,NULL
+ "960",NULL,"Charles","Waldegrave","Esq",NULL,NULL
+ "961",NULL,"Charles","Waterton","Esq",NULL,NULL
+ "962",NULL,"Charles","Williams",NULL,NULL,NULL
+ "963",NULL,"Charles","Winn",NULL,"cath",NULL
+ "964",NULL,"Charles","Yates",NULL,NULL,NULL
+ "965",NULL,"Charlotte ","Evers",NULL,NULL,NULL
+ "966",NULL,"Charlotte","Brinckhurst",NULL,NULL,NULL
+ "967",NULL,"Charlotte","Throckmorton",NULL,NULL,NULL
+ "968",NULL,"Christina ","Stewart",NULL,NULL,NULL
+ "969",NULL,"Christine","Charlton",NULL,NULL,NULL
+ "971",NULL,"Christopher","Anderton","Esq","Cath",NULL
+ "972",NULL,"Christopher","Bird",NULL,"cath",NULL
+ "973",NULL,"Christopher","Collins","gent",NULL,NULL
+ "974",NULL,"Christopher","Fleming",NULL,NULL,NULL
+ "975",NULL,"Christopher","Foster","Esq",NULL,NULL
+ "976",NULL,"Christopher","Hills",NULL,NULL,NULL
+ "977",NULL,"Christopher","Maire",NULL,NULL,NULL
+ "978",NULL,"Christopher","McEvoy","Esq",NULL,NULL
+ "979",NULL,"Christopher","Oxnard",NULL,NULL,NULL
+ "981",NULL,"Christopher","Seaborne","Esq",NULL,NULL
+ "982",NULL,"Christopher","Stonhouse",NULL,"Cath",NULL
+ "983",NULL,"Christopher","Thoresby",NULL,"Prot",NULL
+ "984",NULL,"Christopher","Tucker",NULL,NULL,NULL
+ "985",NULL,"Christopher","Wallis",NULL,NULL,NULL
+ "986",NULL,"Christopher","Wandesford","Esq",NULL,NULL
+ "987",NULL,"Claire ","Gardener",NULL,NULL,NULL
+ "989",NULL,"Clara","Dorta",NULL,NULL,NULL
+ "990",NULL,"Clement","Paston",NULL,NULL,NULL
+ "991",NULL,"Clement","Paston",NULL,NULL,NULL
+ "992",NULL,"Clement","Whitbourne",NULL,"prot",NULL
+ "993",NULL,"Columbus","Ingleby","Esq",NULL,NULL
+ "995",NULL,"Constance","Blount",NULL,NULL,NULL
+ "996",NULL,"Constance","Samwest",NULL,NULL,NULL
+ "997",NULL,"Constantia","Cary",NULL,NULL,NULL
+ "998",NULL,"Constantia","Constable",NULL,NULL,NULL
+ "999",NULL,"Constantia","Southcote",NULL,NULL,NULL
+ "1000",NULL,"Corneli","Van Royen/ Van Moyen",NULL,NULL,NULL
+ "1001",NULL,"Cornelia","Cornwallis",NULL,NULL,NULL
+ "1002",NULL,"Cornelia","Rotteralle",NULL,NULL,NULL
+ "1003",NULL,"Cornelia","Vanderwyngaert",NULL,NULL,NULL
+ "1004",NULL,"Cornelius","Quirijns",NULL,NULL,NULL
+ "1005",NULL,"Cornelius","van den Wyngaert",NULL,NULL,NULL
+ "1006",NULL,"Cresacre","More ",NULL,NULL,NULL
+ "1008",NULL,"Cresswell","Cartwright",NULL,NULL,NULL
+ "1009",NULL,"Cuthbert","Clifton","Esq",NULL,NULL
+ "1010",NULL,"Cuthbert","Collingwood","Esq",NULL,NULL
+ "1012",NULL,"Cuthbert","Conyers","Esq",NULL,NULL
+ "1013",NULL,"Cuthbert","Gore",NULL,NULL,NULL
+ "1014",NULL,"Cuthbert","Haydock",NULL,NULL,NULL
+ "1015",NULL,"Cuthbert","Kennett","Esq",NULL,NULL
+ "1016",NULL,"Cuthbert","Parkinson",NULL,NULL,NULL
+ "1017",NULL,"David","Reading",NULL,"Cath",NULL
+ "1018",NULL,"David","Wells",NULL,NULL,NULL
+ "1019",NULL,"Deemster","Cannell",NULL,NULL,NULL
+ "1020",NULL,"Dennis","Brittain",NULL,NULL,NULL
+ "1021",NULL,"Diana","Goring",NULL,NULL,NULL
+ "1022",NULL,"Diane","Digby",NULL,NULL,NULL
+ "1023",NULL,"Dimetrius","Glynn",NULL,NULL,NULL
+ "1024",NULL,"Dominick","Burch",NULL,NULL,NULL
+ "1025",NULL,"Donald","Cameron","lord of Locheil",NULL,NULL
+ "1027",NULL,"Dorcas","Drinckwater",NULL,NULL,NULL
+ "1028",NULL,"Dorothe","Quinzemod al Kinsman",NULL,NULL,NULL
+ "1029",NULL,"Dorothea","Hore",NULL,NULL,NULL
+ "1030",NULL,"Dorothee","Burnett",NULL,NULL,NULL
+ "1031",NULL,"Dorothie","Browne",NULL,NULL,NULL
+ "1032",NULL,"Dorothy","Anderton",NULL,NULL,NULL
+ "1033",NULL,"Dorothy","Anderton",NULL,NULL,NULL
+ "1034",NULL,"Dorothy","Bithorwhite",NULL,NULL,NULL
+ "1035",NULL,"Dorothy","Bolney",NULL,NULL,NULL
+ "1036",NULL,"Dorothy","Bradshagh",NULL,NULL,NULL
+ "1039",NULL,"Dorothy","Brett",NULL,NULL,NULL
+ "1040",NULL,"Dorothy","Byron",NULL,NULL,NULL
+ "1041",NULL,"Dorothy","Cheyney",NULL,NULL,NULL
+ "1042",NULL,"Dorothy","Clerke",NULL,NULL,NULL
+ "1043",NULL,"Dorothy","Coleman",NULL,NULL,NULL
+ "1044",NULL,"Dorothy","Constable",NULL,"Cath",NULL
+ "1046",NULL,"Dorothy","Darcy ",NULL,NULL,NULL
+ "1047",NULL,"Dorothy","Dorington",NULL,NULL,NULL
+ "1048",NULL,"Dorothy","Dormer",NULL,NULL,NULL
+ "1049",NULL,"Dorothy","Drury",NULL,NULL,NULL
+ "1050",NULL,"Dorothy","Earswick",NULL,NULL,NULL
+ "1051",NULL,"Dorothy","Edgar",NULL,NULL,NULL
+ "1052",NULL,"Dorothy","Floyd",NULL,NULL,NULL
+ "1053",NULL,"Dorothy","Gage",NULL,NULL,NULL
+ "1054",NULL,"Dorothy","Gateger",NULL,NULL,NULL
+ "1055",NULL,"Dorothy","Hobei",NULL,NULL,NULL
+ "1057",NULL,"Dorothy","Horsley",NULL,NULL,NULL
+ "1058",NULL,"Dorothy","Jonson",NULL,NULL,NULL
+ "1059",NULL,"Dorothy","Kroger",NULL,"Cath",NULL
+ "1060",NULL,"Dorothy","Lascelles",NULL,NULL,NULL
+ "1061",NULL,"Dorothy","Lockwood",NULL,NULL,NULL
+ "1062",NULL,"Dorothy","Mascy",NULL,NULL,NULL
+ "1063",NULL,"Dorothy","Mather",NULL,NULL,NULL
+ "1064",NULL,"Dorothy","Morgan",NULL,NULL,NULL
+ "1066",NULL,"Dorothy","Parson",NULL,NULL,NULL
+ "1067",NULL,"Dorothy","Pershall",NULL,NULL,NULL
+ "1068",NULL,"Dorothy","Reines",NULL,NULL,NULL
+ "1069",NULL,"Dorothy","Rishton",NULL,NULL,NULL
+ "1070",NULL,"Dorothy","Smith",NULL,NULL,NULL
+ "1071",NULL,"Dorothy","Spenser",NULL,NULL,NULL
+ "1072",NULL,"Dorothy","Tarleton",NULL,NULL,NULL
+ "1073",NULL,"Dorothy","Warren",NULL,NULL,NULL
+ "1074",NULL,"Dorothy","Westby",NULL,NULL,NULL
+ "1075",NULL,"Dorothy","Wharton",NULL,NULL,NULL
+ "1076",NULL,"Dorothy","Whiting",NULL,NULL,NULL
+ "1077",NULL,"Dorothy","Winckley",NULL,NULL,NULL
+ "1078",NULL,"Dorothy","Wray",NULL,NULL,NULL
+ "1079",NULL,"Dorothy","Young",NULL,NULL,NULL
+ "1080",NULL,"Dorothy","Young",NULL,NULL,NULL
+ "1081",NULL,"Dudley","Bagenal","Esq",NULL,NULL
+ "1083",NULL,"Dudley","Reddy","Esq ",NULL,NULL
+ "1084",NULL,"Ed.","Killingbeck","Esq",NULL,NULL
+ "1085",NULL,"Edmond","Fortescue","Esq",NULL,NULL
+ "1086",NULL,"Edmond","Powell",NULL,NULL,NULL
+ "1087",NULL,"Edmund","Bedingfield",NULL,NULL,NULL
+ "1088",NULL,"Edmund","Bracy",NULL,NULL,NULL
+ "1089",NULL,"Edmund","Bruning","Esq",NULL,NULL
+ "1091",NULL,"Edmund","Roper","Esq",NULL,NULL
+ "1092",NULL,"Edward ","Debord",NULL,NULL,NULL
+ "1093",NULL,"Edward","Bamford",NULL,NULL,NULL
+ "1094",NULL,"Edward","Barrow",NULL,"yeoman",NULL
+ "1095",NULL,"Edward","Barstow",NULL,NULL,NULL
+ "1096",NULL,"Edward","Bedell",NULL,NULL,NULL
+ "1097",NULL,"Edward","Bedingfield","Esq",NULL,NULL
+ "1098",NULL,"Edward","Codrington",NULL,NULL,NULL
+ "1099",NULL,"Edward","Cole ",NULL,NULL,NULL
+ "1100",NULL,"Edward","Compton","Esq",NULL,NULL
+ "1101",NULL,"Edward","Cotton","Esq",NULL,NULL
+ "1103",NULL,"Edward","Forster",NULL,NULL,NULL
+ "1105",NULL,"Edward","Fullwood",NULL,NULL,NULL
+ "1106",NULL,"Edward","Gage","Esq",NULL,NULL
+ "1107",NULL,"Edward","Gage",NULL,NULL,NULL
+ "1108",NULL,"Edward","Ganderton",NULL,NULL,NULL
+ "1109",NULL,"Edward","Goulding",NULL,NULL,NULL
+ "1110",NULL,"Edward","Grefin",NULL,NULL,NULL
+ "1111",NULL,"Edward","Griffin","Esq",NULL,NULL
+ "1113",NULL,"Edward","Hanford","Esq",NULL,NULL
+ "1114",NULL,"Edward","Henson",NULL,NULL,NULL
+ "1115",NULL,"Edward","Jerningham",NULL,NULL,NULL
+ "1116",NULL,"Edward","Keynes","Esq",NULL,NULL
+ "1118",NULL,"Edward","Killingbeck","Esq",NULL,NULL
+ "1119",NULL,"Edward","Knightley","Esq",NULL,NULL
+ "1121",NULL,"Edward","Lascelles",NULL,NULL,NULL
+ "1122",NULL,"Edward","Lincoln",NULL,NULL,NULL
+ "1123",NULL,"Edward","Lucy","Esq",NULL,NULL
+ "1124",NULL,"Edward","Massy",NULL,NULL,NULL
+ "1125",NULL,"Edward","Monington","Esq",NULL,NULL
+ "1127",NULL,"Edward","More",NULL,NULL,NULL
+ "1128",NULL,"Edward","Morgan","Esq",NULL,NULL
+ "1129",NULL,"Edward","Morgan",NULL,NULL,NULL
+ "1130",NULL,"Edward","Parker","lord Morley",NULL,NULL
+ "1132",NULL,"Edward","Paston","Esq",NULL,NULL
+ "1133",NULL,"Edward","Pickering",NULL,"Cath ",NULL
+ "1134",NULL,"Edward","Plumpton",NULL,NULL,NULL
+ "1135",NULL,"Edward","Poyntz",NULL,NULL,NULL
+ "1136",NULL,"Edward","Richards",NULL,NULL,NULL
+ "1137",NULL,"Edward","Rookwood","Esq",NULL,NULL
+ "1140",NULL,"Edward","Scarisbricke","Esq",NULL,NULL
+ "1141",NULL,"Edward","Searle ",NULL,NULL,NULL
+ "1142",NULL,"Edward","Shaftoe","Esq",NULL,NULL
+ "1145",NULL,"Edward","Sheldon","Esq",NULL,NULL
+ "1147",NULL,"Edward","Sheldon",NULL,NULL,NULL
+ "1148",NULL,"Edward","Simpson","Esq ",NULL,NULL
+ "1149",NULL,"Edward","Smith","Esq",NULL,NULL
+ "1150",NULL,"Edward","Smith",NULL,NULL,NULL
+ "1151",NULL,"Edward","Southcote",NULL,NULL,NULL
+ "1152",NULL,"Edward","Stanford",NULL,NULL,NULL
+ "1153",NULL,"Edward","Sulyard","Esq",NULL,NULL
+ "1154",NULL,"Edward","Tarleton",NULL,NULL,NULL
+ "1155",NULL,"Edward","Tobin",NULL,NULL,NULL
+ "1156",NULL,"Edward","Victor",NULL,NULL,NULL
+ "1157",NULL,"Edward","Wakeman","Esq",NULL,NULL
+ "1159",NULL,"Edward","Waldegrave","Esq",NULL,NULL
+ "1160",NULL,"Edward","Weld",NULL,NULL,NULL
+ "1161",NULL,"Edward","White","Esq",NULL,NULL
+ "1162",NULL,"Edward","Wicke","gent",NULL,NULL
+ "1164",NULL,"Edward","Willoughby",NULL,NULL,NULL
+ "1165",NULL,"Edward","Winckley","Esq",NULL,NULL
+ "1166",NULL,"Edward","Winckley","Esq",NULL,NULL
+ "1167",NULL,"Edward","Winter","Esq",NULL,NULL
+ "1168",NULL,"Egidia","de Greyte",NULL,NULL,NULL
+ "1169",NULL,"Eleanor ","Carey",NULL,NULL,NULL
+ "1170",NULL,"Eleanor Alethea","Walmesley",NULL,NULL,NULL
+ "1171",NULL,"Eleanor","Atslow",NULL,NULL,NULL
+ "1172",NULL,"Eleanor","Blount",NULL,NULL,NULL
+ "1173",NULL,"Eleanor","Blundell",NULL,NULL,NULL
+ "1174",NULL,"Eleanor","Goodman",NULL,NULL,NULL
+ "1176",NULL,"Eleanor","Hall",NULL,NULL,NULL
+ "1177",NULL,"Eleanor","Hanson",NULL,NULL,NULL
+ "1178",NULL,"Eleanor","Hervey",NULL,NULL,NULL
+ "1180",NULL,"Eleanor","Mallory",NULL,NULL,NULL
+ "1181",NULL,"Eleanor","Neale",NULL,"Cath",NULL
+ "1182",NULL,"Eleanor","Philpot",NULL,"Cath convert",NULL
+ "1184",NULL,"Eleanor","Sisson",NULL,NULL,NULL
+ "1185",NULL,"Eleanor","Tuite",NULL,NULL,NULL
+ "1187",NULL,"Eleanor","Wharton",NULL,NULL,NULL
+ "1188",NULL,"Elena","Helmes",NULL,NULL,NULL
+ "1190",NULL,"Eleonor","Holcroft",NULL,NULL,NULL
+ "1194",NULL,"Eleonora","Sexton",NULL,NULL,NULL
+ "1195",NULL,"Eleonore","Chadwick",NULL,NULL,NULL
+ "1196",NULL,"Eleonore","O'Mooney",NULL,NULL,NULL
+ "1197",NULL,"Eleonore","Wearing",NULL,NULL,NULL
+ "1198",NULL,"Eliabeth","Realton",NULL,NULL,NULL
+ "1199",NULL,"Elianne","Cragg",NULL,NULL,NULL
+ "1200",NULL,"Elisa","Toutel",NULL,NULL,NULL
+ "1201",NULL,"Elisabeth ","Frene, de/ Frein, du",NULL,NULL,NULL
+ "1202",NULL,"Elisabeth","Beet",NULL,NULL,NULL
+ "1203",NULL,"Elisabeth","Blount ",NULL,NULL,NULL
+ "1204",NULL,"Elisabeth","Caldwell",NULL,NULL,NULL
+ "1205",NULL,"Elisabeth","Colling",NULL,NULL,NULL
+ "1206",NULL,"Elisabeth","Cra(e)s",NULL,NULL,NULL
+ "1208",NULL,"Elisabeth","Fitzwilliams",NULL,NULL,NULL
+ "1209",NULL,"Elisabeth","Jennison",NULL,NULL,NULL
+ "1211",NULL,"Elisabeth","O'Kennedy",NULL,NULL,NULL
+ "1212",NULL,"Elisabeth","Osborn",NULL,NULL,NULL
+ "1213",NULL,"Elisabeth","Pease",NULL,NULL,NULL
+ "1214",NULL,"Elisabeth","Pye",NULL,NULL,NULL
+ "1215",NULL,"Elisabeth","Tresham",NULL,NULL,NULL
+ "1216",NULL,"Elisor","Whonen",NULL,NULL,NULL
+ "1217",NULL,"Eliz","Dickison",NULL,NULL,NULL
+ "1219",NULL,"Elizabeth  ","Duncham",NULL,NULL,NULL
+ "1220",NULL,"Elizabeth ","Berkeley",NULL,NULL,NULL
+ "1221",NULL,"Elizabeth ","Danson",NULL,NULL,NULL
+ "1222",NULL,"Elizabeth ","Pickering",NULL,NULL,NULL
+ "1224",NULL,"Elizabeth Mary","Arundell",NULL,"Cath",NULL
+ "1225",NULL,"Elizabeth","Allen",NULL,NULL,NULL
+ "1226",NULL,"Elizabeth","Anderton",NULL,NULL,NULL
+ "1227",NULL,"Elizabeth","Anderton",NULL,NULL,NULL
+ "1228",NULL,"Elizabeth","Andrews",NULL,NULL,NULL
+ "1229",NULL,"Elizabeth","Argal",NULL,NULL,NULL
+ "1231",NULL,"Elizabeth","Atherton",NULL,NULL,NULL
+ "1232",NULL,"Elizabeth","Babthorpe",NULL,NULL,NULL
+ "1233",NULL,"Elizabeth","Baker",NULL,"prot",NULL
+ "1234",NULL,"Elizabeth","Barrow",NULL,NULL,NULL
+ "1235",NULL,"Elizabeth","Barton",NULL,NULL,NULL
+ "1236",NULL,"Elizabeth","Basset",NULL,NULL,NULL
+ "1237",NULL,"Elizabeth","Becquith",NULL,NULL,NULL
+ "1238",NULL,"Elizabeth","Bedingfield",NULL,NULL,NULL
+ "1240",NULL,"Elizabeth","Bell",NULL,NULL,NULL
+ "1242",NULL,"Elizabeth","Berington",NULL,NULL,NULL
+ "1245",NULL,"Elizabeth","Bevan",NULL,NULL,NULL
+ "1246",NULL,"Elizabeth","Beven",NULL,NULL,NULL
+ "1247",NULL,"Elizabeth","Biddulph",NULL,NULL,NULL
+ "1248",NULL,"Elizabeth","Blanck",NULL,NULL,NULL
+ "1249",NULL,"Elizabeth","Blek",NULL,NULL,NULL
+ "1250",NULL,"Elizabeth","Blount",NULL,NULL,NULL
+ "1252",NULL,"Elizabeth","Bratt",NULL,NULL,NULL
+ "1253",NULL,"Elizabeth","Braylsford",NULL,NULL,NULL
+ "1254",NULL,"Elizabeth","Bridges",NULL,NULL,NULL
+ "1255",NULL,"Elizabeth","Brocking",NULL,NULL,NULL
+ "1256",NULL,"Elizabeth","Brown",NULL,NULL,NULL
+ "1257",NULL,"Elizabeth","Brown",NULL,NULL,NULL
+ "1258",NULL,"Elizabeth","Browne",NULL,NULL,NULL
+ "1259",NULL,"Elizabeth","Browne",NULL,NULL,NULL
+ "1260",NULL,"Elizabeth","Bullacke",NULL,"Bulluch",NULL
+ "1263",NULL,"Elizabeth","Carryll",NULL,NULL,NULL
+ "1265",NULL,"Elizabeth","Castelyn",NULL,NULL,NULL
+ "1266",NULL,"Elizabeth","Castle",NULL,NULL,NULL
+ "1269",NULL,"Elizabeth","Chapman",NULL,NULL,NULL
+ "1270",NULL,"Elizabeth","Cheshire",NULL,NULL,NULL
+ "1271",NULL,"Elizabeth","Clarkson",NULL,NULL,NULL
+ "1272",NULL,"Elizabeth","Clayton",NULL,NULL,NULL
+ "1273",NULL,"Elizabeth","Clifton",NULL,NULL,NULL
+ "1274",NULL,"Elizabeth","Clifton",NULL,NULL,NULL
+ "1275",NULL,"Elizabeth","Cobbes",NULL,NULL,NULL
+ "1276",NULL,"Elizabeth","Cockayne",NULL,NULL,NULL
+ "1277",NULL,"Elizabeth","Collinges",NULL,NULL,NULL
+ "1278",NULL,"Elizabeth","Constable",NULL,NULL,NULL
+ "1279",NULL,"Elizabeth","Conway",NULL,NULL,NULL
+ "1280",NULL,"Elizabeth","Coppin",NULL,NULL,NULL
+ "1281",NULL,"Elizabeth","Dale",NULL,NULL,NULL
+ "1282",NULL,"Elizabeth","Daniel",NULL,NULL,NULL
+ "1284",NULL,"Elizabeth","Darcy","countess Rivers",NULL,NULL
+ "1285",NULL,"Elizabeth","Dempsey",NULL,NULL,NULL
+ "1286",NULL,"Elizabeth","Depdale",NULL,NULL,NULL
+ "1287",NULL,"Elizabeth","Dickinson",NULL,NULL,NULL
+ "1288",NULL,"Elizabeth","Ditchfield",NULL,NULL,NULL
+ "1289",NULL,"Elizabeth","Downes",NULL,NULL,NULL
+ "1290",NULL,"Elizabeth","Edwards",NULL,NULL,NULL
+ "1291",NULL,"Elizabeth","Ehresbey/Haeskey",NULL,NULL,NULL
+ "1292",NULL,"Elizabeth","Emmerson",NULL,NULL,NULL
+ "1293",NULL,"Elizabeth","Fagan",NULL,NULL,NULL
+ "1294",NULL,"Elizabeth","Ferdinand",NULL,NULL,NULL
+ "1295",NULL,"Elizabeth","Fermor",NULL,NULL,NULL
+ "1296",NULL,"Elizabeth","Fettiplace ",NULL,NULL,NULL
+ "1298",NULL,"Elizabeth","Fortescue",NULL,NULL,NULL
+ "1299",NULL,"Elizabeth","Foster",NULL,NULL,NULL
+ "1300",NULL,"Elizabeth","Gage",NULL,NULL,NULL
+ "1301",NULL,"Elizabeth","Gage",NULL,NULL,NULL
+ "1302",NULL,"Elizabeth","Geeus",NULL,NULL,NULL
+ "1303",NULL,"Elizabeth","Germis",NULL,NULL,NULL
+ "1304",NULL,"Elizabeth","Giffard",NULL,"Cath",NULL
+ "1305",NULL,"Elizabeth","Gradwall",NULL,NULL,NULL
+ "1306",NULL,"Elizabeth","Grimston",NULL,NULL,NULL
+ "1308",NULL,"Elizabeth","Grippen",NULL,NULL,NULL
+ "1309",NULL,"Elizabeth","Guildford",NULL,NULL,NULL
+ "1310",NULL,"Elizabeth","Hacock",NULL,NULL,NULL
+ "1311",NULL,"Elizabeth","Harper",NULL,NULL,NULL
+ "1312",NULL,"Elizabeth","Harrington",NULL,NULL,NULL
+ "1314",NULL,"Elizabeth","Harrington",NULL,NULL,NULL
+ "1315",NULL,"Elizabeth","Heaton",NULL,NULL,NULL
+ "1316",NULL,"Elizabeth","Hixson",NULL,NULL,NULL
+ "1317",NULL,"Elizabeth","Holland",NULL,NULL,NULL
+ "1318",NULL,"Elizabeth","Holyoke",NULL,NULL,NULL
+ "1319",NULL,"Elizabeth","Hougin/Hongin",NULL,NULL,NULL
+ "1320",NULL,"Elizabeth","Jones",NULL,NULL,NULL
+ "1321",NULL,"Elizabeth","Keithley",NULL,NULL,NULL
+ "1322",NULL,"Elizabeth","Kemp",NULL,NULL,NULL
+ "1323",NULL,"Elizabeth","King",NULL,NULL,NULL
+ "1324",NULL,"Elizabeth","Law",NULL,NULL,NULL
+ "1325",NULL,"Elizabeth","Lawson",NULL,NULL,NULL
+ "1326",NULL,"Elizabeth","Lenthall",NULL,NULL,NULL
+ "1327",NULL,"Elizabeth","Leveson",NULL,NULL,NULL
+ "1328",NULL,"Elizabeth","Lister",NULL,NULL,NULL
+ "1329",NULL,"Elizabeth","Louth",NULL,NULL,NULL
+ "1331",NULL,"Elizabeth","Martinash",NULL,NULL,NULL
+ "1332",NULL,"Elizabeth","Mason",NULL,NULL,NULL
+ "1333",NULL,"Elizabeth","Massey",NULL,NULL,NULL
+ "1334",NULL,"Elizabeth","May",NULL,NULL,NULL
+ "1335",NULL,"Elizabeth","Maynell",NULL,NULL,NULL
+ "1336",NULL,"Elizabeth","Middleton",NULL,NULL,NULL
+ "1337",NULL,"Elizabeth","Moore",NULL,NULL,NULL
+ "1338",NULL,"Elizabeth","Musgrave",NULL,NULL,NULL
+ "1339",NULL,"Elizabeth","Mynes",NULL,NULL,NULL
+ "1340",NULL,"Elizabeth","Newton",NULL,NULL,NULL
+ "1344",NULL,"Elizabeth","Normanton",NULL,NULL,NULL
+ "1345",NULL,"Elizabeth","Ogilvie",NULL,NULL,NULL
+ "1346",NULL,"Elizabeth","Ogle",NULL,NULL,NULL
+ "1347",NULL,"Elizabeth","Owen",NULL,NULL,NULL
+ "1348",NULL,"Elizabeth","Palmer",NULL,"Prot",NULL
+ "1349",NULL,"Elizabeth","Paterson",NULL,NULL,NULL
+ "1350",NULL,"Elizabeth","Paynel",NULL,NULL,NULL
+ "1351",NULL,"Elizabeth","Pierson",NULL,NULL,NULL
+ "1352",NULL,"Elizabeth","Pile",NULL,NULL,NULL
+ "1353",NULL,"Elizabeth","Plumpton",NULL,NULL,NULL
+ "1354",NULL,"Elizabeth","Porter",NULL,NULL,NULL
+ "1356",NULL,"Elizabeth","Richards",NULL,NULL,NULL
+ "1357",NULL,"Elizabeth","Richison",NULL,NULL,NULL
+ "1358",NULL,"Elizabeth","Rigby",NULL,NULL,NULL
+ "1359",NULL,"Elizabeth","Rookwood",NULL,NULL,NULL
+ "1360",NULL,"Elizabeth","Roper",NULL,NULL,NULL
+ "1361",NULL,"Elizabeth","Rous",NULL,NULL,NULL
+ "1362",NULL,"Elizabeth","Sarsfield",NULL,NULL,NULL
+ "1363",NULL,"Elizabeth","Savile",NULL,NULL,NULL
+ "1364",NULL,"Elizabeth","Sewall",NULL,NULL,NULL
+ "1365",NULL,"Elizabeth","Shelley",NULL,NULL,NULL
+ "1366",NULL,"Elizabeth","Smith",NULL,NULL,NULL
+ "1367",NULL,"Elizabeth","Smith",NULL,NULL,NULL
+ "1368",NULL,"Elizabeth","Sneade",NULL,NULL,NULL
+ "1369",NULL,"Elizabeth","Southcote",NULL,"Cath",NULL
+ "1370",NULL,"Elizabeth","Spelman",NULL,NULL,NULL
+ "1371",NULL,"Elizabeth","St George",NULL,NULL,NULL
+ "1372",NULL,"Elizabeth","Standish",NULL,NULL,NULL
+ "1373",NULL,"Elizabeth","Stanley",NULL,NULL,NULL
+ "1374",NULL,"Elizabeth","Stasie",NULL,NULL,NULL
+ "1375",NULL,"Elizabeth","Steevensone",NULL,NULL,NULL
+ "1376",NULL,"Elizabeth","Sterch",NULL,NULL,NULL
+ "1377",NULL,"Elizabeth","Stonehouse",NULL,NULL,NULL
+ "1378",NULL,"Elizabeth","Sturdy",NULL,NULL,NULL
+ "1380",NULL,"Elizabeth","Tanfield",NULL,"convert",NULL
+ "1381",NULL,"Elizabeth","Tasburgh",NULL,NULL,NULL
+ "1382",NULL,"Elizabeth","Thoogood",NULL,NULL,NULL
+ "1383",NULL,"Elizabeth","Tichborne",NULL,NULL,NULL
+ "1384",NULL,"Elizabeth","Tomson",NULL,NULL,NULL
+ "1385",NULL,"Elizabeth","Tresham",NULL,NULL,NULL
+ "1386",NULL,"Elizabeth","Turner",NULL,NULL,NULL
+ "1387",NULL,"Elizabeth","Viell",NULL,NULL,NULL
+ "1388",NULL,"Elizabeth","Waindrid",NULL,NULL,NULL
+ "1389",NULL,"Elizabeth","Walcot",NULL,NULL,NULL
+ "1390",NULL,"Elizabeth","Watkins",NULL,NULL,NULL
+ "1391",NULL,"Elizabeth","Weedon",NULL,NULL,NULL
+ "1392",NULL,"Elizabeth","Westby",NULL,"Cath",NULL
+ "1394",NULL,"Elizabeth","Weynman",NULL,NULL,NULL
+ "1395",NULL,"Elizabeth","Whitmore",NULL,NULL,NULL
+ "1396",NULL,"Elizabeth","Wilford ",NULL,NULL,NULL
+ "1397",NULL,"Elizabeth","Willes",NULL,NULL,NULL
+ "1398",NULL,"Elizabeth","Williams",NULL,NULL,NULL
+ "1400",NULL,"Elizabeth","Wootson",NULL,NULL,NULL
+ "1401",NULL,"Elizabeth","Yorke",NULL,NULL,NULL
+ "1402",NULL,"Elizabeth","Young",NULL,NULL,NULL
+ "1403",NULL,"Elizabeth","Young",NULL,NULL,NULL
+ "1404",NULL,"Elizabeth","de Mendanha",NULL,NULL,NULL
+ "1405",NULL,"Elizabeth","de la Mersh",NULL,NULL,NULL
+ "1406",NULL,"Ellen","Parker",NULL,NULL,NULL
+ "1407",NULL,"Ellen","Sucills",NULL,NULL,NULL
+ "1408",NULL,"Ellinor/ Helen","Gascoigne",NULL,NULL,NULL
+ "1409",NULL,"Emerentiana","Heas",NULL,NULL,NULL
+ "1410",NULL,"Emerentiana","Heyes",NULL,NULL,NULL
+ "1411",NULL,"Emilia","Norris",NULL,NULL,NULL
+ "1412",NULL,"Engleber","Poisman",NULL,NULL,NULL
+ "1413",NULL,"Esther","Mead",NULL,NULL,NULL
+ "1414",NULL,"Etheldreda Audrey","Brudenell ",NULL,NULL,NULL
+ "1416",NULL,"Eusebia",NULL,NULL,NULL,NULL
+ "1417",NULL,"Eveen?","Gerard",NULL,NULL,NULL
+ "1418",NULL,"Everard","Digbye","Esq",NULL,NULL
+ "1419",NULL,"Everelda","Constable",NULL,NULL,NULL
+ "1420",NULL,"Faith","Belasyse",NULL,NULL,NULL
+ "1421",NULL,"Faith","Bradborne",NULL,NULL,NULL
+ "1422",NULL,"Faith","Monson",NULL,NULL,NULL
+ "1423",NULL,"Faith","Tyrwhitt",NULL,NULL,NULL
+ "1424",NULL,"Felicia",NULL,NULL,NULL,NULL
+ "1427",NULL,"Flora","Mackinnon",NULL,NULL,NULL
+ "1428",NULL,"Florence","Morgan",NULL,"Cath",NULL
+ "1429",NULL,"Frances ","Colegrave",NULL,NULL,NULL
+ "1431",NULL,"Frances ","Wiborne",NULL,NULL,NULL
+ "1432",NULL,"Frances ","Yeats",NULL,NULL,NULL
+ "1433",NULL,"Frances Henrietta","Maire",NULL,NULL,NULL
+ "1434",NULL,"Frances or Catherine","Pegg",NULL,NULL,NULL
+ "1435",NULL,"Frances","Anne",NULL,NULL,NULL
+ "1436",NULL,"Frances","Aston",NULL,NULL,NULL
+ "1437",NULL,"Frances","Bedingfield",NULL,NULL,NULL
+ "1438",NULL,"Frances","Berington",NULL,NULL,NULL
+ "1439",NULL,"Frances","Blount",NULL,NULL,NULL
+ "1440",NULL,"Frances","Bond",NULL,NULL,NULL
+ "1441",NULL,"Frances","Bradshaigh",NULL,NULL,NULL
+ "1442",NULL,"Frances","Briant alias Brielant",NULL,NULL,NULL
+ "1443",NULL,"Frances","Burgon",NULL,NULL,NULL
+ "1444",NULL,"Frances","Chandos",NULL,NULL,NULL
+ "1445",NULL,"Frances","Clough",NULL,NULL,NULL
+ "1446",NULL,"Frances","Colebrand",NULL,"Cath convert",NULL
+ "1447",NULL,"Frances","Compton",NULL,NULL,NULL
+ "1448",NULL,"Frances","Dalston",NULL,NULL,NULL
+ "1450",NULL,"Frances","Errington",NULL,NULL,NULL
+ "1451",NULL,"Frances","Fenwick",NULL,NULL,NULL
+ "1452",NULL,"Frances","Fortescue",NULL,NULL,NULL
+ "1453",NULL,"Frances","Fowler",NULL,NULL,NULL
+ "1456",NULL,"Frances","Guizaine",NULL,NULL,NULL
+ "1458",NULL,"Frances","Hammond",NULL,NULL,NULL
+ "1460",NULL,"Frances","Hayward",NULL,NULL,NULL
+ "1461",NULL,"Frances","Ingleby",NULL,NULL,NULL
+ "1462",NULL,"Frances","Jermyn",NULL,NULL,NULL
+ "1463",NULL,"Frances","Laurenson",NULL,NULL,NULL
+ "1464",NULL,"Frances","Meynell",NULL,NULL,NULL
+ "1465",NULL,"Frances","Middlemore",NULL,NULL,NULL
+ "1466",NULL,"Frances","Molyneux",NULL,NULL,NULL
+ "1469",NULL,"Frances","Paston",NULL,NULL,NULL
+ "1470",NULL,"Frances","Pate",NULL,NULL,NULL
+ "1471",NULL,"Frances","Perkins",NULL,NULL,NULL
+ "1472",NULL,"Frances","Roper",NULL,NULL,NULL
+ "1473",NULL,"Frances","Sheldon",NULL,NULL,NULL
+ "1474",NULL,"Frances","Simmons",NULL,NULL,NULL
+ "1475",NULL,"Frances","Smith",NULL,"Cath",NULL
+ "1477",NULL,"Frances","Standish",NULL,NULL,NULL
+ "1478",NULL,"Frances","Stanley",NULL,NULL,NULL
+ "1479",NULL,"Frances","Stuart",NULL,NULL,NULL
+ "1480",NULL,"Frances","Tempest",NULL,NULL,NULL
+ "1483",NULL,"Frances","Thimelby",NULL,NULL,NULL
+ "1484",NULL,"Frances","Thorold",NULL,NULL,NULL
+ "1485",NULL,"Frances","Tichborne",NULL,NULL,NULL
+ "1487",NULL,"Frances","Towneley",NULL,NULL,NULL
+ "1488",NULL,"Frances","Trinder",NULL,NULL,NULL
+ "1489",NULL,"Frances","Tunstall",NULL,NULL,NULL
+ "1490",NULL,"Frances","Turner",NULL,NULL,NULL
+ "1491",NULL,"Frances","Vavasour",NULL,NULL,NULL
+ "1492",NULL,"Frances","Vavousour",NULL,NULL,NULL
+ "1493",NULL,"Frances","Waldegrave",NULL,NULL,NULL
+ "1494",NULL,"Frances","Windebank",NULL,NULL,NULL
+ "1495",NULL,"Frances","Wingfield",NULL,NULL,NULL
+ "1496",NULL,"Francis ","Bruning",NULL,NULL,NULL
+ "1497",NULL,"Francis ","Prujean",NULL,NULL,NULL
+ "1498",NULL,"Francis","Basson",NULL,NULL,NULL
+ "1499",NULL,"Francis","Bearde",NULL,NULL,NULL
+ "1501",NULL,"Francis","Bedingfield","Esq",NULL,"I"
+ "1503",NULL,"Francis","Bishop","Esq",NULL,NULL
+ "1504",NULL,"Francis","Bolney",NULL,NULL,NULL
+ "1506",NULL,"Francis","Bruce",NULL,NULL,NULL
+ "1507",NULL,"Francis","Budsin",NULL,NULL,NULL
+ "1508",NULL,"Francis","Canning","Esq",NULL,NULL
+ "1509",NULL,"Francis","Clarke, de",NULL,NULL,NULL
+ "1510",NULL,"Francis","Collins",NULL,"Cath",NULL
+ "1511",NULL,"Francis","Cornwallis",NULL,NULL,NULL
+ "1513",NULL,"Francis","Crane",NULL,NULL,NULL
+ "1514",NULL,"Francis","Finch",NULL,NULL,NULL
+ "1515",NULL,"Francis","Gostling",NULL,NULL,NULL
+ "1516",NULL,"Francis","Greene","Esq",NULL,NULL
+ "1517",NULL,"Francis","Handford","Esq","Cath",NULL
+ "1518",NULL,"Francis","Harcourt","Esq",NULL,NULL
+ "1519",NULL,"Francis","Hildersley",NULL,NULL,NULL
+ "1520",NULL,"Francis","Holte",NULL,NULL,NULL
+ "1521",NULL,"Francis","Hutton",NULL,"Cath",NULL
+ "1522",NULL,"Francis","Kemp",NULL,NULL,NULL
+ "1523",NULL,"Francis","Kertion",NULL,NULL,NULL
+ "1524",NULL,"Francis","Lancaster","MD",NULL,NULL
+ "1525",NULL,"Francis","Manby","Esq",NULL,NULL
+ "1526",NULL,"Francis","Marshall",NULL,NULL,NULL
+ "1527",NULL,"Francis","Mildmay","Esq",NULL,NULL
+ "1528",NULL,"Francis","Monninges",NULL,NULL,NULL
+ "1529",NULL,"Francis","Moore",NULL,NULL,NULL
+ "1530",NULL,"Francis","Overlow",NULL,NULL,NULL
+ "1531",NULL,"Francis","Perkins","Esq",NULL,NULL
+ "1532",NULL,"Francis","Perkins",NULL,NULL,NULL
+ "1533",NULL,"Francis","Persall",NULL,NULL,NULL
+ "1534",NULL,"Francis","Pickering","Esq",NULL,NULL
+ "1536",NULL,"Francis","Plowden","Esq",NULL,NULL
+ "1540",NULL,"Francis","Radcliffe","1st earl of Derwentwater",NULL,NULL
+ "1541",NULL,"Francis","Salkeld",NULL,NULL,NULL
+ "1542",NULL,"Francis","Short",NULL,NULL,NULL
+ "1543",NULL,"Francis","Short","gent",NULL,NULL
+ "1544",NULL,"Francis","Smith","Esq",NULL,NULL
+ "1545",NULL,"Francis","Smith","Esq",NULL,NULL
+ "1546",NULL,"Francis","Stanfield",NULL,NULL,NULL
+ "1547",NULL,"Francis","Tasburgh ","Esq",NULL,NULL
+ "1551","","Francis","Tresham","Esq","",""
+ "1552",NULL,"Francis","Tunstall","Esq",NULL,NULL
+ "1554",NULL,"Francis","Vaillier",NULL,NULL,NULL
+ "1556",NULL,"Francis","Warner","Esq","convert",NULL
+ "1557",NULL,"Francis","Woolmer",NULL,NULL,NULL
+ "1560",NULL,"Francisca","Dalton ",NULL,NULL,NULL
+ "1561",NULL,"Francisca","Erry",NULL,NULL,NULL
+ "1562",NULL,"Francisca","Giliad",NULL,NULL,NULL
+ "1563",NULL,"Franciscus","Claqueche",NULL,NULL,NULL
+ "1564",NULL,"Franciscus","Croot",NULL,NULL,NULL
+ "1565",NULL,"Francoise","Salcement",NULL,NULL,NULL
+ "1566",NULL,"François","Van Landuyt",NULL,NULL,NULL
+ "1567",NULL,"Gabriel","Beckingham",NULL,NULL,NULL
+ "1568",NULL,"Gabriel","Cox","Esq",NULL,NULL
+ "1569",NULL,"Gabriel","Hesketh","gent","Cath",NULL
+ "1570",NULL,"Gainor","Wenne",NULL,NULL,NULL
+ "1571",NULL,"Geoffrey","Pole",NULL,NULL,NULL
+ "1574",NULL,"George","Allen",NULL,"Cath",NULL
+ "1575",NULL,"George","Anderson",NULL,NULL,NULL
+ "1576",NULL,"George","Anne","Esq",NULL,NULL
+ "1577",NULL,"George","Bamber",NULL,NULL,NULL
+ "1578",NULL,"George","Blount",NULL,NULL,NULL
+ "1579",NULL,"George","Bolton",NULL,NULL,NULL
+ "1580",NULL,"George","Brittain","Esq","Cath",NULL
+ "1581",NULL,"George","Cockes",NULL,NULL,NULL
+ "1582",NULL,"George","Collingwood",NULL,NULL,NULL
+ "1583",NULL,"George","Darell ",NULL,NULL,NULL
+ "1584",NULL,"George","Dickinson",NULL,NULL,NULL
+ "1585",NULL,"George","Felton",NULL,"Cath",NULL
+ "1586",NULL,"George","Franck",NULL,NULL,NULL
+ "1587",NULL,"George","Haydock",NULL,NULL,NULL
+ "1588",NULL,"George","Heneage","Esq",NULL,NULL
+ "1589",NULL,"George","Hunt",NULL,NULL,NULL
+ "1590",NULL,"George","Hussey","Esq",NULL,NULL
+ "1591",NULL,"George","Jerningham",NULL,NULL,NULL
+ "1593",NULL,"George","Markham","Esq",NULL,NULL
+ "1594",NULL,"George","Markham","Esq",NULL,NULL
+ "1595",NULL,"George","Matchett",NULL,NULL,NULL
+ "1596",NULL,"George","Metham","Esq",NULL,NULL
+ "1597",NULL,"George","Metham","Esq",NULL,NULL
+ "1599",NULL,"George","Moore",NULL,NULL,NULL
+ "1600",NULL,"George","Mortimer",NULL,"Prot",NULL
+ "1601",NULL,"George","Nodsby",NULL,NULL,NULL
+ "1602",NULL,"George","Palmes",NULL,NULL,NULL
+ "1604",NULL,"George","Penne","Esq",NULL,NULL
+ "1605",NULL,"George","Phillpott","Esq",NULL,NULL
+ "1606",NULL,"George","Philpott","Esq",NULL,NULL
+ "1607",NULL,"George","Pickering",NULL,NULL,NULL
+ "1608",NULL,"George","Porter",NULL,NULL,NULL
+ "1609",NULL,"George","Poulton",NULL,NULL,NULL
+ "1610",NULL,"George","Prater","Esq",NULL,NULL
+ "1611",NULL,"George","Rooss",NULL,NULL,NULL
+ "1612",NULL,"George","Shaftoe",NULL,NULL,NULL
+ "1613",NULL,"George","Skinner","Esq",NULL,NULL
+ "1614",NULL,"George","Skippe",NULL,NULL,NULL
+ "1615",NULL,"George","Smith","Esq",NULL,NULL
+ "1617",NULL,"George","Smith","Esq",NULL,NULL
+ "1618",NULL,"George","Stockdale",NULL,NULL,NULL
+ "1619",NULL,"George","Talbot","14th earl of Shrewsbury",NULL,NULL
+ "1622",NULL,"George","Temple",NULL,NULL,NULL
+ "1623",NULL,"George","Thwing",NULL,NULL,NULL
+ "1625",NULL,"George","Tunstall",NULL,NULL,NULL
+ "1626",NULL,"George","Tyrell",NULL,NULL,NULL
+ "1627",NULL,"George","Vaux",NULL,NULL,NULL
+ "1628",NULL,"George","Vaz de Campos",NULL,NULL,NULL
+ "1629",NULL,"George","Walker",NULL,NULL,NULL
+ "1630",NULL,"George","Wayt",NULL,NULL,NULL
+ "1631",NULL,"George","Webbe",NULL,NULL,NULL
+ "1632",NULL,"George","Westby",NULL,NULL,NULL
+ "1633",NULL,"George","Whitfield",NULL,NULL,NULL
+ "1634",NULL,"George","Witham",NULL,NULL,NULL
+ "1635",NULL,"George?","Cotton",NULL,NULL,NULL
+ "1637",NULL,"Gerard","Corby",NULL,"conv",NULL
+ "1638",NULL,"Germaine","Bennet",NULL,NULL,NULL
+ "1639",NULL,"Gertrude","Bluet",NULL,NULL,NULL
+ "1640",NULL,"Gertrude","Jacobes",NULL,NULL,NULL
+ "1641",NULL,"Gertrude","Jansen",NULL,NULL,NULL
+ "1642",NULL,"Gertrude","Sadleir",NULL,"Cath",NULL
+ "1643",NULL,"Gertrude","Talbot",NULL,NULL,NULL
+ "1644",NULL,"Gertrude","Weinberg",NULL,NULL,NULL
+ "1645",NULL,"Gervase","Clifton","Esq",NULL,NULL
+ "1646",NULL,"Gilbert","Merry","Esq",NULL,NULL
+ "1648",NULL,"Gile","Berta",NULL,NULL,NULL
+ "1649",NULL,"Giles","Chichester","Esq",NULL,NULL
+ "1650",NULL,"Giles","Risdon",NULL,NULL,NULL
+ "1651",NULL,"Godefried","Rosemalen van",NULL,NULL,NULL
+ "1652",NULL,"Grace","Beaumont",NULL,NULL,NULL
+ "1653",NULL,"Grace","Birnand",NULL,NULL,NULL
+ "1654",NULL,"Grace","Fowler",NULL,NULL,NULL
+ "1655",NULL,"Grace","Goddard",NULL,NULL,NULL
+ "1656",NULL,"Grace","Hussey",NULL,NULL,NULL
+ "1657",NULL,"Grace","Ingelby",NULL,NULL,NULL
+ "1658",NULL,"Grace","Knightsmith",NULL,NULL,NULL
+ "1659",NULL,"Grace","Manners",NULL,NULL,NULL
+ "1660",NULL,"Grace","Marshall",NULL,NULL,NULL
+ "1661",NULL,"Grace","Wyvile",NULL,NULL,NULL
+ "1662",NULL,"Greg","Smythson",NULL,NULL,NULL
+ "1663",NULL,"Grissell","Bentley",NULL,NULL,NULL
+ "1665",NULL,"Hamlet","Massey",NULL,NULL,NULL
+ "1666",NULL,"Hannah","Adams",NULL,NULL,NULL
+ "1667",NULL,"Hannah","Morley",NULL,NULL,NULL
+ "1668",NULL,"Helen ","Coventry",NULL,NULL,NULL
+ "1669",NULL,"Helen","Banister",NULL,NULL,NULL
+ "1670",NULL,"Helen","Browne",NULL,NULL,NULL
+ "1671",NULL,"Helen","Carstairs",NULL,NULL,NULL
+ "1672",NULL,"Helen","Eyre",NULL,NULL,NULL
+ "1673",NULL,"Helen","Gascoigne",NULL,NULL,NULL
+ "1674",NULL,"Helen","Gerard",NULL,NULL,NULL
+ "1675",NULL,"Helen","Gobbin",NULL,NULL,NULL
+ "1676",NULL,"Helen","Henslow",NULL,NULL,NULL
+ "1677",NULL,"Helen","Houten",NULL,NULL,NULL
+ "1678","","Helen","Huddleston","","",""
+ "1679",NULL,"Helen","Hunter",NULL,NULL,NULL
+ "1681",NULL,"Helen","Percy",NULL,NULL,NULL
+ "1682",NULL,"Helen","Sefton",NULL,NULL,NULL
+ "1683",NULL,"Helen","Walker",NULL,NULL,NULL
+ "1684",NULL,"Helena","Beale",NULL,NULL,NULL
+ "1685",NULL,"Helena","Browne",NULL,NULL,NULL
+ "1687",NULL,"Helena","Lacon",NULL,NULL,NULL
+ "1688",NULL,"Helena","Mortimore",NULL,NULL,NULL
+ "1689",NULL,"Helena","Smith",NULL,NULL,NULL
+ "1690",NULL,"Helena","Woodward",NULL,NULL,NULL
+ "1691",NULL,"Helene","Haggerston",NULL,NULL,NULL
+ "1692",NULL,"Hellen","Allen",NULL,NULL,NULL
+ "1694",NULL,"Hellen","Langworth",NULL,NULL,NULL
+ "1696",NULL,"Henery","Schruysteyn",NULL,NULL,NULL
+ "1697",NULL,"Henrietta ","Jermyn",NULL,NULL,NULL
+ "1698",NULL,"Henrietta Maria","van Coulster",NULL,NULL,NULL
+ "1699",NULL,"Henrietta","Buddes",NULL,NULL,NULL
+ "1700",NULL,"Henrietta","Poole",NULL,NULL,NULL
+ "1701",NULL,"Henry ","Foxe","gent",NULL,NULL
+ "1702",NULL,"Henry ","Witham","Esq",NULL,NULL
+ "1703",NULL,"Henry","Arundell","3rd lord",NULL,NULL
+ "1704",NULL,"Henry","Ashton","Gent",NULL,NULL
+ "1705",NULL,"Henry","Barney",NULL,NULL,NULL
+ "1706",NULL,"Henry","Battin",NULL,NULL,NULL
+ "1707",NULL,"Henry","Blundell",NULL,NULL,NULL
+ "1708",NULL,"Henry","Boone",NULL,NULL,NULL
+ "1709",NULL,"Henry","Butler","Esq",NULL,NULL
+ "1710",NULL,"Henry","Byard Ross",NULL,NULL,NULL
+ "1711",NULL,"Henry","Cary","1st viscount Falkland","Prot",NULL
+ "1712",NULL,"Henry","Clay",NULL,NULL,NULL
+ "1713",NULL,"Henry","Clifford",NULL,NULL,NULL
+ "1714",NULL,"Henry","Collard",NULL,NULL,NULL
+ "1715",NULL,"Henry","Copeland",NULL,NULL,NULL
+ "1716",NULL,"Henry","Cramblington","Esq",NULL,NULL
+ "1717",NULL,"Henry","Darcy","Esq",NULL,NULL
+ "1718",NULL,"Henry","Davis",NULL,NULL,NULL
+ "1719",NULL,"Henry","Eccles","gent",NULL,NULL
+ "1720",NULL,"Henry","Eccleston",NULL,NULL,NULL
+ "1722",NULL,"Henry","Englefield","Esq",NULL,NULL
+ "1723",NULL,"Henry","Fermor","Esq",NULL,NULL
+ "1724",NULL,"Henry","Fermor",NULL,NULL,NULL
+ "1725",NULL,"Henry","Figg",NULL,NULL,NULL
+ "1726",NULL,"Henry","Forster","Esq",NULL,NULL
+ "1727",NULL,"Henry","Gage",NULL,NULL,NULL
+ "1728",NULL,"Henry","Gainsford",NULL,NULL,NULL
+ "1729",NULL,"Henry","Gostling",NULL,NULL,NULL
+ "1730",NULL,"Henry","Gravenor",NULL,NULL,NULL
+ "1731",NULL,"Henry","Gregson",NULL,NULL,NULL
+ "1732",NULL,"Henry","Hawes",NULL,"Prot",NULL
+ "1733",NULL,"Henry","Herbert","2nd earl of Pembroke",NULL,NULL
+ "1734",NULL,"Henry","Hill",NULL,NULL,NULL
+ "1736",NULL,"Henry","Huddleston","Esq",NULL,NULL
+ "1738",NULL,"Henry","Jerningham ","Esq","Cath ",NULL
+ "1739",NULL,"Henry","Jerningham ",NULL,NULL,NULL
+ "1741",NULL,"Henry","Kempe","Esq",NULL,NULL
+ "1742",NULL,"Henry","Lawson",NULL,NULL,NULL
+ "1743",NULL,"Henry","Liddell",NULL,NULL,NULL
+ "1744",NULL,"Henry","Lucy",NULL,NULL,NULL
+ "1745",NULL,"Henry","Lusher",NULL,NULL,NULL
+ "1746",NULL,"Henry","Metcalfe","Esq",NULL,NULL
+ "1747",NULL,"Henry","Nevill","Esq",NULL,NULL
+ "1748",NULL,"Henry","Pound","Esq",NULL,NULL
+ "1749",NULL,"Henry","Rogers",NULL,"Catholic yeoman",NULL
+ "1750",NULL,"Henry","Rozer","Esq","cath",NULL
+ "1751",NULL,"Henry","Segrave","Esq",NULL,NULL
+ "1752",NULL,"Henry","Shepherd",NULL,NULL,NULL
+ "1753",NULL,"Henry","Somerset","1st marquess of Worcester",NULL,NULL
+ "1755",NULL,"Henry","Stanihurst","Esq",NULL,NULL
+ "1756",NULL,"Henry","Tunis",NULL,NULL,NULL
+ "1758",NULL,"Henry","Wharton",NULL,NULL,NULL
+ "1759",NULL,"Henry","Whettenhall","Esq","convert",NULL
+ "1760",NULL,"Henry","White",NULL,NULL,NULL
+ "1762",NULL,"Henry","Yaxley","Esq",NULL,NULL
+ "1763",NULL,"Henry","Yonge",NULL,NULL,NULL
+ "1764",NULL,"Herbert","Aston",NULL,NULL,NULL
+ "1765",NULL,"Herman","Lea",NULL,NULL,NULL
+ "1766",NULL,"Honore","Ooston",NULL,NULL,NULL
+ "1767","","Hugh","Charnley","","",""
+ "1768",NULL,"Hugh","Anderton","Esq",NULL,NULL
+ "1769",NULL,"Hugh","Darner","alias Dorvolie",NULL,NULL
+ "1770",NULL,"Hugh","Hawton",NULL,NULL,NULL
+ "1771",NULL,"Hugh","Haydock",NULL,NULL,NULL
+ "1772",NULL,"Hugh","Patinson",NULL,NULL,NULL
+ "1773",NULL,"Hugh","Ryan",NULL,NULL,NULL
+ "1775",NULL,"Humphrey","Palmer",NULL,NULL,NULL
+ "1776",NULL,"Humphrey","Sandford","Esq",NULL,NULL
+ "1777",NULL,"Isabel ","Vernoy",NULL,NULL,NULL
+ "1778",NULL,"Isabel","Berry",NULL,NULL,NULL
+ "1779",NULL,"Isabel","Clayton",NULL,NULL,NULL
+ "1780",NULL,"Isabel","Grey",NULL,NULL,NULL
+ "1781",NULL,"Isabel","Hancock",NULL,NULL,NULL
+ "1782",NULL,"Isabel","Lawson",NULL,NULL,NULL
+ "1783",NULL,"Isabel","Roper",NULL,"convert",NULL
+ "1784",NULL,"Isabel","Tirerer",NULL,NULL,NULL
+ "1785",NULL,"Isabel","Whitgreaves",NULL,NULL,NULL
+ "1786",NULL,"Isabella","Alexander",NULL,NULL,NULL
+ "1787",NULL,"Isabella","Kniveton",NULL,NULL,NULL
+ "1791",NULL,"Isabella","Rishdon",NULL,NULL,NULL
+ "1792",NULL,"Isabella","Whitiker",NULL,"Lancs",NULL
+ "1793",NULL,"Isabelle","Coolsaedts",NULL,NULL,NULL
+ "1794",NULL,"Isabelle","Kichley",NULL,NULL,NULL
+ "1795",NULL,"Isabelle","Poulton",NULL,NULL,NULL
+ "1798",NULL,"Jacob","Vrebos",NULL,NULL,NULL
+ "1799",NULL,"Jacoba","Veruiste",NULL,NULL,NULL
+ "1800",NULL,"Jacques François","Cadet",NULL,NULL,NULL
+ "1801",NULL,"James Peter","Coghlan",NULL,NULL,NULL
+ "1802",NULL,"James","Ainsworth",NULL,NULL,NULL
+ "1803",NULL,"James","Alexander",NULL,NULL,NULL
+ "1805",NULL,"James","Arden","Esq",NULL,NULL
+ "1806",NULL,"James","Arrowsmith",NULL,NULL,NULL
+ "1807",NULL,"James","Augier","Esq","cath",NULL
+ "1808",NULL,"James","Baldwin",NULL,NULL,NULL
+ "1809",NULL,"James","Bradshaigh","Esq",NULL,NULL
+ "1810",NULL,"James","Brooke",NULL,NULL,NULL
+ "1811",NULL,"James","Brown",NULL,NULL,NULL
+ "1812",NULL,"James","Byrne ",NULL,NULL,NULL
+ "1813",NULL,"James","Clifton","gent",NULL,NULL
+ "1814",NULL,"James","Coupe",NULL,NULL,NULL
+ "1815",NULL,"James","De Deken",NULL,NULL,NULL
+ "1816",NULL,"James","Ducket",NULL,NULL,NULL
+ "1817",NULL,"James","Eyre","Esq",NULL,NULL
+ "1818",NULL,"James","Fermor",NULL,NULL,NULL
+ "1819",NULL,"James","Finchet",NULL,NULL,NULL
+ "1820",NULL,"James","Flemming",NULL,NULL,NULL
+ "1821",NULL,"James","Foster",NULL,NULL,NULL
+ "1822",NULL,"James","Gage",NULL,NULL,NULL
+ "1823",NULL,"James","Godwin","Esq",NULL,NULL
+ "1824",NULL,"James","Hailes",NULL,NULL,NULL
+ "1825",NULL,"James","Harper",NULL,NULL,NULL
+ "1826",NULL,"James","Heath",NULL,NULL,NULL
+ "1827",NULL,"James","Hope",NULL,NULL,NULL
+ "1828",NULL,"James","Houseman",NULL,NULL,NULL
+ "1829",NULL,"James","Houseman",NULL,NULL,NULL
+ "1830",NULL,"James","Hubbert",NULL,NULL,NULL
+ "1831",NULL,"James","Lahaut, de",NULL,NULL,NULL
+ "1832",NULL,"James","Lane",NULL,NULL,NULL
+ "1833",NULL,"James","Laybourne",NULL,"martyr",NULL
+ "1834",NULL,"James","Longe",NULL,NULL,NULL
+ "1835",NULL,"James","Meade","Esq",NULL,NULL
+ "1837",NULL,"James","Mins",NULL,NULL,NULL
+ "1838",NULL,"James","Orrell",NULL,NULL,NULL
+ "1839",NULL,"James","Polehampton",NULL,NULL,NULL
+ "1840",NULL,"James","Radcliffe","3rd earl of Derwentwater",NULL,NULL
+ "1841",NULL,"James","Ravenscraft",NULL,NULL,NULL
+ "1842",NULL,"James","Smith",NULL,NULL,NULL
+ "1843",NULL,"James","Stanford",NULL,NULL,NULL
+ "1844",NULL,"James","Touchet","baron Audley, earl of Castlehaven",NULL,NULL
+ "1845",NULL,"James","van Mijel",NULL,NULL,NULL
+ "1846",NULL,"James/John","Finch",NULL,NULL,NULL
+ "1847",NULL,"James?","Toutel",NULL,NULL,NULL
+ "1848",NULL,"Jan","Damanet",NULL,NULL,NULL
+ "1849",NULL,"Jane","Barcroft",NULL,NULL,NULL
+ "1850",NULL,"Jane","Beach",NULL,NULL,NULL
+ "1851",NULL,"Jane","Bickerton",NULL,NULL,NULL
+ "1852",NULL,"Jane","Borroughs",NULL,NULL,NULL
+ "1853",NULL,"Jane","Bradshaigh",NULL,NULL,NULL
+ "1854",NULL,"Jane","Bradshaw",NULL,NULL,NULL
+ "1856",NULL,"Jane","Coffin",NULL,NULL,NULL
+ "1857",NULL,"Jane","Dalston",NULL,NULL,NULL
+ "1858",NULL,"Jane","Edwards",NULL,NULL,NULL
+ "1859",NULL,"Jane","Fermor",NULL,NULL,NULL
+ "1860",NULL,"Jane","Fine",NULL,NULL,NULL
+ "1861",NULL,"Jane","Freeman,",NULL,NULL,NULL
+ "1862",NULL,"Jane","Gardiner",NULL,NULL,NULL
+ "1863",NULL,"Jane","Giffard",NULL,NULL,NULL
+ "1864",NULL,"Jane","Harison",NULL,NULL,NULL
+ "1865",NULL,"Jane","Harrison",NULL,NULL,NULL
+ "1866",NULL,"Jane","Houlby",NULL,NULL,NULL
+ "1867",NULL,"Jane","Huddlestone",NULL,NULL,NULL
+ "1868",NULL,"Jane","Hutchinson",NULL,NULL,NULL
+ "1869",NULL,"Jane","Hyde",NULL,NULL,NULL
+ "1870",NULL,"Jane","Hyot",NULL,NULL,NULL
+ "1871",NULL,"Jane","Keynes/Keyns/Kynes",NULL,NULL,NULL
+ "1872",NULL,"Jane","Lambert",NULL,NULL,NULL
+ "1873",NULL,"Jane","Lovett",NULL,NULL,NULL
+ "1874",NULL,"Jane","Markham",NULL,"Cath",NULL
+ "1876",NULL,"Jane","Mills",NULL,NULL,NULL
+ "1877",NULL,"Jane","Morgan",NULL,NULL,NULL
+ "1879",NULL,"Jane","Perkins",NULL,NULL,NULL
+ "1880",NULL,"Jane","Plumpton",NULL,NULL,NULL
+ "1881",NULL,"Jane","Rinals",NULL,NULL,NULL
+ "1882",NULL,"Jane","Sackville",NULL,NULL,NULL
+ "1883",NULL,"Jane","Shaw",NULL,"Cath",NULL
+ "1884",NULL,"Jane","Slaughter",NULL,NULL,NULL
+ "1885",NULL,"Jane","Smythe",NULL,NULL,NULL
+ "1886",NULL,"Jane","Stavesacre",NULL,NULL,NULL
+ "1887",NULL,"Jane","Tempest",NULL,NULL,NULL
+ "1888",NULL,"Jane","Tempest",NULL,NULL,NULL
+ "1889",NULL,"Jane","Thornborrowe",NULL,NULL,NULL
+ "1890",NULL,"Jane","Thorold",NULL,NULL,NULL
+ "1891",NULL,"Jane","Turner",NULL,NULL,NULL
+ "1892",NULL,"Jane","Vaughan",NULL,"Cath",NULL
+ "1895",NULL,"Jane","Watforde",NULL,NULL,NULL
+ "1896",NULL,"Jane","Wattson",NULL,NULL,NULL
+ "1897",NULL,"Jane","Whitney",NULL,NULL,NULL
+ "1898",NULL,"Jane/Anne","Middleton",NULL,NULL,NULL
+ "1899",NULL,"Jaquelinne","Duecloo",NULL,NULL,NULL
+ "1900",NULL,"Jarrat","Brigham",NULL,NULL,NULL
+ "1901",NULL,"Jean Antoine","Lauraine",NULL,NULL,NULL
+ "1902",NULL,"Jean François","Flament",NULL,NULL,NULL
+ "1903",NULL,"Jean Joseph ","Goffaux",NULL,NULL,NULL
+ "1904",NULL,"Jean","Doyne",NULL,NULL,NULL
+ "1905",NULL,"Jean","Emerson",NULL,NULL,NULL
+ "1907",NULL,"Jean","Kemp",NULL,NULL,NULL
+ "1908",NULL,"Jean-Baptiste","Rope, De ",NULL,NULL,NULL
+ "1909",NULL,"Jerome","Weston","2nd earl Portland",NULL,NULL
+ "1910",NULL,"Jerome","Willams",NULL,NULL,NULL
+ "1911",NULL,"Jhon","Bacon",NULL,NULL,NULL
+ "1912",NULL,"Jhon","Fletcher",NULL,NULL,NULL
+ "1913",NULL,"Jhon","Greene",NULL,NULL,NULL
+ "1915",NULL,"Jhon","Thornborough",NULL,NULL,NULL
+ "1916",NULL,"Joan","Busby",NULL,NULL,NULL
+ "1917",NULL,"Joan","Napier",NULL,NULL,NULL
+ "1920",NULL,"Joan","Prannell",NULL,"conv",NULL
+ "1921",NULL,"Joan","Sheldon",NULL,NULL,NULL
+ "1922",NULL,"Joan","Swinburne",NULL,NULL,NULL
+ "1923",NULL,"Joan","Vaughan",NULL,NULL,NULL
+ "1924",NULL,"Joane","Chillet",NULL,"convert",NULL
+ "1925",NULL,"Joane","Wharam",NULL,NULL,NULL
+ "1926",NULL,"Joanna ","Hord",NULL,NULL,NULL
+ "1927",NULL,"Joanna","Buckhorst",NULL,NULL,NULL
+ "1929",NULL,"Joanna","Monson",NULL,NULL,NULL
+ "1930",NULL,"Joanna","Phelan",NULL,NULL,NULL
+ "1931",NULL,"Joanna","Tool /Doole",NULL,NULL,NULL
+ "1932",NULL,"Joanna","Trohy",NULL,NULL,NULL
+ "1933",NULL,"Joanna","Van Laer",NULL,NULL,NULL
+ "1934",NULL,"Joanne","Brae(c)kmans",NULL,NULL,NULL
+ "1935",NULL,"Joanne","Diexsen",NULL,NULL,NULL
+ "1936",NULL,"Joannis","Lijsens",NULL,NULL,NULL
+ "1937",NULL,"Joenis","Van Meurs",NULL,NULL,NULL
+ "1938",NULL,"Johana","Fairwood",NULL,NULL,NULL
+ "1939",NULL,"John ","Brendley",NULL,NULL,NULL
+ "1940",NULL,"John ","Byerley","Esq",NULL,NULL
+ "1941",NULL,"John ","Collins","gent ",NULL,NULL
+ "1942",NULL,"John Baptist","De Wolf",NULL,NULL,NULL
+ "1943",NULL,"John Beaumont","Tasburgh",NULL,NULL,NULL
+ "1944",NULL,"John George","Segart",NULL,NULL,NULL
+ "1945",NULL,"John Henry","Broers",NULL,NULL,NULL
+ "1946",NULL,"John Thimbleby","Conquest","Esq",NULL,NULL
+ "1948",NULL,"John","Ainsworth",NULL,NULL,NULL
+ "1949",NULL,"John","Atkinson","Esq",NULL,NULL
+ "1950",NULL,"John","Badger",NULL,NULL,NULL
+ "1951",NULL,"John","Baker",NULL,NULL,NULL
+ "1952",NULL,"John","Barnes",NULL,"Quaker",NULL
+ "1953",NULL,"John","Bartlett",NULL,NULL,NULL
+ "1954",NULL,"John","Beament","gent",NULL,NULL
+ "1955",NULL,"John","Bedingfield",NULL,NULL,NULL
+ "1956",NULL,"John","Berington ","Esq",NULL,NULL
+ "1957",NULL,"John","Berington","Esq",NULL,NULL
+ "1959",NULL,"John","Betts",NULL,NULL,NULL
+ "1960",NULL,"John","Biddulph","Esq",NULL,NULL
+ "1961",NULL,"John","Blundell",NULL,NULL,NULL
+ "1962",NULL,"John","Bone",NULL,NULL,NULL
+ "1963",NULL,"John","Boone",NULL,NULL,NULL
+ "1964",NULL,"John","Boone",NULL,NULL,NULL
+ "1965",NULL,"John","Brinckhurst","Esq",NULL,NULL
+ "1966",NULL,"John","Brindle",NULL,NULL,NULL
+ "1968",NULL,"John","Brooke","Esq",NULL,NULL
+ "1969",NULL,"John","Browne","Esq",NULL,NULL
+ "1970",NULL,"John","Burrell",NULL,NULL,NULL
+ "1971",NULL,"John","Burton",NULL,NULL,NULL
+ "1972",NULL,"John","Busby","Esq",NULL,NULL
+ "1973",NULL,"John","Busby",NULL,NULL,NULL
+ "1974",NULL,"John","Byrne",NULL,NULL,NULL
+ "1975",NULL,"John","Calvert","Esq",NULL,NULL
+ "1976",NULL,"John","Cary","Esq",NULL,NULL
+ "1977",NULL,"John","Cary","Esq",NULL,NULL
+ "1980",NULL,"John","Caryll","Esq",NULL,NULL
+ "1982",NULL,"John","Caton",NULL,NULL,NULL
+ "1983",NULL,"John","Chadwick",NULL,NULL,NULL
+ "1984",NULL,"John","Chapman",NULL,NULL,NULL
+ "1985",NULL,"John","Chichester","Esq",NULL,NULL
+ "1986",NULL,"John","Clarke",NULL,NULL,NULL
+ "1987",NULL,"John","Cletherow",NULL,NULL,NULL
+ "1988",NULL,"John","Coleman",NULL,NULL,NULL
+ "1989",NULL,"John","Collings",NULL,NULL,NULL
+ "1990",NULL,"John","Constable",NULL,NULL,NULL
+ "1991",NULL,"John","Constable",NULL,NULL,NULL
+ "1992",NULL,"John","Corham",NULL,NULL,NULL
+ "1994",NULL,"John","Crispe","Esq",NULL,NULL
+ "1995",NULL,"John","Culcheth","Esq",NULL,NULL
+ "1996",NULL,"John","Damiens",NULL,NULL,NULL
+ "1997",NULL,"John","Darell ","Esq",NULL,NULL
+ "1998",NULL,"John","Darell",NULL,NULL,NULL
+ "2000",NULL,"John","Digby",NULL,NULL,NULL
+ "2002",NULL,"John","Draycott","Esq",NULL,NULL
+ "2003",NULL,"John","Eastwood",NULL,NULL,NULL
+ "2004",NULL,"John","Elison",NULL,NULL,NULL
+ "2005",NULL,"John","Elliott","Esq",NULL,NULL
+ "2007",NULL,"John","Emmott",NULL,NULL,NULL
+ "2008",NULL,"John","Farrar",NULL,NULL,NULL
+ "2009",NULL,"John","Floyd",NULL,NULL,NULL
+ "2010",NULL,"John","Fortescue","Esq",NULL,NULL
+ "2011",NULL,"John","Fortescue",NULL,NULL,NULL
+ "2012",NULL,"John","Fryar",NULL,NULL,NULL
+ "2013",NULL,"John","Gage",NULL,NULL,NULL
+ "2014",NULL,"John","Gascoigne",NULL,NULL,NULL
+ "2015",NULL,"John","German",NULL,NULL,NULL
+ "2016",NULL,"John","Gifford","Esq M.D.",NULL,NULL
+ "2017",NULL,"John","Golden","Esq",NULL,NULL
+ "2018",NULL,"John","Grimbleson",NULL,NULL,NULL
+ "2019",NULL,"John","Groves",NULL,NULL,NULL
+ "2020",NULL,"John","Hammerton","Esq",NULL,NULL
+ "2021",NULL,"John","Hannes",NULL,NULL,NULL
+ "2022",NULL,"John","Harrington","Esq",NULL,NULL
+ "2025",NULL,"John","Harrison","alias Green",NULL,NULL
+ "2026",NULL,"John","Haskeyne","gent",NULL,NULL
+ "2027",NULL,"John","Hastings",NULL,NULL,NULL
+ "2028",NULL,"John","Hawkins","Esq",NULL,NULL
+ "2029",NULL,"John","Hengall",NULL,NULL,NULL
+ "2030",NULL,"John","Heywood",NULL,NULL,NULL
+ "2031",NULL,"John","Hill",NULL,NULL,NULL
+ "2032",NULL,"John","Hodkinson",NULL,NULL,NULL
+ "2033",NULL,"John","Hornyold","Esq",NULL,NULL
+ "2034",NULL,"John","Houghton",NULL,NULL,NULL
+ "2035",NULL,"John","Houle",NULL,NULL,NULL
+ "2036",NULL,"John","Howard",NULL,NULL,NULL
+ "2037",NULL,"John","Hunter",NULL,NULL,NULL
+ "2038",NULL,"John","Hussey","Esq",NULL,NULL
+ "2039",NULL,"John","Inglebie",NULL,NULL,NULL
+ "2040",NULL,"John","Ingleby","Esq",NULL,NULL
+ "2041",NULL,"John","James","Esq",NULL,NULL
+ "2044",NULL,"John","Jenison","Esq",NULL,NULL
+ "2045",NULL,"John","Jones",NULL,"Cath",NULL
+ "2046",NULL,"John","Kempe","Esq",NULL,NULL
+ "2047",NULL,"John","Kempe","Esq","conv then conv back",NULL
+ "2048",NULL,"John","Kempson","Esq",NULL,NULL
+ "2050",NULL,"John","Kennett","Esq",NULL,NULL
+ "2051",NULL,"John","Kinne",NULL,NULL,NULL
+ "2052",NULL,"John","Lancaster",NULL,NULL,NULL
+ "2053",NULL,"John","Leadbitter",NULL,NULL,NULL
+ "2054",NULL,"John","Leeke","Esq",NULL,NULL
+ "2055",NULL,"John","Lenthall","Esq",NULL,NULL
+ "2056",NULL,"John","Ley",NULL,NULL,NULL
+ "2057",NULL,"John","Lowe",NULL,NULL,NULL
+ "2058",NULL,"John","Martinash",NULL,NULL,NULL
+ "2059",NULL,"John","Matthews",NULL,NULL,NULL
+ "2061",NULL,"John","Molyneux","Esq",NULL,NULL
+ "2063",NULL,"John","Monson",NULL,NULL,NULL
+ "2064",NULL,"John","Mony",NULL,NULL,NULL
+ "2065",NULL,"John","More",NULL,NULL,NULL
+ "2066",NULL,"John","Morgan",NULL,NULL,NULL
+ "2067",NULL,"John","Mostyn","Esq",NULL,NULL
+ "2068",NULL,"John","Musgrave",NULL,NULL,NULL
+ "2069",NULL,"John","Nandyke","Esq",NULL,NULL
+ "2070",NULL,"John","Newport",NULL,NULL,NULL
+ "2071",NULL,"John","Newton","Esq",NULL,NULL
+ "2072",NULL,"John","Osbaldeston","Esq",NULL,NULL
+ "2073",NULL,"John","Parkenson",NULL,NULL,NULL
+ "2074",NULL,"John","Parkes",NULL,NULL,NULL
+ "2075",NULL,"John","Parnham",NULL,NULL,NULL
+ "2076",NULL,"John","Parry","gent",NULL,NULL
+ "2077",NULL,"John","Paston","Esq",NULL,NULL
+ "2079",NULL,"John","Pendrill",NULL,NULL,NULL
+ "2080",NULL,"John","Penington","Esq",NULL,NULL
+ "2081",NULL,"John","Petre","Esq",NULL,NULL
+ "2083",NULL,"John","Phesackelly",NULL,NULL,NULL
+ "2084",NULL,"John","Phillips",NULL,NULL,NULL
+ "2085",NULL,"John","Powdrell","Esq",NULL,NULL
+ "2086",NULL,"John","Preston",NULL,NULL,NULL
+ "2087",NULL,"John","Price",NULL,"prot",NULL
+ "2088",NULL,"John","Prichard",NULL,NULL,NULL
+ "2089",NULL,"John","Prince",NULL,NULL,NULL
+ "2090",NULL,"John","Quiningam","Gent",NULL,NULL
+ "2091",NULL,"John","Reynoldson",NULL,NULL,NULL
+ "2092",NULL,"John","Rimmer",NULL,NULL,NULL
+ "2093",NULL,"John","Roberts",NULL,NULL,NULL
+ "2094",NULL,"John","Rooper","Esq",NULL,NULL
+ "2095",NULL,"John","Rowe","Esq",NULL,NULL
+ "2096",NULL,"John","Russell","Esq",NULL,NULL
+ "2098",NULL,"John","Seymore",NULL,NULL,NULL
+ "2099",NULL,"John","Shaftoe","Esq",NULL,NULL
+ "2100",NULL,"John","Shelley",NULL,NULL,NULL
+ "2101",NULL,"John","Shepherd",NULL,NULL,NULL
+ "2103",NULL,"John","Southcote","Esq","cath",NULL
+ "2104",NULL,"John","Spenser","Esq",NULL,NULL
+ "2105",NULL,"John","Stocton",NULL,NULL,NULL
+ "2106",NULL,"John","Stowers",NULL,NULL,NULL
+ "2107",NULL,"John","Strache",NULL,NULL,NULL
+ "2109",NULL,"John","Talbot","10th earl of Shrewsbury",NULL,NULL
+ "2110",NULL,"John","Thimelby","Esq","Cath",NULL
+ "2111",NULL,"John","Thomson","Esq",NULL,NULL
+ "2112",NULL,"John","Thorpe","Esq",NULL,NULL
+ "2113",NULL,"John","Throckmorton","Esq","Cath",NULL
+ "2114",NULL,"John","Thwaites",NULL,NULL,NULL
+ "2115",NULL,"John","Tildesley","Esq",NULL,NULL
+ "2116",NULL,"John","Tomlinson",NULL,NULL,NULL
+ "2119",NULL,"John","Trevelyan",NULL,NULL,NULL
+ "2120",NULL,"John","Trevillian",NULL,NULL,NULL
+ "2121",NULL,"John","Turner",NULL,NULL,NULL
+ "2122",NULL,"John","Urmeston",NULL,NULL,NULL
+ "2123",NULL,"John","Valant",NULL,NULL,NULL
+ "2124",NULL,"John","Wakeman","Esq",NULL,NULL
+ "2125",NULL,"John","Watkinson",NULL,NULL,NULL
+ "2126",NULL,"John","Webb","Esq",NULL,NULL
+ "2127",NULL,"John","Webbe","Esq",NULL,NULL
+ "2129",NULL,"John","Weston","Esq",NULL,NULL
+ "2130",NULL,"John","White",NULL,NULL,NULL
+ "2131",NULL,"John","Whiteside",NULL,NULL,NULL
+ "2132",NULL,"John","Whiting",NULL,NULL,NULL
+ "2133",NULL,"John","Whittingham",NULL,NULL,NULL
+ "2135",NULL,"John","Wigmore",NULL,NULL,NULL
+ "2136",NULL,"John","Wilcockson",NULL,NULL,NULL
+ "2137",NULL,"John","Wilks",NULL,NULL,NULL
+ "2138",NULL,"John","Williams",NULL,"prot",NULL
+ "2139",NULL,"John","Witham",NULL,NULL,NULL
+ "2140",NULL,"John","Worsley","Esq",NULL,NULL
+ "2141",NULL,"John","Wright ","Esq",NULL,NULL
+ "2144",NULL,"John","Yeats",NULL,NULL,NULL
+ "2145",NULL,"John","van den Brook",NULL,NULL,NULL
+ "2146",NULL,"John/ Joannes","Seghers",NULL,NULL,NULL
+ "2147",NULL,"Jonas","Green",NULL,NULL,NULL
+ "2148",NULL,"Jordan","Langdale","Esq",NULL,NULL
+ "2149",NULL,"Joseas","Willacy",NULL,NULL,NULL
+ "2152",NULL,"Joseph","Blundell","SJ",NULL,NULL
+ "2153",NULL,"Joseph","Busby",NULL,NULL,NULL
+ "2154",NULL,"Joseph","Evans",NULL,NULL,NULL
+ "2155",NULL,"Joseph","Ford",NULL,NULL,NULL
+ "2156",NULL,"Joseph","Hills",NULL,NULL,NULL
+ "2157",NULL,"Joseph","Howse",NULL,NULL,NULL
+ "2158",NULL,"Joseph","Huddleston",NULL,NULL,NULL
+ "2159",NULL,"Joseph","Lemaire",NULL,NULL,NULL
+ "2160",NULL,"Joseph","Matthews",NULL,NULL,NULL
+ "2161",NULL,"Joseph","Miller",NULL,NULL,NULL
+ "2162",NULL,"Joseph","Petre","Esq",NULL,NULL
+ "2163",NULL,"Joseph","Slade",NULL,"cath",NULL
+ "2164",NULL,"Joseph","Stone",NULL,NULL,NULL
+ "2165",NULL,"Joseph","Wheeler",NULL,NULL,NULL
+ "2166",NULL,"Joseph","Wildsmith",NULL,NULL,NULL
+ "2167",NULL,"Josling","Percy",NULL,NULL,NULL
+ "2168",NULL,"Jossin","Moorheerbe",NULL,NULL,NULL
+ "2169",NULL,"Judith","Dalton",NULL,NULL,NULL
+ "2171",NULL,"Judith","Hawkins",NULL,NULL,NULL
+ "2172",NULL,"Judith","Meade",NULL,NULL,NULL
+ "2173",NULL,"Judith","Stavely",NULL,NULL,NULL
+ "2175",NULL,"Judith","Stewart",NULL,NULL,NULL
+ "2177",NULL,"Judith","Wotherswick ",NULL,NULL,NULL
+ "2179",NULL,"Julian","Elston",NULL,NULL,NULL
+ "2180",NULL,"Juliana","Fenrother",NULL,NULL,NULL
+ "2181",NULL,"Juliana","Garter",NULL,NULL,NULL
+ "2183",NULL,"Juliana","Selby",NULL,NULL,NULL
+ "2184",NULL,"Justina Maria Anna","van Dyck",NULL,NULL,NULL
+ "2185",NULL,"Justinian","Mills",NULL,NULL,NULL
+ "2187",NULL,"Katharine","Fenwick",NULL,NULL,NULL
+ "2188",NULL,"Katharine","Forde",NULL,NULL,NULL
+ "2189",NULL,"Katherina","Culcheth",NULL,NULL,NULL
+ "2192",NULL,"Katherine","Babthorpe",NULL,NULL,NULL
+ "2193",NULL,"Katherine","Berington",NULL,NULL,NULL
+ "2195",NULL,"Katherine","Browne",NULL,NULL,NULL
+ "2196",NULL,"Katherine","Dalbie",NULL,NULL,NULL
+ "2197",NULL,"Katherine","Fortescue",NULL,NULL,NULL
+ "2198",NULL,"Katherine","Hailes",NULL,NULL,NULL
+ "2199",NULL,"Katherine","Howard",NULL,NULL,NULL
+ "2200",NULL,"Katherine","Parker",NULL,NULL,NULL
+ "2201",NULL,"Katherine","Swinburne",NULL,NULL,NULL
+ "2202",NULL,"Katherine","Tunstall",NULL,NULL,NULL
+ "2203",NULL,"Lancelot","Salkeld","Esq",NULL,NULL
+ "2204",NULL,"Lancet","Lyttelton",NULL,NULL,NULL
+ "2205",NULL,"Lanslett","Carnaby",NULL,NULL,NULL
+ "2206",NULL,"Laurence","Formby",NULL,NULL,NULL
+ "2207",NULL,"Laurence","Ireland","Esq",NULL,NULL
+ "2208",NULL,"Laurence","Lomax",NULL,NULL,NULL
+ "2209",NULL,"Leonard","Beckwith",NULL,NULL,NULL
+ "2210",NULL,"Leonard","Brooke",NULL,NULL,NULL
+ "2211",NULL,"Leonard","Clifton",NULL,NULL,NULL
+ "2212",NULL,"Leonard","Roland",NULL,NULL,NULL
+ "2213",NULL,"Leonard","Wyvell",NULL,NULL,NULL
+ "2214",NULL,"Leonard/Lyonell","Wake",NULL,"convert",NULL
+ "2215",NULL,"Lettice","Bullock",NULL,NULL,NULL
+ "2216",NULL,"Lettice","Cressie",NULL,"Cath",NULL
+ "2217",NULL,"Lettice","Tichborne",NULL,NULL,NULL
+ "2218",NULL,"Lewis","Mosselman",NULL,"cath",NULL
+ "2219",NULL,"Lewis","Richardson",NULL,NULL,NULL
+ "2220",NULL,"Lott","Legg",NULL,NULL,NULL
+ "2221",NULL,"Louis","Danton ",NULL,NULL,NULL
+ "2222",NULL,"Louis","Innes",NULL,NULL,NULL
+ "2223",NULL,"Lucas","O'Curren",NULL,NULL,NULL
+ "2224",NULL,"Lucie","Williams",NULL,NULL,NULL
+ "2225",NULL,"Lucretia",NULL,NULL,NULL,NULL
+ "2226",NULL,"Lucy","Brooke",NULL,NULL,NULL
+ "2228",NULL,"Lucy","Eyre",NULL,NULL,NULL
+ "2229",NULL,"Lucy","Fermor",NULL,NULL,NULL
+ "2230",NULL,"Lucy","Hopper",NULL,NULL,NULL
+ "2231",NULL,"Lucy","Noel",NULL,NULL,NULL
+ "2235",NULL,"Lucy","Smith",NULL,NULL,NULL
+ "2236",NULL,"Ludgarde","Falle",NULL,NULL,NULL
+ "2237",NULL,"Luke","Farrel",NULL,NULL,NULL
+ "2238",NULL,"Lydia","Rodney",NULL,NULL,NULL
+ "2240",NULL,"Magdalen","D'Amand",NULL,NULL,NULL
+ "2241",NULL,"Magdalen","Golding",NULL,NULL,NULL
+ "2244",NULL,"Magdalen","Pickering",NULL,"Prideaux (Hamilton)",NULL
+ "2245",NULL,"Magdalen","Winell",NULL,NULL,NULL
+ "2247",NULL,"Magdalene/Margaret","Waldegrave",NULL,NULL,NULL
+ "2248",NULL,"Mannock","Strickland",NULL,NULL,NULL
+ "2249",NULL,"Marcus","Monpelier",NULL,NULL,NULL
+ "2250",NULL,"Margaret ","Naylor",NULL,NULL,NULL
+ "2251",NULL,"Margaret","Alcock",NULL,NULL,NULL
+ "2252",NULL,"Margaret","Atkinson",NULL,NULL,NULL
+ "2253",NULL,"Margaret","Berney",NULL,NULL,NULL
+ "2254",NULL,"Margaret","Bird",NULL,NULL,NULL
+ "2255",NULL,"Margaret","Blakeston",NULL,NULL,NULL
+ "2256",NULL,"Margaret","Brabonck/ Brabouck",NULL,NULL,NULL
+ "2257",NULL,"Margaret","Bradshaw",NULL,NULL,NULL
+ "2258",NULL,"Margaret","Bulmer",NULL,NULL,NULL
+ "2260",NULL,"Margaret","Clodde",NULL,NULL,NULL
+ "2261",NULL,"Margaret","Collins",NULL,NULL,NULL
+ "2262",NULL,"Margaret","Copley",NULL,NULL,NULL
+ "2263",NULL,"Margaret","Curwen",NULL,NULL,NULL
+ "2264",NULL,"Margaret","Downing",NULL,NULL,NULL
+ "2265",NULL,"Margaret","Errington",NULL,NULL,NULL
+ "2266",NULL,"Margaret","Eyston",NULL,NULL,NULL
+ "2267",NULL,"Margaret","Fenton",NULL,NULL,NULL
+ "2268",NULL,"Margaret","Gage",NULL,NULL,NULL
+ "2269",NULL,"Margaret","Gale",NULL,"Cath",NULL
+ "2270",NULL,"Margaret","Giggs",NULL,"Cath",NULL
+ "2271",NULL,"Margaret","Heneage",NULL,NULL,NULL
+ "2272",NULL,"Margaret","Hesketh",NULL,NULL,NULL
+ "2273",NULL,"Margaret","Hiems",NULL,NULL,NULL
+ "2274",NULL,"Margaret","Hills",NULL,NULL,NULL
+ "2275",NULL,"Margaret","Ireland",NULL,NULL,NULL
+ "2276",NULL,"Margaret","Jacobs",NULL,NULL,NULL
+ "2277",NULL,"Margaret","Johnson",NULL,NULL,NULL
+ "2278",NULL,"Margaret","Kempson",NULL,NULL,NULL
+ "2279",NULL,"Margaret","Knollys",NULL,NULL,NULL
+ "2280",NULL,"Margaret","Leeson",NULL,NULL,NULL
+ "2281",NULL,"Margaret","Lismore",NULL,NULL,NULL
+ "2282",NULL,"Margaret","Lloyd",NULL,NULL,NULL
+ "2283",NULL,"Margaret","MacNamara",NULL,NULL,NULL
+ "2284",NULL,"Margaret","Middleton",NULL,"Cath",NULL
+ "2285",NULL,"Margaret","Molyneux",NULL,NULL,NULL
+ "2286",NULL,"Margaret","Nevill ",NULL,NULL,NULL
+ "2288",NULL,"Margaret","Norton",NULL,NULL,NULL
+ "2289",NULL,"Margaret","Paston",NULL,NULL,NULL
+ "2290",NULL,"Margaret","Paston",NULL,NULL,NULL
+ "2291",NULL,"Margaret","Peirepoint",NULL,NULL,NULL
+ "2292",NULL,"Margaret","Perkins",NULL,NULL,NULL
+ "2293",NULL,"Margaret","Persons",NULL,NULL,NULL
+ "2295",NULL,"Margaret","Shelley",NULL,NULL,NULL
+ "2296",NULL,"Margaret","Shirburne",NULL,NULL,NULL
+ "2297",NULL,"Margaret","Shuttleworth",NULL,NULL,NULL
+ "2298",NULL,"Margaret","Smith",NULL,NULL,NULL
+ "2299",NULL,"Margaret","Talbot",NULL,NULL,NULL
+ "2300",NULL,"Margaret","Tant",NULL,NULL,NULL
+ "2301",NULL,"Margaret","Tarlton",NULL,NULL,NULL
+ "2302",NULL,"Margaret","Temple",NULL,NULL,NULL
+ "2303",NULL,"Margaret","Tesdell",NULL,NULL,NULL
+ "2304",NULL,"Margaret","Thomas",NULL,NULL,NULL
+ "2305",NULL,"Margaret","Thompson",NULL,NULL,NULL
+ "2306",NULL,"Margaret","Turner",NULL,NULL,NULL
+ "2307",NULL,"Margaret","Whalley",NULL,NULL,NULL
+ "2309",NULL,"Margaret","Widdrington",NULL,NULL,NULL
+ "2310",NULL,"Margaret","Wilcock",NULL,NULL,NULL
+ "2311",NULL,"Margaret","Wilson",NULL,NULL,NULL
+ "2312",NULL,"Margaret/Magdalen","Waldegrave",NULL,NULL,NULL
+ "2313",NULL,"Margarit","Blackston",NULL,NULL,NULL
+ "2314",NULL,"Margarit","Sanders",NULL,NULL,NULL
+ "2316",NULL,"Margarit","Wearring",NULL,NULL,NULL
+ "2317",NULL,"Margarit","West",NULL,NULL,NULL
+ "2318",NULL,"Margarita","Butler ",NULL,NULL,NULL
+ "2319",NULL,"Margarite","Clarkson",NULL,NULL,NULL
+ "2320",NULL,"Margarite","Saffennem, Van",NULL,NULL,NULL
+ "2321",NULL,"Margery","Molyneux",NULL,NULL,NULL
+ "2322",NULL,"Margreitt","Pickering",NULL,NULL,NULL
+ "2323",NULL,"Margret","Brand",NULL,NULL,NULL
+ "2324",NULL,"Marguerite","Evers",NULL,NULL,NULL
+ "2325",NULL,"Marguerite","Silvester",NULL,NULL,NULL
+ "2326",NULL,"Margueritt","Neron",NULL,NULL,NULL
+ "2327",NULL,"Margueritt","Waring",NULL,NULL,NULL
+ "2328",NULL,"Margueritte","Rowbottom ",NULL,NULL,NULL
+ "2330",NULL,"Maria","Coosmans",NULL,NULL,NULL
+ "2331",NULL,"Maria","Copeland",NULL,NULL,NULL
+ "2334",NULL,"Maria","Holman",NULL,NULL,NULL
+ "2335",NULL,"Maria","Leeuw",NULL,NULL,NULL
+ "2336",NULL,"Maria","Lowe/Lauwe",NULL,NULL,NULL
+ "2337",NULL,"Maria","Mostyn",NULL,NULL,NULL
+ "2338",NULL,"Maria","Parkins",NULL,NULL,NULL
+ "2339",NULL,"Maria","Pauw, De",NULL,NULL,NULL
+ "2340",NULL,"Maria","Seghers",NULL,NULL,NULL
+ "2341",NULL,"Maria","Sperman",NULL,NULL,NULL
+ "2342",NULL,"Maria","Tijldon",NULL,NULL,NULL
+ "2343",NULL,"Marie ","Hidlem /Hilum",NULL,NULL,NULL
+ "2344",NULL,"Marie ","Stewart",NULL,NULL,NULL
+ "2345",NULL,"Marie Antoinette","Ombert",NULL,NULL,NULL
+ "2346",NULL,"Marie Catherine Joseph","Dusart",NULL,NULL,NULL
+ "2347",NULL,"Marie Elisabeth","Bachelet",NULL,NULL,NULL
+ "2348",NULL,"Marie Joseph","Ledru",NULL,NULL,NULL
+ "2349",NULL,"Marie Magdelena","Lahaye",NULL,NULL,NULL
+ "2350",NULL,"Marie","Brooke",NULL,"cath",NULL
+ "2351",NULL,"Marie","Crookel",NULL,NULL,NULL
+ "2352",NULL,"Marie","Ducket",NULL,NULL,NULL
+ "2355",NULL,"Marie","Filpot",NULL,NULL,NULL
+ "2356",NULL,"Marie","Finch",NULL,NULL,NULL
+ "2357",NULL,"Marie","Fooks ",NULL,NULL,NULL
+ "2358",NULL,"Marie","Hooper",NULL,NULL,NULL
+ "2359",NULL,"Marie","Langworth",NULL,NULL,NULL
+ "2360",NULL,"Marie","Le Breux",NULL,NULL,NULL
+ "2361",NULL,"Marie","Moerdue",NULL,NULL,NULL
+ "2363",NULL,"Marie","Peck",NULL,NULL,NULL
+ "2364",NULL,"Marie","Randach",NULL,NULL,NULL
+ "2365",NULL,"Marie","Salvin",NULL,NULL,NULL
+ "2366",NULL,"Marie","St Jans Schamp",NULL,NULL,NULL
+ "2368",NULL,"Marie","Sway",NULL,NULL,NULL
+ "2369",NULL,"Marie","Thipper",NULL,NULL,NULL
+ "2371",NULL,"Marie","de la Porte",NULL,NULL,NULL
+ "2372",NULL,"Marie-Elisabeth","de Compigny",NULL,NULL,NULL
+ "2373",NULL,"Marina","Hickman",NULL,NULL,NULL
+ "2374",NULL,"Marina","Webbe",NULL,NULL,NULL
+ "2375",NULL,"Marjory","Dodd",NULL,NULL,NULL
+ "2376",NULL,"Mark","Spicer",NULL,NULL,NULL
+ "2377",NULL,"Marmaduke","Anne","Esq",NULL,NULL
+ "2379",NULL,"Marmaduke","Dorrell","Esq",NULL,NULL
+ "2380",NULL,"Marmaduke","Langdale",NULL,NULL,NULL
+ "2382",NULL,"Marmaduke","Ward",NULL,NULL,NULL
+ "2384",NULL,"Martha","Buttry",NULL,NULL,NULL
+ "2385",NULL,"Martha","Coleman",NULL,NULL,NULL
+ "2386",NULL,"Martha","Fryar",NULL,NULL,NULL
+ "2387",NULL,"Martha","Hawkins",NULL,NULL,NULL
+ "2388",NULL,"Martha","Martin",NULL,NULL,NULL
+ "2391",NULL,"Martha","Tempest",NULL,NULL,NULL
+ "2392",NULL,"Martin","Reeks",NULL,NULL,NULL
+ "2393",NULL,"Martin","Wicham",NULL,"Protestant yeoman",NULL
+ "2395",NULL,"Martin","Wollascott",NULL,NULL,NULL
+ "2396",NULL,"Martin","de Busscher",NULL,NULL,NULL
+ "2397",NULL,"Martinus","van Dijck",NULL,NULL,NULL
+ "2398",NULL,"Mary ","Ayliffe",NULL,NULL,NULL
+ "2399",NULL,"Mary ","Baily ",NULL,NULL,NULL
+ "2400",NULL,"Mary ","Caryll",NULL,NULL,NULL
+ "2401",NULL,"Mary ","Dovery",NULL,NULL,NULL
+ "2402",NULL,"Mary ","Jonquet de L'Epine",NULL,NULL,NULL
+ "2406",NULL,"Mary ","Powell",NULL,NULL,NULL
+ "2407",NULL,"Mary ","Radcliffe",NULL,NULL,NULL
+ "2408",NULL,"Mary ","Risdon",NULL,NULL,NULL
+ "2409",NULL,"Mary ","Stapleton",NULL,NULL,NULL
+ "2410",NULL,"Mary ","Suttler",NULL,NULL,NULL
+ "2411",NULL,"Mary ","Symonds ",NULL,NULL,NULL
+ "2413",NULL,"Mary ","Tichborne",NULL,NULL,NULL
+ "2415",NULL,"Mary Anne","Elliot",NULL,NULL,NULL
+ "2416",NULL,"Mary Anne","Hoskins",NULL,NULL,NULL
+ "2417",NULL,"Mary Anne","Poset",NULL,NULL,NULL
+ "2418",NULL,"Mary Bernarde","D'Allegambe",NULL,NULL,NULL
+ "2419",NULL,"Mary Charlotte","Bond",NULL,NULL,NULL
+ "2420",NULL,"Mary Elizabeth","Blanckaert",NULL,NULL,NULL
+ "2421",NULL,"Mary Eugenia","Blount",NULL,NULL,NULL
+ "2422",NULL,"Mary Francois","Rape, de",NULL,NULL,NULL
+ "2423",NULL,"Mary Gabrielle","de Laing","Countess of Hoogstraten",NULL,NULL
+ "2424",NULL,"Mary","Abram",NULL,NULL,NULL
+ "2425",NULL,"Mary","Allen",NULL,NULL,NULL
+ "2426",NULL,"Mary","Anderton",NULL,NULL,NULL
+ "2427",NULL,"Mary","Arundell",NULL,NULL,NULL
+ "2428",NULL,"Mary","Arundell",NULL,NULL,NULL
+ "2429",NULL,"Mary","Arundell",NULL,NULL,NULL
+ "2430",NULL,"Mary","Bacon",NULL,NULL,NULL
+ "2431",NULL,"Mary","Banester",NULL,NULL,NULL
+ "2432",NULL,"Mary","Barnes",NULL,NULL,NULL
+ "2433",NULL,"Mary","Baskerville",NULL,NULL,NULL
+ "2434",NULL,"Mary","Beaumont",NULL,NULL,NULL
+ "2436",NULL,"Mary","Bedingfield",NULL,NULL,NULL
+ "2437",NULL,"Mary","Bedingfield",NULL,NULL,NULL
+ "2438",NULL,"Mary","Beech",NULL,NULL,NULL
+ "2439",NULL,"Mary","Bell",NULL,NULL,NULL
+ "2440",NULL,"Mary","Best",NULL,NULL,NULL
+ "2441",NULL,"Mary","Biddulph",NULL,"Cath",NULL
+ "2442",NULL,"Mary","Bidland",NULL,NULL,NULL
+ "2444",NULL,"Mary","Bishop",NULL,NULL,NULL
+ "2445",NULL,"Mary","Blavira",NULL,NULL,NULL
+ "2446",NULL,"Mary","Blount","Duchess of Norfolk",NULL,NULL
+ "2447",NULL,"Mary","Booth",NULL,NULL,NULL
+ "2448",NULL,"Mary","Bostock",NULL,NULL,NULL
+ "2449",NULL,"Mary","Bostock",NULL,NULL,NULL
+ "2450",NULL,"Mary","Bradshaw",NULL,NULL,NULL
+ "2451",NULL,"Mary","Bray",NULL,NULL,NULL
+ "2452",NULL,"Mary","Brett",NULL,NULL,NULL
+ "2453",NULL,"Mary","Brockholes",NULL,NULL,NULL
+ "2456",NULL,"Mary","Brooke",NULL,NULL,NULL
+ "2457",NULL,"Mary","Brookesby",NULL,NULL,NULL
+ "2459",NULL,"Mary","Brown",NULL,"Prot",NULL
+ "2460",NULL,"Mary","Browne",NULL,NULL,NULL
+ "2461",NULL,"Mary","Brudenell",NULL,"Cath",NULL
+ "2462",NULL,"Mary","Bruen",NULL,NULL,NULL
+ "2463",NULL,"Mary","Bruning",NULL,NULL,NULL
+ "2464",NULL,"Mary","Buckley",NULL,NULL,NULL
+ "2465",NULL,"Mary","Burdett",NULL,NULL,NULL
+ "2466",NULL,"Mary","Cantsfield",NULL,NULL,NULL
+ "2467",NULL,"Mary","Carlis",NULL,NULL,NULL
+ "2468",NULL,"Mary","Carr",NULL,NULL,NULL
+ "2469",NULL,"Mary","Carroll",NULL,NULL,NULL
+ "2470",NULL,"Mary","Carter",NULL,NULL,NULL
+ "2472",NULL,"Mary","Caterick",NULL,NULL,NULL
+ "2473",NULL,"Mary","Chamberlain",NULL,NULL,NULL
+ "2474",NULL,"Mary","Clemson",NULL,NULL,NULL
+ "2475",NULL,"Mary","Colinwood",NULL,NULL,NULL
+ "2476",NULL,"Mary","Collard",NULL,NULL,NULL
+ "2478",NULL,"Mary","Comberford",NULL,NULL,NULL
+ "2479",NULL,"Mary","Cooper",NULL,NULL,NULL
+ "2480",NULL,"Mary","Copley",NULL,NULL,NULL
+ "2481",NULL,"Mary","Copley",NULL,"Prot",NULL
+ "2482",NULL,"Mary","Cotton",NULL,NULL,NULL
+ "2483",NULL,"Mary","Cox",NULL,NULL,NULL
+ "2484",NULL,"Mary","Dancer",NULL,NULL,NULL
+ "2485",NULL,"Mary","Dant",NULL,NULL,NULL
+ "2486",NULL,"Mary","Davis",NULL,NULL,NULL
+ "2487",NULL,"Mary","Day",NULL,NULL,NULL
+ "2488",NULL,"Mary","Deane",NULL,NULL,NULL
+ "2489",NULL,"Mary","Dickinson",NULL,NULL,NULL
+ "2491",NULL,"Mary","Dormer",NULL,NULL,NULL
+ "2492",NULL,"Mary","Dormer",NULL,NULL,NULL
+ "2493",NULL,"Mary","Drauwaeter",NULL,NULL,NULL
+ "2494",NULL,"Mary","Dunn",NULL,NULL,NULL
+ "2495",NULL,"Mary","Englefield",NULL,NULL,NULL
+ "2496",NULL,"Mary","Englefield",NULL,NULL,NULL
+ "2497",NULL,"Mary","Erle",NULL,NULL,NULL
+ "2498",NULL,"Mary","Errington",NULL,NULL,NULL
+ "2499",NULL,"Mary","Escourt",NULL,NULL,NULL
+ "2500",NULL,"Mary","Eyre",NULL,NULL,NULL
+ "2501",NULL,"Mary","Fairchilde",NULL,NULL,NULL
+ "2502",NULL,"Mary","Feihal",NULL,NULL,NULL
+ "2504",NULL,"Mary","Fermor",NULL,NULL,NULL
+ "2505",NULL,"Mary","Fermor",NULL,NULL,NULL
+ "2506",NULL,"Mary","Fermor",NULL,NULL,NULL
+ "2507",NULL,"Mary","Fitzherbert",NULL,NULL,NULL
+ "2508",NULL,"Mary","Fitzpatrick",NULL,NULL,NULL
+ "2510",NULL,"Mary","Fitzwilliams",NULL,NULL,NULL
+ "2511",NULL,"Mary","Fortescue",NULL,NULL,NULL
+ "2512",NULL,"Mary","Fromonds",NULL,NULL,NULL
+ "2513",NULL,"Mary","Furs",NULL,NULL,NULL
+ "2514",NULL,"Mary","Gage",NULL,NULL,NULL
+ "2515",NULL,"Mary","Gascoigne",NULL,NULL,NULL
+ "2516",NULL,"Mary","Gerard",NULL,NULL,NULL
+ "2517",NULL,"Mary","Gifford",NULL,NULL,NULL
+ "2518",NULL,"Mary","Gifford",NULL,NULL,NULL
+ "2519",NULL,"Mary","Gill",NULL,NULL,NULL
+ "2520",NULL,"Mary","Goring",NULL,NULL,NULL
+ "2521",NULL,"Mary","Gradell",NULL,NULL,NULL
+ "2522",NULL,"Mary","Grimbalston",NULL,"Cath",NULL
+ "2523",NULL,"Mary","Guest",NULL,NULL,NULL
+ "2524",NULL,"Mary","Hanson",NULL,NULL,NULL
+ "2526",NULL,"Mary","Harisson",NULL,"Catholic",NULL
+ "2527",NULL,"Mary","Harrison",NULL,NULL,NULL
+ "2528",NULL,"Mary","Havers",NULL,NULL,NULL
+ "2529",NULL,"Mary","Hawker",NULL,NULL,NULL
+ "2530",NULL,"Mary","Heneage ",NULL,NULL,NULL
+ "2532",NULL,"Mary","Hinde",NULL,NULL,NULL
+ "2533",NULL,"Mary","Hitchcock",NULL,NULL,NULL
+ "2534",NULL,"Mary","Hornyold",NULL,NULL,NULL
+ "2536",NULL,"Mary","Howard",NULL,NULL,NULL
+ "2537",NULL,"Mary","Hurst",NULL,NULL,NULL
+ "2538",NULL,"Mary","Hussy ",NULL,NULL,NULL
+ "2541",NULL,"Mary","Hyde",NULL,NULL,NULL
+ "2542",NULL,"Mary","Ingleby",NULL,NULL,NULL
+ "2543",NULL,"Mary","Isham",NULL,NULL,NULL
+ "2544",NULL,"Mary","Jackson",NULL,NULL,NULL
+ "2545",NULL,"Mary","Jay",NULL,NULL,NULL
+ "2547",NULL,"Mary","Jermyn",NULL,NULL,NULL
+ "2548",NULL,"Mary","Kemp",NULL,NULL,NULL
+ "2549",NULL,"Mary","Killingbeck",NULL,NULL,NULL
+ "2551",NULL,"Mary","King",NULL,NULL,NULL
+ "2552",NULL,"Mary","King",NULL,NULL,NULL
+ "2553",NULL,"Mary","Laer van der",NULL,NULL,NULL
+ "2554",NULL,"Mary","Lane",NULL,NULL,NULL
+ "2555",NULL,"Mary","Lankesheere",NULL,NULL,NULL
+ "2556",NULL,"Mary","Lewys",NULL,NULL,NULL
+ "2558",NULL,"Mary","Liddle",NULL,NULL,NULL
+ "2559",NULL,"Mary","Lovet",NULL,NULL,NULL
+ "2560",NULL,"Mary","Macdonald",NULL,NULL,NULL
+ "2561",NULL,"Mary","Malad",NULL,NULL,NULL
+ "2562",NULL,"Mary","Mannock",NULL,NULL,NULL
+ "2564",NULL,"Mary","Markoe",NULL,NULL,NULL
+ "2565",NULL,"Mary","Maruen",NULL,NULL,NULL
+ "2566",NULL,"Mary","Massey",NULL,"Cath",NULL
+ "2567",NULL,"Mary","Middleton",NULL,NULL,NULL
+ "2568",NULL,"Mary","Midgel",NULL,NULL,NULL
+ "2569",NULL,"Mary","Mills",NULL,NULL,NULL
+ "2570",NULL,"Mary","Moiens",NULL,NULL,NULL
+ "2572",NULL,"Mary","Molyneux",NULL,NULL,NULL
+ "2573",NULL,"Mary","Moran",NULL,NULL,NULL
+ "2574",NULL,"Mary","More",NULL,NULL,NULL
+ "2575",NULL,"Mary","More",NULL,NULL,NULL
+ "2576",NULL,"Mary","Mostyn",NULL,NULL,NULL
+ "2577",NULL,"Mary","Mundy",NULL,NULL,NULL
+ "2578",NULL,"Mary","Neale",NULL,NULL,NULL
+ "2579",NULL,"Mary","Neale",NULL,NULL,NULL
+ "2581",NULL,"Mary","Nice",NULL,NULL,NULL
+ "2582",NULL,"Mary","Nocent",NULL,NULL,NULL
+ "2585",NULL,"Mary","Pallace",NULL,NULL,NULL
+ "2586",NULL,"Mary","Pallet",NULL,NULL,NULL
+ "2587",NULL,"Mary","Palmes",NULL,NULL,NULL
+ "2588",NULL,"Mary","Paston",NULL,NULL,NULL
+ "2589",NULL,"Mary","Payceborne",NULL,NULL,NULL
+ "2590",NULL,"Mary","Peacock",NULL,NULL,NULL
+ "2591",NULL,"Mary","Pease",NULL,NULL,NULL
+ "2592",NULL,"Mary","Peckham",NULL,NULL,NULL
+ "2593",NULL,"Mary","Pecoke",NULL,NULL,NULL
+ "2594",NULL,"Mary","Pennell",NULL,NULL,NULL
+ "2595",NULL,"Mary","Percy",NULL,NULL,NULL
+ "2596",NULL,"Mary","Petre",NULL,NULL,NULL
+ "2597",NULL,"Mary","Plate",NULL,"prot",NULL
+ "2598",NULL,"Mary","Plowden",NULL,NULL,NULL
+ "2599",NULL,"Mary","Pole",NULL,NULL,NULL
+ "2600",NULL,"Mary","Porter",NULL,NULL,NULL
+ "2601",NULL,"Mary","Potts",NULL,NULL,NULL
+ "2603",NULL,"Mary","Preston",NULL,NULL,NULL
+ "2604",NULL,"Mary","Price",NULL,NULL,NULL
+ "2605",NULL,"Mary","Prichet",NULL,NULL,NULL
+ "2606",NULL,"Mary","Prince",NULL,NULL,NULL
+ "2608",NULL,"Mary","Randall",NULL,NULL,NULL
+ "2609",NULL,"Mary","Revesby",NULL,NULL,NULL
+ "2610",NULL,"Mary","Ridley",NULL,NULL,NULL
+ "2611",NULL,"Mary","Roe",NULL,NULL,NULL
+ "2612",NULL,"Mary","Ryther",NULL,NULL,NULL
+ "2613",NULL,"Mary","Salvin",NULL,NULL,NULL
+ "2614",NULL,"Mary","Scilier",NULL,NULL,NULL
+ "2615",NULL,"Mary","Scott",NULL,NULL,NULL
+ "2616",NULL,"Mary","Seaborne",NULL,NULL,NULL
+ "2618",NULL,"Mary","Shelley",NULL,NULL,NULL
+ "2619",NULL,"Mary","Shelley",NULL,NULL,NULL
+ "2620",NULL,"Mary","Sherburne,","duchess of Norfolk",NULL,NULL
+ "2621",NULL,"Mary","Sillier",NULL,NULL,NULL
+ "2622",NULL,"Mary","Smallwood",NULL,NULL,NULL
+ "2623",NULL,"Mary","Smelt",NULL,NULL,NULL
+ "2625",NULL,"Mary","Smith",NULL,NULL,NULL
+ "2627",NULL,"Mary","Smith",NULL,NULL,NULL
+ "2629",NULL,"Mary","Southcote",NULL,NULL,NULL
+ "2630",NULL,"Mary","Spurrier",NULL,NULL,NULL
+ "2631",NULL,"Mary","St Paul",NULL,"convert",NULL
+ "2633",NULL,"Mary","Stafford","viscountess Stafford",NULL,NULL
+ "2635",NULL,"Mary","Stanfield",NULL,NULL,NULL
+ "2636",NULL,"Mary","Stanford",NULL,NULL,NULL
+ "2637",NULL,"Mary","Stanford",NULL,NULL,NULL
+ "2638",NULL,"Mary","Stanley",NULL,NULL,NULL
+ "2640",NULL,"Mary","Steward",NULL,NULL,NULL
+ "2641",NULL,"Mary","Stockwood",NULL,NULL,NULL
+ "2642",NULL,"Mary","Sulyard",NULL,NULL,NULL
+ "2644",NULL,"Mary","Symons",NULL,"cath",NULL
+ "2645",NULL,"Mary","Tarlton",NULL,NULL,NULL
+ "2646",NULL,"Mary","Taylor",NULL,NULL,NULL
+ "2647",NULL,"Mary","Taylor",NULL,NULL,NULL
+ "2648",NULL,"Mary","Teringham",NULL,NULL,NULL
+ "2649",NULL,"Mary","Thorny",NULL,"convert",NULL
+ "2652",NULL,"Mary","Townsend",NULL,NULL,NULL
+ "2653",NULL,"Mary","Tregian",NULL,NULL,NULL
+ "2656",NULL,"Mary","Tunstall",NULL,NULL,NULL
+ "2657",NULL,"Mary","Tyrwhitt",NULL,NULL,NULL
+ "2658",NULL,"Mary","Underhill",NULL,NULL,NULL
+ "2659",NULL,"Mary","Van Nieuenhuyse",NULL,NULL,NULL
+ "2660",NULL,"Mary","Van Thonette",NULL,NULL,NULL
+ "2661",NULL,"Mary","Victor",NULL,NULL,NULL
+ "2662",NULL,"Mary","Wake",NULL,NULL,NULL
+ "2664",NULL,"Mary","Wakeman",NULL,NULL,NULL
+ "2665",NULL,"Mary","Walker",NULL,NULL,NULL
+ "2666",NULL,"Mary","Walker",NULL,NULL,NULL
+ "2667",NULL,"Mary","Watkins",NULL,NULL,NULL
+ "2668",NULL,"Mary","Wenchcome",NULL,NULL,NULL
+ "2669",NULL,"Mary","West",NULL,NULL,NULL
+ "2670",NULL,"Mary","Wharton",NULL,NULL,NULL
+ "2671",NULL,"Mary","White",NULL,NULL,NULL
+ "2673",NULL,"Mary","Whitekar",NULL,NULL,NULL
+ "2674",NULL,"Mary","Widdrington",NULL,NULL,NULL
+ "2675",NULL,"Mary","Widdrington",NULL,NULL,NULL
+ "2676",NULL,"Mary","Widdrington",NULL,NULL,NULL
+ "2677",NULL,"Mary","Wigmore",NULL,NULL,NULL
+ "2678",NULL,"Mary","Williams,",NULL,NULL,NULL
+ "2679",NULL,"Mary","Williamson",NULL,NULL,NULL
+ "2680",NULL,"Mary","Williscott",NULL,NULL,NULL
+ "2681",NULL,"Mary","Willson",NULL,NULL,NULL
+ "2682",NULL,"Mary","Wilson",NULL,NULL,NULL
+ "2683",NULL,"Mary","Wolflie",NULL,NULL,NULL
+ "2684",NULL,"Mary","Wollascott",NULL,NULL,NULL
+ "2685",NULL,"Mary","Wright",NULL,NULL,NULL
+ "2686",NULL,"Mary","Wright",NULL,NULL,NULL
+ "2687",NULL,"Mary","Yate",NULL,NULL,NULL
+ "2688",NULL,"Mary","Yate",NULL,NULL,NULL
+ "2689",NULL,"Mary","de Steele",NULL,NULL,NULL
+ "2690",NULL,"Mathew","Helcot","Esq",NULL,NULL
+ "2691",NULL,"Mathias","Evens",NULL,"Prot",NULL
+ "2692",NULL,"Mathieu","Galocer",NULL,NULL,NULL
+ "2695",NULL,"Matthew","Hammertone","Esq",NULL,NULL
+ "2696",NULL,"Matthew","Maysey",NULL,NULL,NULL
+ "2697",NULL,"Matthew","Mead",NULL,NULL,NULL
+ "2698",NULL,"Matthew","Turner",NULL,NULL,NULL
+ "2699",NULL,"Maud","Vaux",NULL,NULL,NULL
+ "2700",NULL,"Maud","Williams",NULL,"Cath convert",NULL
+ "2701",NULL,"Maurice","Kinsman",NULL,NULL,NULL
+ "2702",NULL,"Melior","Nevill ",NULL,NULL,NULL
+ "2703",NULL,"Michael","Charnley",NULL,NULL,NULL
+ "2704",NULL,"Michael","Hill",NULL,NULL,NULL
+ "2705",NULL,"Michael","Lorymer",NULL,NULL,NULL
+ "2706",NULL,"Michael","Mohun",NULL,NULL,NULL
+ "2707",NULL,"Michael","Timperley","Esq",NULL,NULL
+ "2708",NULL,"Michael","Tunstall",NULL,NULL,NULL
+ "2709",NULL,"Micheline ","Waetelaer",NULL,NULL,NULL
+ "2710",NULL,"Michell","Tichborne",NULL,NULL,NULL
+ "2711",NULL,"Mildred","Cuppledick",NULL,NULL,NULL
+ "2712",NULL,"Mille","Saint Ems",NULL,NULL,NULL
+ "2713",NULL,"Millisen","Peche",NULL,NULL,NULL
+ "2714",NULL,"Moses","Ashton",NULL,NULL,NULL
+ "2715",NULL,"Mr","Gage",NULL,NULL,NULL
+ "2717",NULL,"Nathaniel","Collard",NULL,NULL,NULL
+ "2718",NULL,"Nathaniel","Hooke",NULL,NULL,NULL
+ "2719",NULL,"Nathaniel","Pigott",NULL,NULL,NULL
+ "2720",NULL,"Nathaniell","Spurret",NULL,NULL,NULL
+ "2721",NULL,"Naura","Cole",NULL,NULL,NULL
+ "2722",NULL,"Nazareth","Bagshaw",NULL,NULL,NULL
+ "2723",NULL,"Nicholas","Blundell","Esq",NULL,NULL
+ "2725",NULL,"Nicholas","Browne","2nd viscount Kenmare",NULL,NULL
+ "2726",NULL,"Nicholas","Erington","Esq",NULL,NULL
+ "2727",NULL,"Nicholas","Errington","Esq",NULL,NULL
+ "2728",NULL,"Nicholas","Fazakerley","Esq",NULL,NULL
+ "2729",NULL,"Nicholas","Stapleton","Esq",NULL,NULL
+ "2732",NULL,"Nicholas","Thornbrough",NULL,NULL,NULL
+ "2733",NULL,"Nicholas","Thornton","Esq",NULL,NULL
+ "2734",NULL,"Nicholas","Thornton",NULL,NULL,NULL
+ "2735",NULL,"Nicholas","Waldegrave","Esq",NULL,NULL
+ "2736",NULL,"Nicholas","Waldegrave",NULL,NULL,NULL
+ "2737",NULL,"Nicholas","Winckley",NULL,NULL,NULL
+ "2738",NULL,"Nicolas Francois ","Leblon",NULL,NULL,NULL
+ "2739",NULL,"Nicolas","Crispe","Esq",NULL,NULL
+ "2741",NULL,"Nicolas","Horne",NULL,NULL,NULL
+ "2742",NULL,"Nicolas","Parkenson",NULL,NULL,NULL
+ "2743",NULL,"Nicolas","Winand",NULL,NULL,NULL
+ "2745",NULL,"Noah","Jarvis",NULL,NULL,NULL
+ "2746",NULL,NULL,"Adomson",NULL,NULL,NULL
+ "2747",NULL,NULL,"Aliaga",NULL,NULL,NULL
+ "2749",NULL,NULL,"Baldwin",NULL,NULL,NULL
+ "2753",NULL,NULL,"Blount",NULL,NULL,NULL
+ "2754",NULL,NULL,"Brindle",NULL,NULL,NULL
+ "2756",NULL,NULL,"Carew",NULL,NULL,NULL
+ "2757",NULL,NULL,"Chevers",NULL,NULL,NULL
+ "2758",NULL,NULL,"Clarke",NULL,NULL,NULL
+ "2759",NULL,NULL,"Clifton",NULL,NULL,NULL
+ "2760",NULL,NULL,"Codrington",NULL,NULL,NULL
+ "2761",NULL,NULL,"Cole",NULL,NULL,NULL
+ "2764",NULL,NULL,"Cotton",NULL,NULL,NULL
+ "2765",NULL,NULL,"Dracut",NULL,NULL,NULL
+ "2766",NULL,NULL,"Ellerker",NULL,NULL,NULL
+ "2767",NULL,NULL,"Eston",NULL,NULL,NULL
+ "2768",NULL,NULL,"Fargisson",NULL,"soldier",NULL
+ "2769",NULL,NULL,"Farmer",NULL,NULL,NULL
+ "2770",NULL,NULL,"Fleming",NULL,NULL,NULL
+ "2773",NULL,NULL,"Godfrey",NULL,"Cath",NULL
+ "2775",NULL,NULL,"Halford",NULL,NULL,NULL
+ "2776",NULL,NULL,"Hamcot",NULL,NULL,NULL
+ "2777",NULL,NULL,"Harris",NULL,NULL,NULL
+ "2778",NULL,NULL,"Harting",NULL,NULL,NULL
+ "2779",NULL,NULL,"Hesketh",NULL,NULL,NULL
+ "2781",NULL,NULL,"Heynes",NULL,NULL,NULL
+ "2782",NULL,NULL,"Holby",NULL,NULL,NULL
+ "2783",NULL,NULL,"Holland",NULL,NULL,NULL
+ "2784",NULL,NULL,"Hoole",NULL,NULL,NULL
+ "2786",NULL,NULL,"Huggonson",NULL,"Quaker",NULL
+ "2787",NULL,NULL,"Jennings",NULL,NULL,NULL
+ "2789",NULL,NULL,"Johnson",NULL,NULL,NULL
+ "2790",NULL,NULL,"Jump",NULL,"yeoman",NULL
+ "2791",NULL,NULL,"Langley",NULL,"Cath",NULL
+ "2793",NULL,NULL,"Lumbos","Francis",NULL,NULL
+ "2794",NULL,NULL,"Mullins",NULL,NULL,NULL
+ "2795",NULL,NULL,"Newbegin",NULL,NULL,NULL
+ "2797",NULL,NULL,NULL,"Lord Trimleston",NULL,NULL
+ "2799",NULL,NULL,NULL,NULL,"Cath",NULL
+ "2802",NULL,NULL,NULL,NULL,NULL,NULL
+ "2804",NULL,NULL,NULL,NULL,NULL,NULL
+ "2806",NULL,NULL,NULL,NULL,NULL,NULL
+ "2807",NULL,NULL,NULL,NULL,NULL,NULL
+ "2808",NULL,NULL,NULL,NULL,NULL,NULL
+ "2810",NULL,NULL,NULL,NULL,NULL,NULL
+ "2811",NULL,NULL,NULL,NULL,NULL,NULL
+ "2812",NULL,NULL,NULL,NULL,NULL,NULL
+ "2814",NULL,NULL,NULL,NULL,"Quaker",NULL
+ "2816",NULL,NULL,NULL,NULL,"convert",NULL
+ "2817",NULL,NULL,"Paston",NULL,"Cath ",NULL
+ "2818",NULL,NULL,"Penrice",NULL,NULL,NULL
+ "2820",NULL,NULL,"Radcliffe",NULL,NULL,NULL
+ "2822",NULL,NULL,"Sayer",NULL,NULL,NULL
+ "2823",NULL,NULL,"Scudamore",NULL,NULL,NULL
+ "2824",NULL,NULL,"Sentiment",NULL,NULL,NULL
+ "2825",NULL,NULL,"Sharpley",NULL,NULL,NULL
+ "2826",NULL,NULL,"Thirwall",NULL,NULL,NULL
+ "2827",NULL,NULL,"Tristram",NULL,"yeoman",NULL
+ "2830",NULL,NULL,"Wells",NULL,NULL,NULL
+ "2831",NULL,NULL,"Winsor",NULL,NULL,NULL
+ "2832",NULL,"Odilia","Merode, de",NULL,NULL,NULL
+ "2833",NULL,"Olive","Wyvill",NULL,NULL,NULL
+ "2834",NULL,"Olivia","Smith",NULL,NULL,NULL
+ "2835",NULL,"Olympia","Tufton",NULL,NULL,NULL
+ "2836",NULL,"Paschijne","Poorters",NULL,NULL,NULL
+ "2837",NULL,"Patrick","Arthur",NULL,NULL,NULL
+ "2838",NULL,"Patrick","Bryan",NULL,NULL,NULL
+ "2839",NULL,"Patrick","Fergus",NULL,NULL,NULL
+ "2840",NULL,"Paul","West",NULL,NULL,NULL
+ "2841",NULL,"Peeter","de Prost",NULL,NULL,NULL
+ "2843",NULL,"Penelope","Gage",NULL,NULL,NULL
+ "2844",NULL,"Penelope","Woolfe",NULL,NULL,NULL
+ "2845",NULL,"Perpetua","Norreys",NULL,NULL,NULL
+ "2846",NULL,"Peter","Arrowsmith",NULL,NULL,NULL
+ "2847",NULL,"Peter","Giffard","Esq",NULL,NULL
+ "2850",NULL,"Peter","Horis",NULL,NULL,NULL
+ "2851",NULL,"Peter","Lambrecht",NULL,NULL,NULL
+ "2852",NULL,"Peter","Maister, de",NULL,NULL,NULL
+ "2853",NULL,"Peter","Middleton","Esq",NULL,NULL
+ "2854",NULL,"Peter","Plowden","Esq",NULL,NULL
+ "2855",NULL,"Peter","Richardson",NULL,NULL,NULL
+ "2856",NULL,"Peter","Sarsfield",NULL,NULL,NULL
+ "2857",NULL,"Peter","Smith",NULL,NULL,NULL
+ "2858",NULL,"Peter","Smith",NULL,NULL,NULL
+ "2859",NULL,"Peter","Webb",NULL,NULL,NULL
+ "2860",NULL,"Peter","Wright",NULL,"martyr",NULL
+ "2861",NULL,"Petronilla ","Dewit",NULL,NULL,NULL
+ "2862",NULL,"Philip","Caryll","the younger esq",NULL,NULL
+ "2864",NULL,"Philip","Edelen","gent",NULL,NULL
+ "2865",NULL,"Philip","Green",NULL,NULL,NULL
+ "2866",NULL,"Philip","Hammerton","Esq",NULL,NULL
+ "2867",NULL,"Philip","Langdale","Esq",NULL,NULL
+ "2868",NULL,"Philip","Paris","Esq",NULL,NULL
+ "2869",NULL,"Philip","Thickness",NULL,NULL,NULL
+ "2870",NULL,"Philipe","Draycott",NULL,NULL,NULL
+ "2871",NULL,"Philippa","Fitzwilliam",NULL,NULL,NULL
+ "2873",NULL,"Philippa","Gage",NULL,NULL,NULL
+ "2874",NULL,"Philippa","Helmston",NULL,NULL,NULL
+ "2875",NULL,"Philippa","Vivian",NULL,NULL,NULL
+ "2876",NULL,"Philippa","White",NULL,NULL,NULL
+ "2877",NULL,"Philippe","van Heymissen",NULL,NULL,NULL
+ "2880",NULL,"Pieter","Tillo",NULL,NULL,NULL
+ "2881",NULL,"Priscilla","Middlemore",NULL,NULL,NULL
+ "2882",NULL,"Prothesa","Sweet",NULL,NULL,NULL
+ "2883",NULL,"Rachel ","Prater",NULL,NULL,NULL
+ "2884",NULL,"Rachel","Betts",NULL,"Cath",NULL
+ "2885",NULL,"Rachel","Pottinger",NULL,NULL,NULL
+ "2888",NULL,"Rafe","Naler",NULL,NULL,NULL
+ "2889",NULL,"Ralph ","Pigott","Esq",NULL,NULL
+ "2890",NULL,"Ralph","Babthorpe","Esq",NULL,NULL
+ "2891",NULL,"Ralph","Brindle",NULL,NULL,NULL
+ "2892",NULL,"Ralph","Clavering ","Esq",NULL,NULL
+ "2894",NULL,"Ralph","Crathorne",NULL,NULL,NULL
+ "2895",NULL,"Ralph","Hatton",NULL,"Prot",NULL
+ "2896",NULL,"Ralph","Hodgson","Esq",NULL,NULL
+ "2898",NULL,"Ralph","Howard","Esq",NULL,NULL
+ "2899",NULL,"Ralph","Lingen",NULL,NULL,NULL
+ "2900",NULL,"Ralph","Millot","Esq",NULL,NULL
+ "2902",NULL,"Ralph","Salvin","Esq",NULL,NULL
+ "2903",NULL,"Ralph","Sheldon","Esq",NULL,NULL
+ "2904",NULL,"Ralph","Sulyard",NULL,NULL,NULL
+ "2905",NULL,"Ralph","Tompson",NULL,NULL,NULL
+ "2906",NULL,"Ralph","Widdrington ",NULL,NULL,NULL
+ "2907",NULL,"Ranald","McDonald",NULL,NULL,NULL
+ "2908",NULL,"Randal","Penswick",NULL,NULL,NULL
+ "2909",NULL,"Rebecca","Barrow",NULL,NULL,NULL
+ "2910",NULL,"Rebecca","Busby",NULL,NULL,NULL
+ "2911",NULL,"Reginald","Knatchbull","the younger",NULL,NULL
+ "2913",NULL,"Reginald","Knatchbull","Esq",NULL,NULL
+ "2914",NULL,"Reginald","Rows","Esq",NULL,NULL
+ "2915",NULL,"Rene","Mol, de","baron van Herent",NULL,NULL
+ "2916",NULL,"Rice","Price",NULL,NULL,NULL
+ "2917",NULL,"Richard","Atmore",NULL,NULL,NULL
+ "2918",NULL,"Richard","Baker",NULL,NULL,NULL
+ "2919",NULL,"Richard","Bishop","Esq",NULL,NULL
+ "2920",NULL,"Richard","Booth",NULL,"yeoman",NULL
+ "2921",NULL,"Richard","Boucher",NULL,NULL,NULL
+ "2922",NULL,"Richard","Butler","Esq",NULL,NULL
+ "2925",NULL,"Richard","Canning","Esq","Cath ",NULL
+ "2926",NULL,"Richard","Caryll",NULL,NULL,NULL
+ "2927",NULL,"Richard","Catesby",NULL,NULL,NULL
+ "2928",NULL,"Richard","Chenery",NULL,NULL,NULL
+ "2929",NULL,"Richard","Clifford",NULL,"prot",NULL
+ "2932",NULL,"Richard","Cotton","Esq",NULL,NULL
+ "2933",NULL,"Richard","East",NULL,NULL,NULL
+ "2935",NULL,"Richard","Elliott",NULL,NULL,NULL
+ "2936",NULL,"Richard","Farril",NULL,NULL,NULL
+ "2937",NULL,"Richard","Fenton",NULL,NULL,NULL
+ "2938",NULL,"Richard","Fitzpatrick",NULL,"Cath",NULL
+ "2940",NULL,"Richard","Giffard","Esq",NULL,NULL
+ "2941",NULL,"Richard","Gilbertson",NULL,NULL,NULL
+ "2942",NULL,"Richard","Greenburie",NULL,NULL,NULL
+ "2943",NULL,"Richard","Hansom",NULL,NULL,NULL
+ "2944",NULL,"Richard","Hargitt",NULL,NULL,NULL
+ "2946",NULL,"Richard","Hawkins",NULL,NULL,NULL
+ "2947",NULL,"Richard","Healy",NULL,NULL,NULL
+ "2948",NULL,"Richard","Heaton","Esq",NULL,NULL
+ "2949",NULL,"Richard","Hilton",NULL,NULL,NULL
+ "2950",NULL,"Richard","Huddleston ","Esq",NULL,NULL
+ "2952",NULL,"Richard","Hyde","Esq",NULL,NULL
+ "2953",NULL,"Richard","Jones",NULL,NULL,NULL
+ "2954",NULL,"Richard","Kirby",NULL,NULL,NULL
+ "2955",NULL,"Richard","Lamb","Esq",NULL,NULL
+ "2956",NULL,"Richard","Langley","Esq","Cath",NULL
+ "2957",NULL,"Richard","Latham",NULL,NULL,NULL
+ "2958",NULL,"Richard","Letes",NULL,NULL,NULL
+ "2959",NULL,"Richard","Major",NULL,NULL,NULL
+ "2960",NULL,"Richard","Mansfield","Esq",NULL,NULL
+ "2961",NULL,"Richard","Mare",NULL,NULL,NULL
+ "2962",NULL,"Richard","Massey",NULL,NULL,NULL
+ "2963",NULL,"Richard","Mawds",NULL,NULL,NULL
+ "2964",NULL,"Richard","Minshall",NULL,NULL,NULL
+ "2965",NULL,"Richard","Molyneux","Esq",NULL,NULL
+ "2966",NULL,"Richard","Moody",NULL,NULL,NULL
+ "2967",NULL,"Richard","Newton",NULL,NULL,NULL
+ "2968",NULL,"Richard","Norris",NULL,NULL,NULL
+ "2969",NULL,"Richard","Parr",NULL,NULL,NULL
+ "2970",NULL,"Richard","Pope",NULL,NULL,NULL
+ "2971",NULL,"Richard","Potts",NULL,NULL,NULL
+ "2972",NULL,"Richard","Rosen",NULL,NULL,NULL
+ "2973",NULL,"Richard","Shirburne",NULL,NULL,NULL
+ "2974",NULL,"Richard","Skelton",NULL,NULL,NULL
+ "2975",NULL,"Richard","Smith",NULL,NULL,NULL
+ "2977",NULL,"Richard","Stanley",NULL,NULL,NULL
+ "2978",NULL,"Richard","Tasburgh","Esq",NULL,NULL
+ "2979",NULL,"Richard","Thimelby",NULL,"Cath",NULL
+ "2980",NULL,"Richard","Thorold",NULL,NULL,NULL
+ "2981",NULL,"Richard","Towneley","Esq",NULL,NULL
+ "2982",NULL,"Richard","Tremaine",NULL,"Cath",NULL
+ "2984",NULL,"Richard","Vaughan","Esq",NULL,NULL
+ "2986",NULL,"Richard","Vyne",NULL,NULL,NULL
+ "2987",NULL,"Richard","Wakelin",NULL,NULL,NULL
+ "2988",NULL,"Richard","Wakeman","Esq",NULL,NULL
+ "2989",NULL,"Richard","Walmesley",NULL,NULL,NULL
+ "2990",NULL,"Richard","Watson","Esq",NULL,NULL
+ "2991",NULL,"Richard","West",NULL,NULL,NULL
+ "2992",NULL,"Richard","Weston ","Esq",NULL,NULL
+ "2993",NULL,"Richard","Worthington",NULL,NULL,NULL
+ "2994",NULL,"Robert ","Willson",NULL,NULL,NULL
+ "2995",NULL,"Robert","Allgood","gent",NULL,NULL
+ "2996",NULL,"Robert","Andrew","Esq",NULL,NULL
+ "2997",NULL,"Robert","Ball",NULL,NULL,NULL
+ "2998",NULL,"Robert","Bannister",NULL,NULL,NULL
+ "2999",NULL,"Robert","Barker",NULL,NULL,NULL
+ "3000",NULL,"Robert","Barker",NULL,NULL,NULL
+ "3001",NULL,"Robert","Beaumont","Esq",NULL,NULL
+ "3002",NULL,"Robert","Blundell ",NULL,NULL,NULL
+ "3003",NULL,"Robert","Blundell","Esq",NULL,NULL
+ "3004",NULL,"Robert","Bollens",NULL,NULL,NULL
+ "3006",NULL,"Robert","Breers","Esq",NULL,NULL
+ "3008",NULL,"Robert","Brent ","gent",NULL,NULL
+ "3010",NULL,"Robert","Burgess",NULL,NULL,NULL
+ "3011",NULL,"Robert","Bushell",NULL,NULL,NULL
+ "3012",NULL,"Robert","Caitsen",NULL,NULL,NULL
+ "3013",NULL,"Robert","Chichester",NULL,NULL,NULL
+ "3014",NULL,"Robert","Constable",NULL,NULL,NULL
+ "3015",NULL,"Robert","Cooper",NULL,NULL,NULL
+ "3016",NULL,"Robert","Copland","Esq",NULL,NULL
+ "3017",NULL,"Robert","Corham","Esq",NULL,NULL
+ "3018",NULL,"Robert","Crofts",NULL,NULL,NULL
+ "3019",NULL,"Robert","Dalton","Esq",NULL,NULL
+ "3021",NULL,"Robert","Dormer","Esq",NULL,NULL
+ "3024",NULL,"Robert","Downs","Esq",NULL,NULL
+ "3025",NULL,"Robert","Fothringham",NULL,NULL,NULL
+ "3026",NULL,"Robert","Gildon",NULL,NULL,NULL
+ "3027",NULL,"Robert","Gillow",NULL,"Cath",NULL
+ "3028",NULL,"Robert","Hancock","Esq",NULL,NULL
+ "3029",NULL,"Robert","Harper",NULL,NULL,NULL
+ "3030",NULL,"Robert","Houle",NULL,NULL,NULL
+ "3031",NULL,"Robert","Kelloway",NULL,NULL,NULL
+ "3032",NULL,"Robert","Kitchen",NULL,NULL,NULL
+ "3033",NULL,"Robert","Kitchin",NULL,NULL,NULL
+ "3034",NULL,"Robert","Latham",NULL,NULL,NULL
+ "3035",NULL,"Robert","Partington",NULL,NULL,NULL
+ "3036",NULL,"Robert","Pavie",NULL,NULL,NULL
+ "3037",NULL,"Robert","Pidgeon",NULL,NULL,NULL
+ "3038",NULL,"Robert","Plesington","Esq",NULL,NULL
+ "3039",NULL,"Robert","Plumpton","Esq",NULL,NULL
+ "3041",NULL,"Robert","Robberts","gent",NULL,NULL
+ "3042",NULL,"Robert","Rookwood",NULL,"Cath",NULL
+ "3043",NULL,"Robert","Scarisbrick","Esq",NULL,NULL
+ "3044",NULL,"Robert","Smith",NULL,NULL,NULL
+ "3045",NULL,"Robert","Strickland",NULL,NULL,NULL
+ "3046",NULL,"Robert","Thacker",NULL,NULL,NULL
+ "3047",NULL,"Robert","Wallis",NULL,NULL,NULL
+ "3048",NULL,"Robert","Widowfield",NULL,NULL,NULL
+ "3050",NULL,"Robert","Willoughby",NULL,NULL,NULL
+ "3051",NULL,"Robert","Winter","Esq",NULL,NULL
+ "3052",NULL,"Robert","Wolverston",NULL,NULL,NULL
+ "3053",NULL,"Roger","Anderton","Esq",NULL,NULL
+ "3054",NULL,"Roger","Ashton","Esq",NULL,NULL
+ "3055",NULL,"Roger","Bradshaigh","Esq",NULL,NULL
+ "3056",NULL,"Roger","Copley",NULL,NULL,NULL
+ "3057",NULL,"Roger","Fenwick","Esq",NULL,NULL
+ "3058",NULL,"Roger","Garnons",NULL,NULL,NULL
+ "3059",NULL,"Roger","Lawson","Esq",NULL,NULL
+ "3062",NULL,"Roger","Meynell","Esq",NULL,NULL
+ "3065",NULL,"Roger","Peck",NULL,NULL,NULL
+ "3067",NULL,"Roland","Eyre",NULL,NULL,NULL
+ "3068",NULL,"Roland","Watson","Esq",NULL,NULL
+ "3069",NULL,"Ronald","Macdonald","Esq",NULL,NULL
+ "3070",NULL,"Rose","Fitzgerald",NULL,NULL,NULL
+ "3071",NULL,"Rowland","Bartlett",NULL,NULL,NULL
+ "3072",NULL,"Rowland","Belasyse",NULL,NULL,NULL
+ "3074",NULL,"Rowland","Poole","Esq",NULL,NULL
+ "3076",NULL,"Rowland","Wilcox",NULL,NULL,NULL
+ "3077",NULL,"Rowland","Willcoke",NULL,NULL,NULL
+ "3078",NULL,"Sampson","Coyney",NULL,NULL,NULL
+ "3079",NULL,"Sampson","Ingleby",NULL,NULL,NULL
+ "3080",NULL,"Samson","Ingelbie",NULL,NULL,NULL
+ "3081",NULL,"Samson","Tremayne",NULL,"Cath",NULL
+ "3082",NULL,"Samuel ","King",NULL,NULL,NULL
+ "3083",NULL,"Samuel","Boswell",NULL,NULL,NULL
+ "3084",NULL,"Samuel","Frazier",NULL,"Prot",NULL
+ "3085",NULL,"Samuel","Merrick",NULL,NULL,NULL
+ "3087",NULL,"Samuel","Taunton","Esq",NULL,NULL
+ "3089",NULL,"Samuel","Webbe",NULL,"Cath",NULL
+ "3090",NULL,"Sara ","Hayes",NULL,"prot",NULL
+ "3091",NULL,"Sara","Bickerton",NULL,NULL,NULL
+ "3092",NULL,"Sara","Brown",NULL,NULL,NULL
+ "3093",NULL,"Sara","Griffen",NULL,NULL,NULL
+ "3094",NULL,"Sara","Griffine",NULL,NULL,NULL
+ "3095",NULL,"Sara","Robert",NULL,NULL,NULL
+ "3097",NULL,"Sara","Scriuuin",NULL,NULL,NULL
+ "3098",NULL,"Sara","Season",NULL,NULL,NULL
+ "3099",NULL,"Sara","Sheldon",NULL,NULL,NULL
+ "3100",NULL,"Sarah","Cooper",NULL,"cath",NULL
+ "3101",NULL,"Sarah","Fuller",NULL,NULL,NULL
+ "3102",NULL,"Sarah","Hancock",NULL,NULL,NULL
+ "3104",NULL,"Sarah","Makepeace",NULL,NULL,NULL
+ "3105",NULL,"Sarah","Morse",NULL,NULL,NULL
+ "3107",NULL,"Sarah","Roberts",NULL,NULL,NULL
+ "3108",NULL,"Sarah","Williams",NULL,NULL,NULL
+ "3109",NULL,"Scholastica","Plowden",NULL,NULL,NULL
+ "3110",NULL,"Sebastian","Barker","Esq",NULL,NULL
+ "3111",NULL,"Sebastian","Loveden","Esq",NULL,NULL
+ "3112",NULL,"Serah","Thomas",NULL,NULL,NULL
+ "3113",NULL,"Seth","Mort",NULL,NULL,NULL
+ "3114",NULL,"Sharington","Grosvenor",NULL,"prot",NULL
+ "3115",NULL,"Simon","Goffin",NULL,NULL,NULL
+ "3116",NULL,"Simon","Scrope",NULL,NULL,NULL
+ "3117",NULL,"Sophia","Pyser",NULL,NULL,NULL
+ "3118",NULL,"Stephen","Coseneau",NULL,NULL,NULL
+ "3119",NULL,"Stephen","Dillon",NULL,"Cath ",NULL
+ "3124",NULL,"Susan ","de Raue",NULL,NULL,NULL
+ "3125",NULL,"Susan","Blackwell",NULL,NULL,NULL
+ "3126",NULL,"Susan","Hyde",NULL,NULL,NULL
+ "3127",NULL,"Susan","Mastin",NULL,NULL,NULL
+ "3129",NULL,"Susan","Oglethorpe",NULL,NULL,NULL
+ "3130",NULL,"Susan","Plater",NULL,NULL,NULL
+ "3131",NULL,"Susan","Wilfoot",NULL,NULL,NULL
+ "3132",NULL,"Susan","Winchcombe",NULL,NULL,NULL
+ "3134",NULL,"Susan","Wiseman",NULL,NULL,NULL
+ "3135",NULL,"Susanna","Beswick",NULL,NULL,NULL
+ "3136",NULL,"Susanna","Craycroft",NULL,NULL,NULL
+ "3137",NULL,"Susanna","Daniel",NULL,NULL,NULL
+ "3138",NULL,"Susanna","Granet",NULL,"[Spanish]",NULL
+ "3140",NULL,"Susanna","Thorne",NULL,NULL,NULL
+ "3141",NULL,"Susanna","Vines",NULL,NULL,NULL
+ "3142",NULL,"Susannah","Clervet",NULL,NULL,NULL
+ "3143",NULL,"Susanne","Le Belle",NULL,NULL,NULL
+ "3144",NULL,"Susanne/Joanna","Hawkins",NULL,NULL,NULL
+ "3145",NULL,"Suzanna","Wyborne",NULL,NULL,NULL
+ "3146",NULL,"Tabitha","Godfroyd",NULL,NULL,NULL
+ "3147",NULL,"Teresa","Bowyer",NULL,NULL,NULL
+ "3149",NULL,"Teresa","Parry ",NULL,NULL,NULL
+ "3150",NULL,"Teresa","Roatsaert",NULL,NULL,NULL
+ "3152",NULL,"Theodorus","Roosendaell",NULL,NULL,NULL
+ "3153",NULL,"Theophilus","Melbourne",NULL,NULL,NULL
+ "3154",NULL,"Theophilus","Taylor",NULL,NULL,NULL
+ "3155",NULL,"Theresa","Vaughan",NULL,NULL,NULL
+ "3156",NULL,"Thomas ","Ascough",NULL,NULL,NULL
+ "3157",NULL,"Thomas ","Littlewood",NULL,NULL,NULL
+ "3160",NULL,"Thomas","Alcock","Esq",NULL,NULL
+ "3161",NULL,"Thomas","Altham",NULL,NULL,NULL
+ "3162",NULL,"Thomas","Appleby",NULL,NULL,NULL
+ "3163",NULL,"Thomas","Audley",NULL,NULL,NULL
+ "3164",NULL,"Thomas","Barber","Esq",NULL,NULL
+ "3165",NULL,"Thomas","Barrow","gent",NULL,NULL
+ "3166",NULL,"Thomas","Bedingfield",NULL,NULL,NULL
+ "3167",NULL,"Thomas","Beeston",NULL,NULL,NULL
+ "3168",NULL,"Thomas","Bend",NULL,NULL,NULL
+ "3169",NULL,"Thomas","Bennet",NULL,NULL,NULL
+ "3170",NULL,"Thomas","Berington",NULL,NULL,NULL
+ "3171",NULL,"Thomas","Berkeley","Esq",NULL,NULL
+ "3174",NULL,"Thomas","Birkbeck",NULL,NULL,NULL
+ "3176",NULL,"Thomas","Boddenham","Esq",NULL,NULL
+ "3177",NULL,"Thomas","Bodinham",NULL,NULL,NULL
+ "3178",NULL,"Thomas","Bond","Esq",NULL,NULL
+ "3179",NULL,"Thomas","Bowyer",NULL,NULL,NULL
+ "3180",NULL,"Thomas","Boyle",NULL,"Prot",NULL
+ "3181",NULL,"Thomas","Burton","Esq",NULL,NULL
+ "3184",NULL,"Thomas","Campion",NULL,NULL,NULL
+ "3185",NULL,"Thomas","Cansfield","Esq",NULL,NULL
+ "3186",NULL,"Thomas","Chadwick",NULL,NULL,NULL
+ "3187",NULL,"Thomas","Champion","Esq",NULL,NULL
+ "3188",NULL,"Thomas","Chetwyn ",NULL,NULL,NULL
+ "3189",NULL,"Thomas","Cholmeley","Esq",NULL,NULL
+ "3190",NULL,"Thomas","Clifton","Esq",NULL,NULL
+ "3193",NULL,"Thomas","Clifton","Esq",NULL,NULL
+ "3194",NULL,"Thomas","Clifton",NULL,NULL,NULL
+ "3196",NULL,"Thomas","Crathorne",NULL,NULL,NULL
+ "3198",NULL,"Thomas","Culcheth","Esq",NULL,NULL
+ "3199",NULL,"Thomas","Curry",NULL,NULL,NULL
+ "3200",NULL,"Thomas","Darell","Esq",NULL,NULL
+ "3201",NULL,"Thomas","Downs","Esq",NULL,NULL
+ "3202",NULL,"Thomas","Dwerihouse",NULL,"yeoman",NULL
+ "3203",NULL,"Thomas","Emery","Esq",NULL,NULL
+ "3205",NULL,"Thomas","Everleigh",NULL,NULL,NULL
+ "3207",NULL,"Thomas","Eyre",NULL,NULL,NULL
+ "3209",NULL,"Thomas","Eyston",NULL,NULL,NULL
+ "3210",NULL,"Thomas","Ferrers","Esq",NULL,NULL
+ "3212",NULL,"Thomas","Fitzgerald",NULL,NULL,NULL
+ "3213",NULL,"Thomas","Fitzherbert","Esq",NULL,NULL
+ "3215",NULL,"Thomas","Fitzherbert","Esq",NULL,NULL
+ "3217",NULL,"Thomas","Fletcher","Esq",NULL,NULL
+ "3218",NULL,"Thomas","Forster","Esq",NULL,NULL
+ "3219",NULL,"Thomas","Gabb alias Clayton","priest",NULL,NULL
+ "3220",NULL,"Thomas","Gabb",NULL,NULL,NULL
+ "3221",NULL,"Thomas","Gage",NULL,NULL,NULL
+ "3222",NULL,"Thomas","Gawen","Esq",NULL,NULL
+ "3223",NULL,"Thomas","Gawen",NULL,NULL,NULL
+ "3224",NULL,"Thomas","Gerard","Esq",NULL,NULL
+ "3226",NULL,"Thomas","Gifford","Esq",NULL,NULL
+ "3227",NULL,"Thomas","Gildridge","Esq",NULL,NULL
+ "3228",NULL,"Thomas","Gillebrand",NULL,NULL,NULL
+ "3229",NULL,"Thomas","Gillibrand",NULL,"Cath convert",NULL
+ "3230",NULL,"Thomas","Gore",NULL,"Cath",NULL
+ "3231",NULL,"Thomas","Gough","Esq",NULL,NULL
+ "3232",NULL,"Thomas","Greenwood","lawyer",NULL,NULL
+ "3233",NULL,"Thomas","Hackings",NULL,NULL,NULL
+ "3234",NULL,"Thomas","Halcott",NULL,NULL,NULL
+ "3235",NULL,"Thomas","Halford",NULL,NULL,NULL
+ "3236",NULL,"Thomas","Hall",NULL,NULL,NULL
+ "3237",NULL,"Thomas","Hamilton","Esq",NULL,NULL
+ "3238",NULL,"Thomas","Hardward",NULL,NULL,NULL
+ "3239",NULL,"Thomas","Harris",NULL,NULL,NULL
+ "3240",NULL,"Thomas","Hatton",NULL,NULL,NULL
+ "3241",NULL,"Thomas","Havers","Esq",NULL,NULL
+ "3242",NULL,"Thomas","Havers",NULL,NULL,NULL
+ "3243",NULL,"Thomas","Hesketh",NULL,NULL,NULL
+ "3244",NULL,"Thomas","Hills",NULL,NULL,NULL
+ "3245",NULL,"Thomas","Hobday",NULL,"Prot",NULL
+ "3246",NULL,"Thomas","Hodgson",NULL,NULL,NULL
+ "3247",NULL,"Thomas","Horbery",NULL,NULL,NULL
+ "3248",NULL,"Thomas","Hothersall","Esq",NULL,NULL
+ "3249",NULL,"Thomas","Howell",NULL,NULL,NULL
+ "3250",NULL,"Thomas","Howett","Esq",NULL,NULL
+ "3251",NULL,"Thomas","Ireland","Esq",NULL,NULL
+ "3253",NULL,"Thomas","James",NULL,NULL,NULL
+ "3254",NULL,"Thomas","Kempe","Esq",NULL,NULL
+ "3255",NULL,"Thomas","Knatchbull","Esq",NULL,NULL
+ "3257",NULL,"Thomas","Langhorne",NULL,NULL,NULL
+ "3258",NULL,"Thomas","Leckonby",NULL,NULL,NULL
+ "3259",NULL,"Thomas","Leyburne",NULL,NULL,NULL
+ "3260",NULL,"Thomas","Lonergan",NULL,NULL,NULL
+ "3261",NULL,"Thomas","Lopez de Ulloa",NULL,NULL,NULL
+ "3262",NULL,"Thomas","Loveden",NULL,NULL,NULL
+ "3263",NULL,"Thomas","Maire","Esq",NULL,NULL
+ "3264",NULL,"Thomas","Markham ","Esq",NULL,NULL
+ "3266",NULL,"Thomas","Matlock",NULL,"prot?",NULL
+ "3267",NULL,"Thomas","Meade",NULL,NULL,NULL
+ "3268",NULL,"Thomas","Mince",NULL,"Cath",NULL
+ "3269",NULL,"Thomas","Monington",NULL,NULL,NULL
+ "3270",NULL,"Thomas","Monson",NULL,NULL,NULL
+ "3271",NULL,"Thomas","Moore","Esq",NULL,NULL
+ "3272",NULL,"Thomas","Moore",NULL,NULL,NULL
+ "3273",NULL,"Thomas","Moore",NULL,NULL,NULL
+ "3276",NULL,"Thomas","Partington",NULL,NULL,NULL
+ "3277",NULL,"Thomas","Percy",NULL,NULL,NULL
+ "3278",NULL,"Thomas","Phillips",NULL,NULL,NULL
+ "3279",NULL,"Thomas","Plunkett",NULL,NULL,NULL
+ "3281",NULL,"Thomas","Pordage",NULL,NULL,NULL
+ "3282",NULL,"Thomas","Risdom","Esq",NULL,NULL
+ "3283",NULL,"Thomas","Roper",NULL,"Cath",NULL
+ "3284",NULL,"Thomas","Salkeld",NULL,NULL,NULL
+ "3285",NULL,"Thomas","Savage",NULL,NULL,NULL
+ "3286",NULL,"Thomas","Severn",NULL,NULL,NULL
+ "3287",NULL,"Thomas","Simeon Weld","Esq",NULL,NULL
+ "3288",NULL,"Thomas","Simeons Weld","Esq",NULL,NULL
+ "3289",NULL,"Thomas","Skrimshire","Esq",NULL,NULL
+ "3290",NULL,"Thomas","Sleforde",NULL,NULL,NULL
+ "3291",NULL,"Thomas","Smith","Esq",NULL,NULL
+ "3292",NULL,"Thomas","Smith",NULL,NULL,NULL
+ "3294",NULL,"Thomas","Smythe","Esq",NULL,NULL
+ "3296",NULL,"Thomas","Spalding",NULL,NULL,NULL
+ "3297",NULL,"Thomas","Standish","Esq",NULL,NULL
+ "3298",NULL,"Thomas","Stonor",NULL,"Cath",NULL
+ "3300",NULL,"Thomas","Stonor",NULL,NULL,NULL
+ "3301",NULL,"Thomas","Straffen",NULL,NULL,NULL
+ "3302",NULL,"Thomas","Tatlock",NULL,NULL,NULL
+ "3303",NULL,"Thomas","Tempest",NULL,NULL,NULL
+ "3305",NULL,"Thomas","Thorold",NULL,NULL,NULL
+ "3306",NULL,"Thomas","Throckmorton",NULL,NULL,NULL
+ "3307",NULL,"Thomas","Tildesley","Esq",NULL,NULL
+ "3309",NULL,"Thomas","Turner","Esq",NULL,NULL
+ "3311",NULL,"Thomas","Tyldesley",NULL,NULL,NULL
+ "3313",NULL,"Thomas","Walmesley",NULL,NULL,NULL
+ "3314",NULL,"Thomas","Walton",NULL,NULL,NULL
+ "3315",NULL,"Thomas","Warwick","Esq",NULL,NULL
+ "3316",NULL,"Thomas","Waterton","Esq",NULL,NULL
+ "3317",NULL,"Thomas","Webbe","Esq",NULL,NULL
+ "3318",NULL,"Thomas","Weld","Esq ","Cath",NULL
+ "3322",NULL,"Thomas","Whetenhall","Esq",NULL,NULL
+ "3324",NULL,"Thomas","Whitaker",NULL,NULL,NULL
+ "3325",NULL,"Thomas","Whittingham","Esq",NULL,NULL
+ "3326",NULL,"Thomas","Wilford","Esq","Cath",NULL
+ "3327",NULL,"Thomas","Willascote",NULL,NULL,NULL
+ "3328",NULL,"Thomas","Williamson",NULL,NULL,NULL
+ "3329",NULL,"Thomas","Willis",NULL,NULL,NULL
+ "3330",NULL,"Thomas","Wiseman","Esq","Cath ",NULL
+ "3332",NULL,"Thomas","Witham",NULL,NULL,NULL
+ "3333",NULL,"Thomas","Wollascott ",NULL,"Cath ",NULL
+ "3334",NULL,"Thomas","Wood","Esq",NULL,NULL
+ "3335",NULL,"Thomas","Woolrich",NULL,"prot",NULL
+ "3337",NULL,"Thomas","Worthington",NULL,NULL,NULL
+ "3338",NULL,"Thomas","Wray",NULL,NULL,NULL
+ "3339",NULL,"Thomas","Wright","Esq",NULL,NULL
+ "3340",NULL,"Thomas","Yates","Esq",NULL,NULL
+ "3342",NULL,"Thomasine","Ravenscroft",NULL,NULL,NULL
+ "3343",NULL,"Thurston","Cartwright",NULL,NULL,NULL
+ "3344",NULL,"Toby","Butler",NULL,NULL,NULL
+ "3346",NULL,"Triphena","Crook",NULL,NULL,NULL
+ "3347",NULL,"Troath","Bradshaigh",NULL,NULL,NULL
+ "3348",NULL,"Troth","Tempest",NULL,NULL,NULL
+ "3349",NULL,"Unitas","West",NULL,NULL,NULL
+ "3350",NULL,"Ursula","Chichester",NULL,NULL,NULL
+ "3351",NULL,"Ursula","Cholmeley",NULL,NULL,NULL
+ "3352",NULL,"Ursula","Clapton",NULL,NULL,NULL
+ "3353",NULL,"Ursula","Colford",NULL,NULL,NULL
+ "3354",NULL,"Ursula","Fermor",NULL,NULL,NULL
+ "3355",NULL,"Ursula","Giffard",NULL,NULL,NULL
+ "3358",NULL,"Ursula","Middleton",NULL,NULL,NULL
+ "3360",NULL,"Ursula","Nevill",NULL,NULL,NULL
+ "3363",NULL,"Ursula","Wright",NULL,NULL,NULL
+ "3365",NULL,"Valentine","Morgan",NULL,NULL,NULL
+ "3366",NULL,"Valentine","Sanders","Esq",NULL,NULL
+ "3367",NULL,"Vincent","Estienne",NULL,NULL,NULL
+ "3368",NULL,"Vincent","Knatchbull",NULL,NULL,NULL
+ "3369",NULL,"Walter","Aston","4th lord of Forfar",NULL,NULL
+ "3370",NULL,"Walter","Coleman",NULL,NULL,NULL
+ "3372",NULL,"Walter","Gifford","Esq",NULL,NULL
+ "3373",NULL,"Walter","Mildmay","Esq",NULL,NULL
+ "3374",NULL,"Walter","Pye",NULL,NULL,NULL
+ "3375",NULL,"William ","Bird",NULL,NULL,NULL
+ "3376",NULL,"William ","Busby","Esq",NULL,NULL
+ "3378",NULL,"William ","Poole","Esq",NULL,NULL
+ "3379",NULL,"William ","Scoles","Esq",NULL,NULL
+ "3380",NULL,"William","Acton","Esq",NULL,NULL
+ "3382",NULL,"William","Acton",NULL,NULL,NULL
+ "3383",NULL,"William","Adomson",NULL,NULL,NULL
+ "3384",NULL,"William","Anderton",NULL,NULL,NULL
+ "3385",NULL,"William","Ardern",NULL,NULL,NULL
+ "3386",NULL,"William","Bambridge",NULL,"Prot",NULL
+ "3387",NULL,"William","Barton",NULL,NULL,NULL
+ "3388",NULL,"William","Beatman",NULL,NULL,NULL
+ "3389",NULL,"William","Berington","Esq",NULL,NULL
+ "3390",NULL,"William","Berry",NULL,NULL,NULL
+ "3391",NULL,"William","Beswick",NULL,NULL,NULL
+ "3392",NULL,"William","Birnand","Esq",NULL,NULL
+ "3393",NULL,"William","Blacklock",NULL,NULL,NULL
+ "3394",NULL,"William","Blevin",NULL,NULL,NULL
+ "3396",NULL,"William","Blundell","Esq","Cath",NULL
+ "3400",NULL,"William","Bond","Esq",NULL,NULL
+ "3401",NULL,"William","Bond",NULL,NULL,NULL
+ "3402",NULL,"William","Brand",NULL,NULL,NULL
+ "3403",NULL,"William","Brent","Esq",NULL,NULL
+ "3405",NULL,"William","Buckiner",NULL,NULL,NULL
+ "3406",NULL,"William","Caley",NULL,NULL,NULL
+ "3409",NULL,"William","Claiton",NULL,NULL,NULL
+ "3410",NULL,"William","Clapton","Esq",NULL,NULL
+ "3413",NULL,"William","Cobbe",NULL,NULL,NULL
+ "3414",NULL,"William","Collingridge","Esq",NULL,NULL
+ "3415",NULL,"William","Copley",NULL,"Cath",NULL
+ "3417",NULL,"William","Coyney","MD",NULL,NULL
+ "3418",NULL,"William","Crane","Esq",NULL,NULL
+ "3419",NULL,"William","Crane",NULL,NULL,NULL
+ "3420",NULL,"William","Cuffaud","Esq",NULL,NULL
+ "3421",NULL,"William","Darcy",NULL,NULL,NULL
+ "3422",NULL,"William","Darell","Esq",NULL,NULL
+ "3423",NULL,"William","Darrell","SJ",NULL,NULL
+ "3424",NULL,"William","Delaval",NULL,NULL,NULL
+ "3425",NULL,"William","Digges","Esq",NULL,NULL
+ "3426",NULL,"William","Edesford",NULL,NULL,NULL
+ "3427",NULL,"William","Errington","Esq",NULL,NULL
+ "3428",NULL,"William","Eure","4th baron Eure",NULL,NULL
+ "3429",NULL,"William","Fabre",NULL,NULL,NULL
+ "3430",NULL,"William","Fermor","Esq",NULL,NULL
+ "3431",NULL,"William","Fisher",NULL,NULL,NULL
+ "3432",NULL,"William","Fitzherbert","Esq",NULL,NULL
+ "3434",NULL,"William","Foster",NULL,NULL,NULL
+ "3435",NULL,"William","Foxcroft","gent",NULL,NULL
+ "3436",NULL,"William","Frost",NULL,NULL,NULL
+ "3437",NULL,"William","Gargill",NULL,NULL,NULL
+ "3438",NULL,"William","Gerard",NULL,NULL,NULL
+ "3439",NULL,"William","Gladwin",NULL,"Prot",NULL
+ "3440",NULL,"William","Hagan",NULL,NULL,NULL
+ "3441",NULL,"William","Haggerston","Esq",NULL,NULL
+ "3443",NULL,"William","Hart",NULL,NULL,NULL
+ "3444",NULL,"William","Heath",NULL,NULL,NULL
+ "3445",NULL,"William","Henneage",NULL,NULL,NULL
+ "3447",NULL,"William","Hesketh","Esq",NULL,NULL
+ "3448",NULL,"William","Higginson",NULL,"prot",NULL
+ "3449",NULL,"William","Hockley",NULL,NULL,NULL
+ "3450",NULL,"William","Holman",NULL,NULL,NULL
+ "3451",NULL,"William","Howard","Esq",NULL,NULL
+ "3452",NULL,"William","Hull",NULL,NULL,NULL
+ "3453",NULL,"William","Hunter",NULL,NULL,NULL
+ "3454",NULL,"William","Hyde",NULL,NULL,NULL
+ "3455",NULL,"William","Ireland","Esq",NULL,NULL
+ "3457",NULL,"William","Iremonger",NULL,NULL,NULL
+ "3458",NULL,"William","Jackson",NULL,NULL,NULL
+ "3459",NULL,"William","Johnstone",NULL,NULL,NULL
+ "3460",NULL,"William","Jonson",NULL,NULL,NULL
+ "3461",NULL,"William","Jump","Esq",NULL,NULL
+ "3462",NULL,"William","Kennion",NULL,NULL,NULL
+ "3464",NULL,"William","Latham",NULL,NULL,NULL
+ "3465",NULL,"William","Leckonby","Esq",NULL,NULL
+ "3466",NULL,"William","Lewis",NULL,NULL,NULL
+ "3467",NULL,"William","Mannock","Esq",NULL,NULL
+ "3468",NULL,"William","Massy",NULL,NULL,NULL
+ "3469",NULL,"William","Matthews",NULL,NULL,NULL
+ "3470",NULL,"William","Mawhood",NULL,"Cath ",NULL
+ "3471",NULL,"William","Maxwell",NULL,NULL,NULL
+ "3472",NULL,"William","Messenger",NULL,NULL,NULL
+ "3473",NULL,"William","Mollyns","Esq",NULL,NULL
+ "3474",NULL,"William","Molyneux",NULL,NULL,NULL
+ "3475",NULL,"William","Moody",NULL,NULL,NULL
+ "3477",NULL,"William","Morgan",NULL,NULL,NULL
+ "3478",NULL,"William","Morley","Esq",NULL,NULL
+ "3479",NULL,"William","Neale",NULL,NULL,NULL
+ "3480",NULL,"William","Parker","Lord Morley and Monteagle","Prot",NULL
+ "3481",NULL,"William","Pashley",NULL,NULL,NULL
+ "3482",NULL,"William","Pease",NULL,"convert",NULL
+ "3483",NULL,"William","Petre","Esq",NULL,NULL
+ "3485",NULL,"William","Petre",NULL,NULL,NULL
+ "3486",NULL,"William","Petty Chalk",NULL,NULL,NULL
+ "3487",NULL,"William","Plowden","Esq",NULL,NULL
+ "3489",NULL,"William","Poulton",NULL,NULL,NULL
+ "3490",NULL,"William","Pounde",NULL,NULL,NULL
+ "3492",NULL,"William","Proger","Esq",NULL,NULL
+ "3493",NULL,"William","Sanders",NULL,NULL,NULL
+ "3494",NULL,"William","Sanderson",NULL,NULL,NULL
+ "3495",NULL,"William","Sarsfield",NULL,NULL,NULL
+ "3496",NULL,"William","Scarisbrick","Esq",NULL,NULL
+ "3497",NULL,"William","Selby","esq",NULL,NULL
+ "3498",NULL,"William","Sheldon",NULL,NULL,NULL
+ "3499",NULL,"William","Sheldon",NULL,NULL,NULL
+ "3501",NULL,"William","Silvester",NULL,NULL,NULL
+ "3502",NULL,"William","Stanford","Esq",NULL,NULL
+ "3503",NULL,"William","Sunley",NULL,NULL,NULL
+ "3504",NULL,"William","Sykes","Esq",NULL,NULL
+ "3505",NULL,"William","Talbot",NULL,NULL,NULL
+ "3506",NULL,"William","Thirlwall","Esq",NULL,NULL
+ "3507",NULL,"William","Thompson",NULL,NULL,NULL
+ "3508",NULL,"William","Thorold",NULL,NULL,NULL
+ "3509",NULL,"William","Thwaites","Esq",NULL,NULL
+ "3510",NULL,"William","Tichborne",NULL,NULL,NULL
+ "3511",NULL,"William","Tunstall","Esq",NULL,NULL
+ "3514",NULL,"William","Turville","Esq",NULL,NULL
+ "3515",NULL,"William","Upton",NULL,NULL,NULL
+ "3517",NULL,"William","Vavasour","Esq",NULL,NULL
+ "3518",NULL,"William","Wall",NULL,NULL,NULL
+ "3519",NULL,"William","Walsh",NULL,"Cath",NULL
+ "3520",NULL,"William","Walton","Esq",NULL,NULL
+ "3521",NULL,"William","Warren","gent",NULL,NULL
+ "3522",NULL,"William","Watkinson",NULL,NULL,NULL
+ "3523",NULL,"William","Watton",NULL,NULL,NULL
+ "3526",NULL,"William","Widdrington","3rd Baron",NULL,NULL
+ "3527",NULL,"William","Widdrington","4th baron Widdrington",NULL,NULL
+ "3531",NULL,"William","Wilson","Esq",NULL,NULL
+ "3532",NULL,"William","Witham",NULL,NULL,NULL
+ "3533",NULL,"William","Wood",NULL,"Cath",NULL
+ "3534",NULL,"William","Yates",NULL,NULL,NULL
+ "3535",NULL,"William?","Tempest",NULL,NULL,NULL
+ "3536",NULL,"Wilstrapp","Redman",NULL,NULL,NULL
+ "3537",NULL,"Winefred","Berington",NULL,NULL,NULL
+ "3539",NULL,"Winefrid","Dewar",NULL,NULL,NULL
+ "3540",NULL,"Winefrid","Digby",NULL,NULL,NULL
+ "3541",NULL,"Winefrid","Hille",NULL,NULL,NULL
+ "3542",NULL,"Winefrid","Howard",NULL,NULL,NULL
+ "3543",NULL,"Winefrid","Lewis",NULL,NULL,NULL
+ "3544",NULL,"Winefrid","Morgan",NULL,NULL,NULL
+ "3545",NULL,"Winefrid","Shelly",NULL,NULL,NULL
+ "3546",NULL,"Winefrid","Tarleton",NULL,NULL,NULL
+ "3547",NULL,"Winifred","Brooksby",NULL,NULL,NULL
+ "3548",NULL,"Winifred","Hornyold",NULL,NULL,NULL
+ "3549",NULL,"Winifred","Roper",NULL,NULL,NULL
+ "3550",NULL,"Winifred","Taylor",NULL,NULL,NULL
+ "3551",NULL,"Winifred","Wells",NULL,NULL,NULL
+ "3552",NULL,"Winifrid","Morgan",NULL,NULL,NULL
+ "3553",NULL,"Winifride","Fitzherbert",NULL,NULL,NULL
+ "3555",NULL,"Winifride","White ",NULL,NULL,NULL
+ "3557","Prior","Laurence","Appleton","OSB",NULL,NULL
+ "3559","Rev","Ambrose","Corby","SJ",NULL,NULL
+ "3560","Rev","Andrew","Edwards",NULL,NULL,NULL
+ "3561","Rev","Andrew","Poulton","SJ",NULL,NULL
+ "3562","Rev","Baptist Edward","Newton","SJ",NULL,NULL
+ "3563","Rev","Bartholomew","Forster alias Darcy","SJ",NULL,NULL
+ "3564","Rev","Christopher","Conyers","SJ",NULL,NULL
+ "3565","Rev","Edward","Astlow","SJ",NULL,NULL
+ "3566","Rev","Edward","Booth",NULL,NULL,NULL
+ "3567","Rev","Edward","Nihill","SJ",NULL,NULL
+ "3568","Rev","Elizaeus","Heywood","SJ",NULL,NULL
+ "3569","Rev","Ferdinand","Poulton","SJ",NULL,NULL
+ "3570","Rev","Francis","Anderton","SJ",NULL,NULL
+ "3571","Rev","Francis","Hawkins","SJ",NULL,NULL
+ "3573","Rev","Francis","Thomson alias Yates","SJ",NULL,NULL
+ "3574","Rev","Francis","Victor",NULL,NULL,NULL
+ "3575","Rev","George Leo","Haydock",NULL,"biblical studies",NULL
+ "3576","Rev","Gilbert","Talbot","SJ",NULL,NULL
+ "3577","Rev","Henry","Browne",NULL,NULL,NULL
+ "3578","Rev","Henry","Garnet","SJ",NULL,NULL
+ "3579","Rev","Henry","Hawkins","SJ",NULL,NULL
+ "3580","Rev","Henry","Maire",NULL,NULL,NULL
+ "3582","Rev","James","Anderton","SJ",NULL,NULL
+ "3583","Rev","James","Clifton","SJ",NULL,NULL
+ "3584","Rev","James","Haydock",NULL,NULL,NULL
+ "3585","Rev","Jaspar","Heywood","SJ",NULL,NULL
+ "3586","Rev","John Norton","Knatchbull","SJ",NULL,NULL
+ "3587","Rev","John","Barrow",NULL,NULL,NULL
+ "3588","Rev","John","Heaton","SJ",NULL,NULL
+ "3589","Rev","John","Hesketh",NULL,NULL,NULL
+ "3590","Rev","John","Newlin",NULL,"Prot",NULL
+ "3591","Rev","John","Smythe alias Carrington","SJ",NULL,NULL
+ "3592","Rev","John","Vavasour","SJ",NULL,NULL
+ "3593","Rev","Joseph","Forster","SJ",NULL,NULL
+ "3594","Rev","Joseph","Semmes","SJ",NULL,NULL
+ "3595","Rev","Lawrence","Standish","SJ",NULL,NULL
+ "3596","Rev","Leonard","Conyers","SJ",NULL,NULL
+ "3597","Rev","Michael","Forster alias Gulick","SJ",NULL,NULL
+ "3598","Rev","Nicholas","Blundell","SJ",NULL,NULL
+ "3599","Rev","Peter","Maire","SJ",NULL,NULL
+ "3600","Rev","Ralph","Babthorpe","SJ",NULL,NULL
+ "3602","Rev","Ralph","Corby","SJ","martyr",NULL
+ "3603","Rev","Ralph","Crathorne",NULL,NULL,NULL
+ "3604","Rev","Richard","Babthorpe","SJ",NULL,NULL
+ "3605","Rev","Richard","Barton vere Bradshaigh","SJ",NULL,NULL
+ "3606","Rev","Richard","Wigmore","SJ",NULL,NULL
+ "3608","Rev","Robert","Corby","SJ",NULL,NULL
+ "3609","Rev","Robert","Forster alias Wilson","SJ",NULL,NULL
+ "3610","Rev","Robert","Persons","SJ",NULL,NULL
+ "3611","Rev","Robert","Wigmore","SJ",NULL,NULL
+ "3612","Rev","Roger","Hesketh","DD","Vice President, Lisbon College",NULL
+ "3613","Rev","Thomas","Babthorpe","SJ",NULL,NULL
+ "3614","Rev","Thomas","Blundell","SJ",NULL,NULL
+ "3615","Rev","Thomas","Clifton","SJ",NULL,NULL
+ "3616","Rev","Thomas","Conyers","SJ",NULL,NULL
+ "3617","Rev","Thomas","Copley","SJ",NULL,NULL
+ "3618","Rev","Thomas","Eccleston","SJ",NULL,NULL
+ "3619","Rev","Thomas","Garnet","SJ",NULL,NULL
+ "3620","Rev","Thomas","More","SJ",NULL,NULL
+ "3621","Rev","Thomas","Phillips",NULL,"Jesuit",NULL
+ "3622","Rev","Thomas","Poulton","SJ",NULL,NULL
+ "3623","Rev","Thomas","Waterton","SJ",NULL,NULL
+ "3624","Rev","William","Crathorne",NULL,NULL,NULL
+ "3625","Rev","William","Newton","SJ",NULL,NULL
+ "3627","Right Hon","Charles","Dormer","5th Lord",NULL,NULL
+ "3628","Right Hon","George Henry","Lee","earl of Lichfield",NULL,NULL
+ "3629","Right Hon","George","Talbot","13th earl of Shrewsbury",NULL,NULL
+ "3630","Right Hon","John","Dormer","7th lord",NULL,NULL
+ "3632","Rt Hon","William","Stourton","16th Lord",NULL,NULL
+ "3633","Sir ","Alexander","Hamilton ",NULL,NULL,NULL
+ "3634","Sir ","John","Webbe ","1st bart",NULL,NULL
+ "3636","Sir ","Robert","Howard",NULL,NULL,NULL
+ "3637","Sir","Adrian","Scrope",NULL,NULL,NULL
+ "3639","Sir","Alexander","Hamilton",NULL,NULL,NULL
+ "3640","Sir","Alexander","McLeane",NULL,NULL,NULL
+ "3641","Sir","Andrew","White","bart",NULL,NULL
+ "3642","Sir","Anthony","Browne","2nd viscount Montagu",NULL,NULL
+ "3643","Sir","Anthony","Buggs","knt",NULL,NULL
+ "3644","Sir","Anthony","Cary",NULL,NULL,NULL
+ "3645","Sir","Aston","Cokayne",NULL,NULL,NULL
+ "3646","Sir","Baldwin","Conyers","4th bart ",NULL,NULL
+ "3648","Sir","Basil","Brooke ",NULL,NULL,NULL
+ "3650","Sir","Carnaby","Haggerston","3rd bart",NULL,NULL
+ "3651","Sir","Charles","Anderton","2nd bart",NULL,NULL
+ "3652","Sir","Charles","Blount",NULL,NULL,NULL
+ "3653","Sir","Charles","Dallison",NULL,NULL,NULL
+ "3655","Sir","Charles","Ingleby","knt",NULL,NULL
+ "3656","Sir","Charles","Shelley","2nd bart ",NULL,NULL
+ "3657","Sir","Charles","Smith","1st viscount Carington",NULL,NULL
+ "3664","Sir","Cuthbert","Clifton",NULL,NULL,NULL
+ "3665","Sir","Daniel","Arthur",NULL,NULL,NULL
+ "3666","Sir","David","Nairne","Jacobite 1st bart","convert",NULL
+ "3668","Sir","Edmund","Thorold",NULL,NULL,NULL
+ "3669","Sir","Edward ","Fortescue",NULL,NULL,NULL
+ "3671","Sir","Edward","Brumfield",NULL,"Cath",NULL
+ "3672","Sir","Edward","Greene","bart",NULL,NULL
+ "3674","Sir","Edward","Hales","3rd bart and Jacobite 1st earl of Tenterden","convert",NULL
+ "3675","Sir","Edward","Hales",NULL,NULL,NULL
+ "3676","Sir","Edward","Herbert",NULL,NULL,NULL
+ "3677","Sir","Edward","Longueville","bart",NULL,NULL
+ "3679","Sir","Edward","Morgan","bart",NULL,NULL
+ "3680","Sir","Edward","Mostyn","Bart",NULL,NULL
+ "3682","Sir","Edward","Perkins",NULL,NULL,NULL
+ "3684","Sir","Edward","Radcliffe","2nd bart",NULL,NULL
+ "3685","Sir","Edward","Widdrington","1st bart",NULL,NULL
+ "3686","Sir","Edward","Widdrington","bart",NULL,NULL
+ "3687","Sir","Edward","Winter",NULL,"Cath",NULL
+ "3688","Sir","Everard","Digby",NULL,NULL,NULL
+ "3689","Sir","Francis ","Mannock","4th bart",NULL,NULL
+ "3690","Sir","Francis","Arthur",NULL,NULL,NULL
+ "3691","Sir","Francis","Crathorne",NULL,NULL,NULL
+ "3693","Sir","Francis","Curson",NULL,NULL,NULL
+ "3694","Sir","Francis","Englefield","bart",NULL,NULL
+ "3695","Sir","Francis","Fortescue",NULL,NULL,NULL
+ "3696","Sir","Francis","Hungate","2nd bart",NULL,NULL
+ "3699","Sir","Francis","Jerningham ","3rd bart ",NULL,NULL
+ "3701","Sir","Francis","Mannock","2nd bart",NULL,NULL
+ "3706","Sir","Francis","Petre",NULL,NULL,NULL
+ "3707","Sir","Francis","Radcliffe","1st bart",NULL,NULL
+ "3708","Sir","Francis","Smith",NULL,NULL,NULL
+ "3709","Sir","Francis","Throckmorton","2nd bart",NULL,NULL
+ "3710","Sir","Garret","Kemp",NULL,NULL,NULL
+ "3711","Sir","George","Browne",NULL,NULL,NULL
+ "3712","Sir","George","Browne",NULL,NULL,NULL
+ "3713","Sir","George","Cary",NULL,NULL,NULL
+ "3714","Sir","George","Chalmers",NULL,NULL,NULL
+ "3715","Sir","George","Cotton",NULL,NULL,NULL
+ "3716","Sir","George","Heneage",NULL,NULL,NULL
+ "3717","Sir","George","Palmes ",NULL,NULL,NULL
+ "3719","Sir","George","Perkins",NULL,"Protestant",NULL
+ "3721","Sir","George","Selby",NULL,NULL,NULL
+ "3722","Sir","George","Simeons",NULL,NULL,NULL
+ "3723","Sir","Gerard","Kempe",NULL,NULL,NULL
+ "3724","Sir","Gilbert","Menzies",NULL,NULL,NULL
+ "3727","Sir","Henry","Appleton","2nd bart",NULL,NULL
+ "3728","Sir","Henry","Bedingfield","1st bart",NULL,NULL
+ "3729","Sir","Henry","Browne",NULL,NULL,NULL
+ "3730","Sir","Henry","Gifford","bart",NULL,NULL
+ "3731","Sir","Henry","Hunlock","1st bart ",NULL,NULL
+ "3732","Sir","Henry","Hunlocke","2nd bart",NULL,NULL
+ "3733","Sir","Henry","James","bart ","Cath",NULL
+ "3734","Sir","Henry","Lawson","4th bart",NULL,NULL
+ "3735","Sir","Henry","Moore","2nd bart",NULL,NULL
+ "3736","Sir","Henry","Nevill","9th lord Abergavenny",NULL,NULL
+ "3737","Sir","Henry","Petre",NULL,NULL,NULL
+ "3738","Sir","Henry","Tichbourne","bart",NULL,NULL
+ "3739","Sir","Henry","Waldegrave",NULL,NULL,NULL
+ "3740","Sir","Hugh","Smithson","3rd bart",NULL,NULL
+ "3743","Sir","Jack/Charles","Kavanagh",NULL,NULL,NULL
+ "3744","Sir","James","Phelips","2nd bart",NULL,NULL
+ "3746","Sir","John","Arundell",NULL,NULL,NULL
+ "3748","Sir","John","Beaumont",NULL,NULL,NULL
+ "3749","Sir","John","Berkeley","knt",NULL,NULL
+ "3750","Sir","John","Cox",NULL,NULL,NULL
+ "3751","Sir","John","Darrell",NULL,NULL,NULL
+ "3752","Sir","John","Fortescue","1st bart",NULL,NULL
+ "3753","Sir","John","Gascoigne","1st bart",NULL,NULL
+ "3755","Sir","John","Holland","bart, MP","Prot",NULL
+ "3756","Sir","John","Hunt",NULL,NULL,NULL
+ "3757","Sir","John","Lawson","1st bart",NULL,NULL
+ "3758","Sir","John","Lawson","3rd bart",NULL,NULL
+ "3759","Sir","John","Mostyn",NULL,NULL,NULL
+ "3761","Sir","John","Neville ",NULL,"Cath",NULL
+ "3762","Sir","John","Pershall","1st bart",NULL,NULL
+ "3763","Sir","John","Philpot",NULL,"Cath",NULL
+ "3764","Sir","John","Shelton",NULL,NULL,NULL
+ "3765","Sir","John","Sherley",NULL,"Prot ",NULL
+ "3768","Sir","John","Simons ",NULL,NULL,NULL
+ "3769","Sir","John","Skinner",NULL,"Prot",NULL
+ "3770","Sir","John","Stepney","4th bart",NULL,NULL
+ "3772","Sir","John","Swinburne","1st bart",NULL,NULL
+ "3774","Sir","John","Tasburgh",NULL,NULL,NULL
+ "3775","Sir","John","Tasburgh",NULL,"Prot",NULL
+ "3781","Sir","Joseph","Bulstrode","knt",NULL,NULL
+ "3782","Sir","Kenelm","Digby",NULL,NULL,NULL
+ "3783","Sir","Marmaduke","Constable","2nd bart",NULL,NULL
+ "3784","Sir","Nicholas","Tichborne",NULL,NULL,NULL
+ "3786","Sir","Paul","Neale",NULL,NULL,NULL
+ "3787","Sir","Peter","Browne",NULL,NULL,NULL
+ "3788","Sir","Peter","Middleton",NULL,NULL,NULL
+ "3789","Sir","Philip","Constable","1st bart",NULL,NULL
+ "3790","Sir","Philip","Knyvet",NULL,NULL,NULL
+ "3791","Sir","Philip","Palmer",NULL,NULL,NULL
+ "3792","Sir","Ralph","Babthorpe",NULL,NULL,NULL
+ "3793","Sir","Ralph","Banks",NULL,NULL,NULL
+ "3794","Sir","Ralph","Hansbie",NULL,NULL,NULL
+ "3796","Sir","Richard","Bulstrode",NULL,NULL,NULL
+ "3798","Sir","Richard","Coningsby",NULL,NULL,NULL
+ "3799","Sir","Richard","Fermor",NULL,"Cath",NULL
+ "3800","Sir","Richard","Fleetwood","1st bart",NULL,NULL
+ "3801","Sir","Richard","Fleetwood","3rd bart",NULL,NULL
+ "3802","Sir","Richard","Foster","1st bart",NULL,NULL
+ "3803","Sir","Richard","Lye",NULL,NULL,NULL
+ "3804","Sir","Richard","Weston","1st earl of Portland",NULL,NULL
+ "3805","Sir","Robert","Dolman",NULL,NULL,NULL
+ "3806","Sir","Robert","Gerard","9th bart",NULL,NULL
+ "3807","Sir","Robert","Lovell",NULL,NULL,NULL
+ "3809","Sir","Robert","Rookwood","knt",NULL,NULL
+ "3811","Sir","Robert","Thorold","bart",NULL,NULL
+ "3812","Sir","Robert","Throckmorton","3rd bart ",NULL,NULL
+ "3814","Sir","Robert","Throckmorton","4th bart",NULL,NULL
+ "3815","Sir","Roger","Bradshaigh","knt",NULL,NULL
+ "3816","Sir","Roger","Martyn",NULL,NULL,NULL
+ "3817","Sir","Roger","O'Connor",NULL,NULL,NULL
+ "3818","Sir","Rowland","Belasyse",NULL,NULL,NULL
+ "3819","Sir","Rowland","Stanley","bart",NULL,NULL
+ "3822","Sir","Theobold","Dillon","1st viscount Dillon",NULL,NULL
+ "3823","Sir","Thomas ","Tancred","4th bart of Boroughbridge",NULL,NULL
+ "3824","Sir","Thomas Windsor","Hunlocke","3rd bart",NULL,NULL
+ "3825","Sir","Thomas","Arundell","1st lord Wardour",NULL,NULL
+ "3826","Sir","Thomas","Clifford",NULL,NULL,NULL
+ "3830","Sir","Thomas","Dabridgecourt","bart",NULL,NULL
+ "3831","Sir","Thomas","Gage","2nd bart",NULL,NULL
+ "3833","Sir","Thomas","Gascoigne","2nd bart",NULL,NULL
+ "3835","Sir","Thomas","Gerard","2nd bart",NULL,NULL
+ "3836","Sir","Thomas","Hanmer","bart","prot",NULL
+ "3837","Sir","Thomas","Hawkins",NULL,NULL,NULL
+ "3838","Sir","Thomas","Knoles",NULL,NULL,NULL
+ "3839","Sir","Thomas","Leedes",NULL,NULL,NULL
+ "3840","Sir","Thomas","Markenfeld",NULL,"Exiled after 1569 Northern Uprising.",NULL
+ "3841","Sir","Thomas","Penruddocke",NULL,NULL,NULL
+ "3843","Sir","Thomas","Riddell","MP",NULL,NULL
+ "3844","Sir","Thomas","Savage","1st visc",NULL,NULL
+ "3846","Sir","Thomas","Tildesley",NULL,NULL,NULL
+ "3847","Sir","Thomas","Timperley","knt",NULL,NULL
+ "3848","Sir","Thomas","Tyldesley",NULL,NULL,NULL
+ "3850","Sir","Thomas","Vavasour","1st bart",NULL,NULL
+ "3851","Sir","Thomas","Williams","knt",NULL,NULL
+ "3852","Sir","Thomas","Wiseman",NULL,"Prot",NULL
+ "3853","Sir","Walter","Aston","1st Baron of Forfar","Prot",NULL
+ "3854","Sir","Walter","Aston","2nd lord Aston of Forfar",NULL,NULL
+ "3855","Sir","Walter","Leveson",NULL,NULL,NULL
+ "3856","Sir","Walter","Maurice",NULL,NULL,NULL
+ "3858","Sir","Walter","Tichborne",NULL,NULL,NULL
+ "3859","Sir","Walter","Tredway",NULL,NULL,NULL
+ "3860","Sir","William","Andrews",NULL,NULL,NULL
+ "3861","Sir","William","Babthorpe",NULL,NULL,NULL
+ "3862","Sir","William","Compton","bart",NULL,NULL
+ "3863","Sir","William","Fitzwilliams",NULL,NULL,NULL
+ "3864","Sir","William","Gage",NULL,"Prot",NULL
+ "3865","Sir","William","Gerard","4th bart",NULL,NULL
+ "3866","Sir","William","Gerard","5th bart",NULL,NULL
+ "3867","Sir","William","Gerard","6th bart",NULL,NULL
+ "3868","Sir","William","Howard ","viscount Stafford",NULL,NULL
+ "3870","Sir","William","Langdale",NULL,NULL,NULL
+ "3871","Sir","William","Mannock","3rd bart",NULL,NULL
+ "3872","Sir","William","Perkins",NULL,NULL,NULL
+ "3873","Sir","William","Persall",NULL,NULL,NULL
+ "3874","Sir","William","Stanley",NULL,NULL,NULL
+ "3877","Sir","William","Wiseman",NULL,NULL,NULL
+ "3878","Sir","William","Wray","1st bart of Ashby",NULL,NULL
+ "3879","Sir","[Thomas]","Pope",NULL,NULL,NULL
+ "3882",NULL,"Katherine","Sheldon",NULL,NULL,NULL
+ "3883",NULL,"Catherine","Ironmonger",NULL,NULL,NULL
+ "3885",NULL,"Anna","Culcheth",NULL,"Surname occurs as Kelchull in Dutch source",NULL
+ "3886","Hon.","Edward","Stourton",NULL,NULL,NULL
+ "3887",NULL,"Mary","Petre",NULL,NULL,NULL
+ "3888",NULL,"William","Howard",NULL,NULL,NULL
+ "3894",NULL,"John","Carbery",NULL,NULL,NULL
+ "3895",NULL,"Mary","Thomson",NULL,NULL,NULL
+ "3896",NULL,"Jacob","Furry",NULL,NULL,NULL
+ "3897",NULL,"William","Frasier",NULL,NULL,NULL
+ "3898",NULL,"Elisabeth","Fannen",NULL,NULL,NULL
+ "3899",NULL,"Henry","Hemsley",NULL,NULL,NULL
+ "3901",NULL,"John ","Johnson",NULL,NULL,NULL
+ "3902",NULL,"Anne","Levile",NULL,NULL,NULL
+ "3903",NULL,"Thomas","Mudd",NULL,NULL,NULL
+ "3904",NULL,"Benedict A","Price",NULL,NULL,NULL
+ "3905",NULL,"Ann","Wathen",NULL,NULL,NULL
+ "3906",NULL,"John ","Boarman",NULL,NULL,NULL
+ "3907",NULL,"Sarah","Neale",NULL,NULL,NULL
+ "3908",NULL,"Raphel","Boarman",NULL,NULL,NULL
+ "3909",NULL,"Dorothy","Smith",NULL,NULL,NULL
+ "3912",NULL,"Thomas","Hagan",NULL,NULL,NULL
+ "3918",NULL,"Elizabeth","Russell",NULL,NULL,NULL
+ "3919",NULL,"John","Hornyold",NULL,NULL,NULL
+ "3921",NULL,"Thomas","Hornyold",NULL,NULL,NULL
+ "3922",NULL,"Margaret","Gower",NULL,NULL,NULL
+ "3923",NULL,"Henry","Anderton",NULL,NULL,NULL
+ "3924",NULL,"Richard","Langhorn",NULL,NULL,NULL
+ "3925",NULL,"George","Talbot","earl of Shrewsbury",NULL,NULL
+ "3927",NULL,"William","More",NULL,NULL,NULL
+ "3929",NULL,"unknown","Jones",NULL,NULL,NULL
+ "3931",NULL,"Anne","Haydock",NULL,NULL,NULL
+ "3932",NULL,"George","Addis",NULL,NULL,NULL
+ "3933",NULL,"Elizabeth","Wiseman",NULL,NULL,NULL
+ "3934",NULL,"Ann","Barton",NULL,NULL,NULL
+ "3935",NULL,"Ann","Wheeler",NULL,NULL,NULL
+ "3936",NULL,"Anne","Barker",NULL,NULL,NULL
+ "3937",NULL,"Anne","Copley",NULL,NULL,NULL
+ "3940",NULL,"Catherine","Copland of London",NULL,NULL,NULL
+ "3941",NULL,"John","Wycke",NULL,NULL,NULL
+ "3942",NULL,"Catherine","Harris of London",NULL,NULL,NULL
+ "3944",NULL,"Barbara","Sanderson",NULL,NULL,NULL
+ "3945",NULL,"Bridget","Farrel",NULL,NULL,NULL
+ "3946",NULL,"Elisabeth","Hamilton",NULL,NULL,NULL
+ "3948","Dr","Edward","Astlow","Esq",NULL,NULL
+ "3949",NULL,"Elizabeth","Copley of Isle of Wight, Hants [CP]",NULL,NULL,NULL
+ "3950",NULL,"Elizabeth","Dillon",NULL,NULL,NULL
+ "3951",NULL,"Elizabeth","Green",NULL,NULL,NULL
+ "3952",NULL,"Elizabeth","Howell",NULL,NULL,NULL
+ "3953",NULL,"Elizabeth","Lingen",NULL,NULL,NULL
+ "3954",NULL,"Elizabeth","Hull",NULL,NULL,NULL
+ "3955",NULL,"Elizabeth","Hill",NULL,NULL,NULL
+ "3956",NULL,"Elizabeth","Waldergrave",NULL,NULL,NULL
+ "3957",NULL,"Frances","Loveden ",NULL,NULL,NULL
+ "3958",NULL,"Frances","Rows",NULL,NULL,NULL
+ "3959",NULL,"Helen","Formby",NULL,NULL,NULL
+ "3960",NULL,"Isabella","Augier",NULL,NULL,NULL
+ "3961",NULL,"Roland","Bartlet",NULL,NULL,NULL
+ "3962",NULL,"Mabelle","Goulding",NULL,NULL,NULL
+ "3963",NULL,"Joan","Russell",NULL,NULL,NULL
+ "3964",NULL,"Joan","Wright",NULL,NULL,NULL
+ "3965",NULL,"Lucy","Fergus",NULL,NULL,NULL
+ "3966",NULL,"Magdalen","Altham",NULL,NULL,NULL
+ "3967",NULL,"Magdalene","Metham",NULL,NULL,NULL
+ "3968",NULL,"Margaret","Widdrington",NULL,NULL,NULL
+ "3969",NULL,"Marie","Lauraine",NULL,NULL,NULL
+ "3970",NULL,"Martha","Tunstall",NULL,NULL,NULL
+ "3971",NULL,"Mary","Caryll",NULL,NULL,NULL
+ "3972",NULL,"Mary","Darell",NULL,NULL,NULL
+ "3973",NULL,"Mary","Reynoldson",NULL,NULL,NULL
+ "3974",NULL,"Mary","Rope, De",NULL,NULL,NULL
+ "3976",NULL,"Mary","Carnaby",NULL,NULL,NULL
+ "3977",NULL,"Mary","Cross",NULL,NULL,NULL
+ "3978",NULL,"Mary","Bowyer",NULL,NULL,NULL
+ "3979",NULL,"Mary","Latre, de",NULL,NULL,NULL
+ "3980",NULL,"John","Latre, de of London",NULL,NULL,NULL
+ "3981",NULL,"Mary","Hill",NULL,NULL,NULL
+ "3982",NULL,"Mary","Horbery",NULL,NULL,NULL
+ "3983",NULL,"Mary","Bambridge",NULL,NULL,NULL
+ "3984",NULL,"Mary","Hall",NULL,NULL,NULL
+ "3985",NULL,"Mary Alexia","Heath",NULL,NULL,NULL
+ "3986",NULL,"Nicollea Clare","Vaillier",NULL,NULL,NULL
+ "3987",NULL,"Sarah","Keynes",NULL,NULL,NULL
+ "3988",NULL,"Susan","Burrell",NULL,NULL,NULL
+ "3989",NULL,"Susan","Risdom",NULL,NULL,NULL
+ "3990",NULL,"Teresa","Boswell",NULL,NULL,NULL
+ "3991","Sir","Edward","Blount","4th bart",NULL,NULL
+ "3992",NULL,"Robert","Bullock",NULL,NULL,NULL
+ "3993",NULL,"Humfrey","Hyde",NULL,NULL,NULL
+ "3994",NULL,"Francis","Bedingfield","Esq",NULL,"II"
+ "3995",NULL,"Catherine","Cullen",NULL,NULL,NULL
+ "3996",NULL,"William","Brittain",NULL,NULL,NULL
+ "3997",NULL,"Elizabeth","Bullock",NULL,NULL,NULL
+ "3999",NULL,"Philip","Caryll","Esq",NULL,"I"
+ "4000",NULL,"William","Charlton","Esq",NULL,"I"
+ "4001",NULL,"Frances","Gargrave",NULL,NULL,NULL
+ "4002",NULL,"Stephen","Tempest","Esq",NULL,"II"
+ "4003",NULL,"Stephen","Tempest",NULL,NULL,"II"
+ "4004",NULL,"Stephen","Tempest",NULL,NULL,"III"
+ "4005","Sir","Stephen","Tempest",NULL,NULL,"V"
+ "4006","Sir","Stephen","Tempest",NULL,NULL,"I"
+ "4007",NULL,"Stephen","Tempest",NULL,NULL,"IV"
+ "4008",NULL,"Stephen","Tempest",NULL,NULL,"VI"
+ "4010",NULL,"William","Blundell",NULL,NULL,"I"
+ "4012",NULL,"William","Blundell","Esq",NULL,"II"
+ "4015",NULL,"Frances","Bedingfield",NULL,NULL,"II"
+ "4016",NULL,"John","Harris","gent",NULL,NULL
+ "4017","Lady","Elizabeth","Langdale",NULL,NULL,"I"
+ "4018","Lady","Elizabeth","Langdale",NULL,NULL,"II"
+ "4019",NULL,"Margaret","Smith",NULL,NULL,NULL
+ "4023",NULL,"Margaret","Scrope",NULL,NULL,NULL
+ "4024",NULL,"John","Messenger",NULL,NULL,NULL
+ "4025",NULL,"Richard","Butler",NULL,NULL,NULL
+ "4026",NULL,"Mary","Arundell",NULL,NULL,"I"
+ "4027","Mr","William","Berington",NULL,NULL,NULL
+ "4029",NULL,"Richard","Clough","Esq",NULL,"I"
+ "4030",NULL,"Richard","Clough","Esq",NULL,"III"
+ "4031",NULL,"Richard","Clough","Esq",NULL,"II"
+ "4033",NULL,"William","Blundell","Esq",NULL,"III"
+ "4034",NULL,"William","Blundel","Esq",NULL,"III"
+ "4035",NULL,"George","Addis",NULL,NULL,"I"
+ "4038",NULL,"Mary","Collins",NULL,"BB043",NULL
+ "4039",NULL,"Mary","Dormer",NULL,NULL,"I"
+ "4040",NULL,"Margaret ","Mostyn",NULL,"LC065",NULL
+ "4042",NULL,"Mary","Fitzjames",NULL,NULL,NULL
+ "4043",NULL,"Richard ","Gerard","Esq",NULL,"I"
+ "4044",NULL,"Trevor","Hanmer","convert","GP303",NULL
+ "4045","Mr",NULL,"Harris",NULL,NULL,NULL
+ "4046",NULL,"Richard","Harris",NULL,NULL,NULL
+ "4047",NULL,"Gilbert","Stapleton","Esq",NULL,NULL
+ "4049",NULL,"Francis","Trentham","Esq",NULL,NULL
+ "4050",NULL,"Francis","Tunstall",NULL,NULL,"II"
+ "4051",NULL,"William","Turville","Esq",NULL,"II"
+ "4052",NULL,"Mary","Walker",NULL,NULL,"II"
+ "4053",NULL,"Thomas","Walton",NULL,NULL,"II"
+ "4054","Mr","John","White",NULL,NULL,"II"
+ "4055",NULL,"Mary","White",NULL,NULL,"I"
+ "4056",NULL,"Mary","White",NULL,NULL,"II"
+ "4057",NULL,"Thomas","Worthington",NULL,NULL,"I"
+ "4058",NULL,"John","Wright","Esq",NULL,"I"
+ "4059","Mr",NULL,"Conyers",NULL,NULL,NULL
+ "4061",NULL,"William","Thompson",NULL,NULL,"I"
+ "4062",NULL,"Elizabeth","Marchale",NULL,NULL,NULL
+ "4063",NULL,"Thomas","Berkeley",NULL,NULL,"II"
+ "4064",NULL,"Mary","Bishop",NULL,NULL,"II"
+ "4065",NULL,"Mary","Brown",NULL,NULL,"II"
+ "4066",NULL,"Mary","Brooke",NULL,NULL,"II"
+ "4067",NULL,"Richard","Canning",NULL,NULL,"II"
+ "4068","Sir","Thomas","Clifton","bart",NULL,"I"
+ "4069","Mr ","John","Collins",NULL,NULL,"I"
+ "4070","Mr ","William","Darrell",NULL,NULL,"I"
+ "4071",NULL,"Henry","Huddleston ","Esq",NULL,"I"
+ "4072",NULL,"Edward","Knightley","Esq",NULL,"I"
+ "4073",NULL,"Henry","Hudlestone","Esq",NULL,"II"
+ "4074",NULL,"Roger","Meynell",NULL,NULL,"I"
+ "4075",NULL,"Roger","Meynell","Esq",NULL,"II"
+ "4076",NULL,"Thomas","Eyre","Esq",NULL,"I"
+ "4077",NULL,"Ursula","Giffard",NULL,NULL,"I"
+ "4078",NULL,"Francis","Purcell","Esq",NULL,NULL
+ "4079",NULL,"Elizabeth","Grimston",NULL,NULL,"I"
+ "4080","Lady","Elizabeth","Bedingfield",NULL,"BA094",NULL
+ "4081",NULL,"Anne","Holand",NULL,NULL,"I"
+ "4082",NULL,"Mary","Hyde",NULL,NULL,"I"
+ "4083",NULL,"William","Ireland",NULL,NULL,"I"
+ "4084",NULL,"John","Jenison","Esq",NULL,"I"
+ "4085",NULL,"William","Langdale","Esq",NULL,"I"
+ "4086","Mr",NULL,"Floyd",NULL,NULL,NULL
+ "4087","Captain","Godfrey ","Lloyd",NULL,NULL,NULL
+ "4088","Lady","Mary","Roper",NULL,"BB113",NULL
+ "4089",NULL,"Frances","More",NULL,NULL,NULL
+ "4090",NULL,"Thomas","Markham","Esq",NULL,"I"
+ "4091","Lord","William","Molyneux","4th viscount",NULL,NULL
+ "4092",NULL,"John ","More",NULL,NULL,NULL
+ "4093",NULL,"Frances","Thimelby",NULL,"LA260",NULL
+ "4094",NULL,"Thomas","More","Esq","I",NULL
+ "4095",NULL,"Thomas","More","Esq","II",NULL
+ "4096","Colonel","Thomas","Morgan",NULL,NULL,NULL
+ "4097",NULL,"Mary","Mostyn",NULL,NULL,"II"
+ "4098",NULL,"Mary","Neale",NULL,NULL,"II"
+ "4100",NULL,"Catherine","Butler",NULL,"GB180",NULL
+ "4101",NULL,"Francis","Plowden","Esq","I",NULL
+ "4102",NULL,"Francis","Plowden",NULL,"I",NULL
+ "4103",NULL,"Thomas","Pordage",NULL,NULL,"I"
+ "4104",NULL,"Ferdinand","Poulton","Esq",NULL,"III"
+ "4105",NULL,"Father","Poulton","Esq",NULL,"III"
+ "4106",NULL,"Ferdinand","Poulton","Esq",NULL,"II"
+ "4107",NULL,"Ferdinand","Poulton","Esq",NULL,"I"
+ "4108","Mr",NULL,"Richardson",NULL,NULL,NULL
+ "4109",NULL,"Isabella","Richardson","convert","GB052",NULL
+ "4110","Lord","Christopher","Roper","5th baron Teynham",NULL,NULL
+ "4111",NULL,"John","Russell",NULL,NULL,"I"
+ "4112",NULL,"Edward","Sheldon","Esq",NULL,"I"
+ "4113",NULL,"Elizabeth","Shelley",NULL,NULL,"I"
+ "4114",NULL,"Mary","Shelley",NULL,NULL,"I"
+ "4115",NULL,"Frances","Smith",NULL,NULL,"I"
+ "4116",NULL,"John","Smith",NULL,NULL,"I"
+ "4117",NULL,"Mary ","Jefferson",NULL,NULL,NULL
+ "4118",NULL,"Mary","Smith",NULL,NULL,"I"
+ "4119",NULL,"Mary","Smith",NULL,NULL,"II"
+ "4120",NULL,"Mary","Smith",NULL,NULL,"III"
+ "4121",NULL,"Richard","Smith",NULL,NULL,"I"
+ "4122","Lady","Anne","Somerset",NULL,NULL,"I"
+ "4123",NULL,"Henry","Somerset","count of the Empire",NULL,NULL
+ "4124","Mr","George","Greene",NULL,NULL,NULL
+ "4125",NULL,"Mary ","Throckmorton",NULL,NULL,"I"
+ "4126",NULL,"Mary","Throckmorton",NULL,NULL,"II"
+ "4127",NULL,"Mary","Throckmorton",NULL,NULL,"III"
+ "4128",NULL,"John","Trafford","Esq",NULL,"II"
+ "4129",NULL,"John","Trafford","Esq",NULL,"I"
+ "4131","Sir ","John ","Warner",NULL,"convert","I"
+ "4132",NULL,"Thomas","Westby","Esq",NULL,"I"
+ "4134",NULL,"Thomas","Westby","Esq",NULL,"III"
+ "4135",NULL,"Thomas","Westby","Esq",NULL,"II"
+ "4136",NULL,"Edward ","Widdrington",NULL,NULL,"I"
+ "4137",NULL,"William","Widdrington","2nd lord","convert",NULL
+ "4138",NULL,"Elizabeth","Bertie",NULL,"convert",NULL
+ "4139",NULL,"John","Wigmore","Esq",NULL,"I"
+ "4140","Sir","William","Wigmore",NULL,NULL,NULL
+ "4141",NULL,"Robert","Wigmore","Esq",NULL,"I"
+ "4142","Sir","John","Simeon",NULL,NULL,NULL
+ "4143",NULL,"John","Browne",NULL,NULL,NULL
+ "4145","Mr","John","Prince",NULL,NULL,NULL
+ "4147","Mr",NULL,"Beswick",NULL,NULL,NULL
+ "4148",NULL,"Jean-Baptiste","Gravez",NULL,NULL,NULL
+ "4149",NULL,"Marie Madeleine","Leclercq",NULL,NULL,NULL
+ "4150","Mr ","Edward","Webbe",NULL,NULL,NULL
+ "4151",NULL,"Mary","Bredall",NULL,NULL,NULL
+ "4152",NULL,"Ãdie","Stafferton",NULL,NULL,NULL
+ "4153",NULL,"William","Fletcher",NULL,NULL,NULL
+ "4154",NULL,"Richard","Whitbred",NULL,NULL,NULL
+ "4155",NULL,"Anthony ","Roper",NULL,NULL,NULL
+ "4156",NULL,"Dorothy ","Holt",NULL,NULL,NULL
+ "4157",NULL,"Alice","Moore",NULL,NULL,NULL
+ "4158",NULL,"Robert","Blythe",NULL,NULL,NULL
+ "4159",NULL,"Mary","Witham",NULL,NULL,NULL
+ "4160","Mr ","John","Threlfall",NULL,NULL,NULL
+ "4161","","Edward","Ironside","","",""
+ "4163","","Jane","Howe","","Farthington, Surrey",""
+ "4166","Mr","","Saunders","gentleman","",""
+ "4169","","John","Yate","Esq","",""
+ "4171","","Mary","Browne","","",""
+ 
